@@ -1,11 +1,13 @@
 {
   "as_of": "2026-10-02 close",
-  "brent": 102.70,
+  "brent": 102.25,
   "wti": 91.11,
   "henry_hub": 3.04,
-  "us_diesel_retail": 6.50,
+  "us_diesel_retail": 6.382,
+  "us_diesel_retail_as_of": "2026-09-28 (EIA weekly)",
   "sp500": 7722.72,
   "us10y": 5.28,
   "gold": 4140.19,
-  "dxy": 101.90
+  "gold_note": "Trading Economics; USAGold quoted spot ~4192 on Oct 2 (conflict unresolved)",
+  "dxy": 101.93
 }
