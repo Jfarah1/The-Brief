@@ -1,13 +1,12 @@
 {
-  "as_of": "2026-10-02 close",
+  "as_of": "2026-10-02 close (no US session since; Mon Oct 5 early Brent quotes $101.31-$103.06, Murban ~$110.80)",
   "brent": 102.25,
   "wti": 91.11,
   "henry_hub": 3.04,
   "us_diesel_retail": 6.382,
-  "us_diesel_retail_as_of": "2026-09-28 (EIA weekly)",
+  "us_diesel_retail_as_of": "2026-09-28 (EIA weekly; new print due Oct 5)",
   "sp500": 7722.72,
   "us10y": 5.28,
   "gold": 4140.19,
-  "gold_note": "Trading Economics; USAGold quoted spot ~4192 on Oct 2 (conflict unresolved)",
   "dxy": 101.93
 }

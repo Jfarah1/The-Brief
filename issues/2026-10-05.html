@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>The Brief — Mon Oct 5, 2026</title>
-<meta name="description" content="Monday edition: covers Fri Oct 2 – Sun Oct 4, 2026">
+<meta name="description" content="Monday edition: covers Fri Oct 2 – Mon Oct 5 morning, 2026">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,700;1,6..72,400&display=swap" rel="stylesheet">
@@ -13,15 +13,16 @@
 <body>
 
 <header class="wrap masthead">
-  <div class="kicker">Monday Edition · Sample issue</div>
+  <div class="kicker">Monday Edition</div>
   <h1>The Brief</h1>
-  <div class="edition">Monday, October 5, 2026 — covering Friday Oct 2 through Sunday Oct 4</div>
+  <div class="edition">Monday, October 5, 2026 — covering Friday Oct 2 through Monday morning</div>
   <div class="meta-row">
-    <span>Built Sun Oct 4, 12:30 PM CT</span>
-    <span><strong>~13 min</strong> read</span>
+    <span>Built Mon Oct 5, 7:23 AM CT</span>
+    <span><strong>~11 min</strong> read</span>
     <span><strong>11</strong> stories</span>
-    <span class="indep-badge">82% independent / international sources</span>
+    <span class="indep-badge">89% independent / international sources</span>
   </div>
+  <p class="footnote">Sunday's Special Edition already covered Friday and Saturday, so each story leads with what changed since then. Full-article fetching was blocked again this run, so this issue was built from search-result text and dated headlines. Quotes are as they appeared there.</p>
 </header>
 
 <nav class="nav" aria-label="Sections">
@@ -37,7 +38,6 @@
     <a href="#env">Environment</a>
     <a href="#ai">AI</a>
     <a href="#church">Church</a>
-    <a href="#blindspot">Blind Spot</a>
     <a href="#threads">Threads</a>
     <a href="#ledger">Sources</a>
   </div>
@@ -49,221 +49,229 @@
 <section id="quick">
   <div class="section-head"><h2>The 90-second read</h2></div>
   <ul class="quick">
-    <li><span class="tag escalating">Escalating</span><a href="#s-aramco"><p>Yemen's Houthis say they hit an Aramco site near Riyadh with missiles and drones. Riyadh bombed Sanaa and called the claim propaganda. Gulf energy is now under pressure from Iran and from Yemen.</p></a></li>
-    <li><span class="tag developing">Developing</span><a href="#s-g7"><p>The G7 will release up to 100M barrels of reserve crude and diesel over four months, diesel first. US diesel is at a record ~$6.50/gal. Analysts expect the release to dent prices, not fix the shortage.</p></a></li>
-    <li><span class="tag new">New</span><a href="#s-jobs"><p>September payrolls rose by only 29k and unemployment hit 4.2%. Revisions cut another 60k jobs. The case for a second Fed hike this month just got weaker.</p></a></li>
-    <li><span class="tag developing">Developing</span><a href="#s-brazil"><p>Brazil votes today. Lula and Flávio Bolsonaro are tied in polls, and an Oct 25 runoff is likely. Results weren't final when this issue was built.</p></a></li>
-    <li><span class="tag new">New</span><a href="#s-ukraine"><p>Washington is reportedly setting up Abu Dhabi talks on a limited truce covering strikes on energy sites. A report says the talks now include a multibillion-dollar Lukoil asset deal.</p></a></li>
-    <li><span class="tag new">New</span><a href="#s-suncor"><p>The Supreme Court opens its term today with <em>Suncor v. Boulder</em>: can local governments sue oil companies for climate damage under state law?</p></a></li>
-    <li><span class="tag developing">Developing</span><a href="#s-midterms"><p>Midterms are 29 days out. Forecasters lean Democratic for the House, and the Senate is a toss-up. The White House insists there will be "no blue wave."</p></a></li>
-    <li><span class="tag new">New</span><a href="#s-amoris"><p>Pope Leo is calling bishops to a closed-door Rome meeting (Oct 7–14) to review ten years of <em>Amoris Laetitia</em>. The Vatican says the text itself is not being rewritten.</p></a></li>
+    <li><span class="tag new">New</span><a href="#s-brazil"><p>Flávio Bolsonaro beat the polls and finished first in Brazil, 47.0% to Lula's 45.2%. The two meet in an Oct 25 runoff.</p></a></li>
+    <li><span class="tag escalating">Escalating</span><a href="#s-iran"><p>Iran's oil minister resigned Sunday as the US blockade drove crude exports toward zero. Tehran's parliament speaker says Hormuz attacks continue until Iran's conditions are met.</p></a></li>
+    <li><span class="tag developing">Developing</span><a href="#s-oil"><p>Oil is choppy Monday morning: Brent quotes run from about $101 to $103. Abu Dhabi's Murban traded near $110, a sign of how much risk traders put on Gulf barrels.</p></a></li>
+    <li><span class="tag new">New</span><a href="#s-suncor"><p>The Supreme Court opens its term at 9 AM CT with <em>Suncor v. Boulder</em>: can a Colorado county sue oil companies over climate damage under state law? Alito is recused.</p></a></li>
+    <li><span class="tag developing">Developing</span><a href="#s-ukraine"><p>Zelensky says Washington wants three-way "technical level" talks with Russia by the end of October. Merz was in Kyiv, and Taurus missiles were on the agenda.</p></a></li>
+    <li><span class="tag developing">Developing</span><a href="#s-midterms"><p>With 29 days left, Senate forecasts disagree sharply, from 67% Democratic (Polymarket) to 70% Republican (PollsMax).</p></a></li>
+    <li><span class="tag new">New</span><a href="#s-ai"><p>Trump created a "Super Intelligence Force" headed by DNI Jay Clayton, who is now in effect the AI czar. Critics say its job is undefined.</p></a></li>
+    <li><span class="tag developing">Developing</span><a href="#s-amoris"><p>The Vatican's <em>Amoris Laetitia</em> meeting opens Wednesday. Organizers say the question is "not what <em>Amoris Laetitia</em> says."</p></a></li>
   </ul>
 </section>
 
 <!-- ============ MARKETS ============ -->
 <section id="markets">
-  <div class="section-head"><h2>Markets &amp; energy</h2><span class="count">Friday close</span></div>
+  <div class="section-head"><h2>Markets &amp; energy</h2><span class="count">Friday Oct 2 close</span></div>
   <div class="ticker">
-    <div class="tile"><div class="label">Brent</div><div class="value">$102.70</div><div class="delta down">▼ 4.5% wk</div></div>
-    <div class="tile"><div class="label">WTI</div><div class="value">$91.11</div><div class="delta down">▼ 3.1% wk</div></div>
-    <div class="tile"><div class="label">Henry Hub gas</div><div class="value">$3.04</div><div class="delta up">▲ 2.3% Fri</div></div>
-    <div class="tile"><div class="label">US diesel (retail)</div><div class="value">~$6.50</div><div class="delta up">record high</div></div>
-    <div class="tile"><div class="label">S&amp;P 500</div><div class="value">7,722.72</div><div class="delta up">▲ 0.74% Fri</div></div>
-    <div class="tile"><div class="label">10-yr Treasury</div><div class="value">5.28%</div><div class="delta up">▲ 4 bp Fri</div></div>
-    <div class="tile"><div class="label">Gold</div><div class="value">$4,140</div><div class="delta down">▼ 0.9% Fri</div></div>
-    <div class="tile"><div class="label">Dollar index</div><div class="value">101.90</div><div class="delta down">▼ 0.1% Fri</div></div>
+    <div class="tile"><div class="label">Brent</div><div class="value">$102.25</div><div class="delta flat">flat vs. last issue</div></div>
+    <div class="tile"><div class="label">WTI</div><div class="value">$91.11</div><div class="delta flat">flat vs. last issue</div></div>
+    <div class="tile"><div class="label">Henry Hub gas</div><div class="value">$3.04</div><div class="delta flat">flat vs. last issue</div></div>
+    <div class="tile"><div class="label">US diesel (EIA, Sep 28)</div><div class="value">$6.38</div><div class="delta flat">new EIA print today</div></div>
+    <div class="tile"><div class="label">S&amp;P 500</div><div class="value">7,722.72</div><div class="delta flat">flat vs. last issue</div></div>
+    <div class="tile"><div class="label">10-yr Treasury</div><div class="value">5.28%</div><div class="delta flat">flat vs. last issue</div></div>
+    <div class="tile"><div class="label">Gold</div><div class="value">$4,140</div><div class="delta flat">flat vs. last issue</div></div>
+    <div class="tile"><div class="label">Dollar index</div><div class="value">101.93</div><div class="delta flat">flat vs. last issue</div></div>
   </div>
-  <p class="footnote">Starting with the first live issue, changes are measured against the previous issue's numbers. Sources: Trading Economics, Al Jazeera (diesel). Prices are not investment advice.</p>
+  <p class="footnote">US markets haven't traded since Sunday's issue, so the closes are unchanged. <strong>Early Monday:</strong> Brent quotes ranged from $103.06 (+0.8%, Nation Thailand, Asian session) to $101.31 (−0.9%, Trading Economics, later). Murban was about $110.80 (Gulf News). Stock futures were roughly flat to slightly lower. For the week, the S&amp;P 500 fell 0.3%, and the 10-year hit 5.34% Thursday, its highest since 2002. Not investment advice.</p>
 </section>
 
 <!-- ============ TODAY ============ -->
 <section id="today">
   <div class="section-head"><h2>Today &amp; this week</h2><span class="count">Times in Central</span></div>
   <ul class="today">
-    <li><time>9:00 AM</time><span>The Supreme Court opens October Term 2026. <em>Suncor Energy v. Boulder County</em> is first on the argument calendar.</span></li>
-    <li><time>All day</time><span>Brazil's first-round count is finalized. A runoff is set for <strong>Oct 25</strong> if no one clears 50%.</span></li>
-    <li><time>Oct 5–8</time><span>Pacific pre-COP31 meetings in Nadi, Fiji and in Tuvalu.</span></li>
-    <li><time>Oct 7–14</time><span>Vatican meeting of bishops on how <em>Amoris Laetitia</em> has been put into practice.</span></li>
-    <li><time>Late Oct</time><span>FOMC meeting. CME FedWatch shows ~17% odds of a hike after the jobs miss.</span></li>
-    <li><time>Nov 3</time><span>US midterms. Congress is out until after Election Day.</span></li>
+    <li><time>9:00 AM</time><span>SCOTUS opens October Term 2026 with <em>Suncor v. Boulder County</em>, then <em>Johnson v. U.S. Congress</em> (VA benefits for incarcerated veterans).</span></li>
+    <li><time>Today</time><span>EIA weekly diesel and gasoline prices. Pre-COP31 leaders' meetings in Nadi, Fiji and in Tuvalu (Oct 5–6; ministers through Oct 8).</span></li>
+    <li><time>Tue</time><span>SCOTUS hears <em>Anderson v. Intel</em> (401(k) fee suits). Fed speakers this week include Williams, Bowman, Logan, Waller, Collins and Musalem; dates for each are not all confirmed.</span></li>
+    <li><time>Wed 1:00 PM</time><span>Minutes of the Fed's September meeting. SCOTUS hears <em>Air Force v. Prutehi Guåhan</em> (Guam munitions permit). The Vatican's <em>Amoris Laetitia</em> meeting opens (Oct 7–14).</span></li>
+    <li><time>Fri</time><span>University of Michigan consumer sentiment (preliminary).</span></li>
+    <li><time>Oct 14</time><span>September CPI (7:30 AM CT), then the Oct 27–28 FOMC.</span></li>
+    <li><time>Oct 25</time><span>Brazil's presidential runoff.</span></li>
   </ul>
 </section>
 
 <!-- ============ GEOPOLITICS ============ -->
 <section id="geo">
-  <div class="section-head"><h2>Geopolitics</h2><span class="count">3 stories</span></div>
+  <div class="section-head"><h2>Geopolitics</h2><span class="count">4 stories</span></div>
 
-  <article class="story" id="s-aramco">
-    <div class="story-top"><span class="tag escalating">Escalating</span><span>Saudi–Houthi war · truce collapsed in July</span></div>
-    <h3>Houthis claim strike on Aramco site near Riyadh; Saudis hit back at Sanaa</h3>
+  <article class="story" id="s-brazil">
+    <div class="story-top"><span class="tag new">New</span><span>Brazil election · runoff Oct 25</span></div>
+    <h3>Flávio Bolsonaro beats the polls and edges Lula in Brazil's first round</h3>
     <h4>What happened</h4>
-    <p class="lede">Houthi military spokesman Yahya Saree said a "military operation with ballistic missiles and drones" struck an Aramco facility in Riyadh and set it on fire. Reporters saw flames and smoke near a site south of the capital. Saudi authorities did not confirm the attack caused the fire, and Saudi aircraft then struck Houthi-held Sanaa.</p>
+    <p class="lede">Since Sunday's issue: the official count shows Senator Flávio Bolsonaro with 47.03% of valid votes (about 56.1 million) and President Lula da Silva with 45.16% (about 53.9 million), according to Agência Brasil. Neither cleared 50%, so they meet in a runoff on <strong>Oct 25</strong>. The final polls had Lula ahead: Datafolha's Saturday survey had him at 45% to Flávio's 42%. Flávio's first-round total beat what his father, Jair Bolsonaro, won in 2022. Jair is in prison serving a 27-year sentence for the coup plot.</p>
     <h4>Why it matters</h4>
-    <p>The 2022 Saudi–Houthi truce is gone. With the Iran war already squeezing Gulf exports, a second front against Saudi energy sites matters for oil prices, and it makes any reserve release harder to hold.</p>
+    <p>A sitting president trailing after round one goes into the runoff on the defensive. Polling also underestimated the right for the second election in a row; the same thing happened with Jair in 2022. The outcome decides whether Latin America's largest economy moves closer to Washington or keeps Lula's balance between the US and China.</p>
     <h4>How each side sees it</h4>
     <div class="perspectives">
       <div class="view a">
-        <div class="who">Houthi / "Axis" framing</div>
-        <p>The strike was retaliation for stepped-up Saudi air raids, part of a policy of "blockade for blockade" and "escalation for escalation" until Riyadh stops bombing and lifts port and airport restrictions.</p>
-        <div class="cite">Via <a href="https://www.aljazeera.com/news/2026/10/4/houthis-claim-strike-on-saudi-energy-facility-as-yemen-fighting-intensifies">Al Jazeera</a> · amplified by <a href="https://rt.com/news/646705-houthis-claim-strikes-aramco">RT</a> <span class="lean">(Russian state media)</span></div>
+        <div class="who">Bolsonaro camp</div>
+        <p>Flávio claimed a mandate for change, declaring "the end of the PT era." He had said before the vote that he was counting on protest votes from Brazilians more opposed to Lula than attached to him.</p>
+        <div class="cite">Via <a href="https://en.mercopress.com/2026/10/05/flavio-bolsonaro-edges-lula-in-the-first-round-both-head-to-an-october-25-runoff">MercoPress</a> · <a href="https://latinamericadailybriefing.substack.com/p/brazilian-presidential-election-heads">Latin America Daily Briefing</a></div>
       </div>
       <div class="view b">
-        <div class="who">Saudi-led coalition</div>
-        <p>Coalition spokesman Maj. Gen. Turki al-Maliki called the claims "misleading," an "illusory victory" meant to distract from Houthi losses to Yemeni government forces on the ground.</p>
-        <div class="cite">Via <a href="https://en.dailypakistan.com.pk/04-Oct-2026/saudi-forces-rubbish-houthi-aramco-attack-claim-as-propaganda">Daily Pakistan</a> · <a href="https://www.aljazeera.com/news/2026/10/4/houthis-claim-strike-on-saudi-energy-facility-as-yemen-fighting-intensifies">Al Jazeera</a></div>
+        <div class="who">Lula camp</div>
+        <p>Speaking in São Paulo, Lula said "the second round is the real test" and that a new campaign starts immediately. His camp casts Flávio as a stand-in for a jailed father and a risk to institutions.</p>
+        <div class="cite">Via <a href="https://en.mercopress.com/2026/10/05/flavio-bolsonaro-edges-lula-in-the-first-round-both-head-to-an-october-25-runoff">MercoPress</a> · <a href="https://www.aljazeera.com/news/2026/10/5/brazils-presidential-race-three-key-takeaways-from-the-first-round">Al Jazeera</a></div>
       </div>
     </div>
-    <div class="watch"><strong>Watch:</strong> independent damage assessment or satellite imagery of the site, and whether Aramco reports any output disruption when markets open.</div>
-    <div class="mix"><div class="mixbar"><span style="width:100%"></span></div>4 of 4 sources independent/international</div>
+    <div class="watch"><strong>Watch:</strong> where the ~8% that went to other candidates (Caiado and others) goes, and the first runoff polls. Pollsters' credibility is now part of the story.</div>
+    <div class="mix"><div class="mixbar"><span style="width:83%"></span></div>5 of 6 sources independent/international</div>
     <details class="sources"><summary>Sources</summary><ul>
-      <li><a href="https://www.aljazeera.com/news/2026/10/4/houthis-claim-strike-on-saudi-energy-facility-as-yemen-fighting-intensifies">Al Jazeera</a> <span class="lean">— Qatar-funded; center-left on the Gulf</span></li>
-      <li><a href="https://en.dailypakistan.com.pk/04-Oct-2026/saudi-forces-rubbish-houthi-aramco-attack-claim-as-propaganda">Daily Pakistan</a> <span class="lean">— Pakistani; Saudi-sympathetic</span></li>
-      <li><a href="https://rt.com/news/646705-houthis-claim-strikes-aramco">RT</a> <span class="lean">— Russian state media</span></li>
-      <li><a href="https://www.profilenews.com/en/daily-report-october-3-2026/">Profile News</a> <span class="lean">— regional field reporting</span></li>
+      <li><a href="https://agenciabrasil.ebc.com.br/en/politica/noticia/2026-10/flavio-bolsonaro-lula-head-runoff-brazils-presidential-race">Agência Brasil</a> <span class="lean">— Brazilian government-owned news agency</span></li>
+      <li><a href="https://en.mercopress.com/2026/10/05/flavio-bolsonaro-edges-lula-in-the-first-round-both-head-to-an-october-25-runoff">MercoPress</a> <span class="lean">— South Atlantic regional</span></li>
+      <li><a href="https://www.aljazeera.com/news/2026/10/5/brazils-presidential-race-three-key-takeaways-from-the-first-round">Al Jazeera</a> <span class="lean">— Qatar-funded</span></li>
+      <li><a href="https://latinamericadailybriefing.substack.com/p/brazilian-presidential-election-heads">Latin America Daily Briefing</a> <span class="lean">— independent newsletter</span></li>
+      <li><a href="https://www.ynetnews.com/article/hkzbqdxsgg">Ynet</a> <span class="lean">— Israeli, center</span></li>
+      <li><a href="https://edition.cnn.com/2026/10/04/americas/brazil-president-elections-2026-latam-intl">CNN</a> <span class="lean">— mainstream</span></li>
     </ul></details>
+  </article>
+
+  <article class="story" id="s-iran">
+    <div class="story-top"><span class="tag escalating">Escalating</span><span>Iran war · day 220 (began Feb 28)</span></div>
+    <h3>Iran's oil minister quits as the blockade chokes exports</h3>
+    <h4>What happened</h4>
+    <p class="lede">Since Sunday's issue: President Pezeshkian accepted Oil Minister Mohsen Paknejad's resignation on Sunday, having turned down earlier requests to step down. Paknejad cited "personal reasons." Hamid Bovard, head of the National Iranian Oil Company, is acting minister. Iran's central bank chief says the US naval blockade has driven crude exports to zero. Fuel queues are reported at home, and the central bank is injecting up to $2B as the rial hits a record low. The IRGC-linked Fars agency named the tanker hit off Oman this weekend as the <em>Ore Vinst</em> and said it was under US escort. UKMTO counts it as the fourth attack it has reported this month. Haaretz, citing Axios, reports that Vance chaired a secret Camp David meeting on Iran and Yemen on Friday.</p>
+    <h4>Why it matters</h4>
+    <p>The resignation is the clearest sign yet that the blockade is hurting Iran's oil sector from the inside. But Tehran is answering with pressure on shipping, not concessions, and that keeps the Gulf risk premium in oil prices.</p>
+    <h4>How each side sees it</h4>
+    <div class="perspectives">
+      <div class="view a">
+        <div class="who">Tehran's line</div>
+        <p>Parliament Speaker Qalibaf says attacks around Hormuz will continue until Iran's seven conditions are met. Officials call the minister's exit personal, and the foreign minister insists there is "no military solution."</p>
+        <div class="cite">Via <a href="https://www.foxnews.com/live-news/us-iran-war-hormuz-strait-peace-talks-donald-trump-october-4">Fox News live</a> · <a href="https://www.thenationalnews.com/news/mena/2026/10/05/iran-oil-minister-resigns-amid-fuel-shortages-and-crude-export-pressure/">The National</a> <span class="lean">(UAE)</span></div>
+      </div>
+      <div class="view b">
+        <div class="who">Pressure-is-working view</div>
+        <p>Iran International asks what a new oil chief can change with exports at zero, and frames the resignation as the blockade's toll on a strained ministry. Trade press puts output near 1.8M barrels a day, with loadings collapsing since July.</p>
+        <div class="cite">Via <a href="https://www.iranintl.com/en/202610051913">Iran International</a> <span class="lean">(Persian diaspora, anti-regime)</span> · <a href="https://www.rigzone.com/news/wire/iran_oil_minister_quits_as_exports_dry_up-05-oct-2026-184767-article/">Rigzone</a></div>
+      </div>
+    </div>
+    <div class="watch"><strong>Watch:</strong> whether Bovard is confirmed by parliament, and whether attacks reach the US-escorted lane again.</div>
+    <div class="mix"><div class="mixbar"><span style="width:83%"></span></div>5 of 6 sources independent/international</div>
+    <details class="sources"><summary>Sources</summary><ul>
+      <li><a href="https://www.iranintl.com/en/202610051913">Iran International</a> <span class="lean">— diaspora, anti-regime</span></li>
+      <li><a href="https://www.iranintl.com/en/202610044767">Iran International (tanker)</a></li>
+      <li><a href="https://www.middleeasteye.net/live-blog/live-blog-update/tanker-hit-unknown-projectile-strait-hormuz-ukmto-says">Middle East Eye</a> <span class="lean">— Arab-world perspective, left</span></li>
+      <li><a href="https://www.rigzone.com/news/wire/iran_oil_minister_quits_as_exports_dry_up-05-oct-2026-184767-article/">Rigzone</a> <span class="lean">— energy trade</span></li>
+      <li><a href="https://www.thenationalnews.com/news/mena/2026/10/05/iran-oil-minister-resigns-amid-fuel-shortages-and-crude-export-pressure/">The National</a> <span class="lean">— UAE</span></li>
+      <li><a href="https://www.haaretz.com/middle-east-news/2026-10-03/ty-article/report-trump-aides-held-secret-camp-david-meeting-on-iran-yemen/000001a1-003c-d27a-abaf-187c046b0000">Haaretz</a> <span class="lean">— Israeli, left</span></li>
+      <li><a href="https://www.foxnews.com/live-news/us-iran-war-hormuz-strait-peace-talks-donald-trump-october-4">Fox News</a> <span class="lean">— mainstream, right</span></li>
+    </ul></details>
+  </article>
+
+  <article class="story" id="s-yemen">
+    <div class="story-top"><span class="tag escalating">Escalating</span><span>Saudi–Houthi war · truce collapsed in July</span></div>
+    <h3>Still no word from Aramco as the Yemen offensive grinds on</h3>
+    <h4>What happened</h4>
+    <p class="lede">Since Sunday's issue: there is still no Aramco or Saudi government statement on the cause of the fire seen at an Aramco site south of Riyadh, and nothing on the claimed Khurais strike. The Houthis say Saudi Arabia carried out 106 air and missile strikes in 24 hours as the government offensive to retake Houthi territory continues, backed by the Saudi-led coalition. Neither side's casualty or damage figures can be verified.</p>
+    <h4>How each side sees it</h4>
+    <div class="perspectives">
+      <div class="view a">
+        <div class="who">Saudi-led coalition</div>
+        <p>Spokesman Turki al-Maliki calls the Aramco claims "misleading," meant to hide Houthi losses around Taiz.</p>
+        <div class="cite">Via <a href="https://www.dailysabah.com/world/mid-east/saudi-coalition-rejects-houthis-riyadh-attack-claims-as-misleading">Daily Sabah</a> <span class="lean">(Turkish, pro-government)</span></div>
+      </div>
+      <div class="view b">
+        <div class="who">Houthis</div>
+        <p>Spokesman Yahya Saree calls the strikes "precise and direct" retaliation for Saudi raids on Sanaa and Saada.</p>
+        <div class="cite">Via <a href="https://www.tribuneindia.com/news/aramco-strikes/houthis-claim-strikes-on-saudi-aramco-sites-in-riyadh-khurais-as-fighting-in-yemen-intensifies">Tribune India</a> · <a href="https://www.aljazeera.com/news/2026/10/4/houthis-claim-strike-on-saudi-energy-facility-as-yemen-fighting-intensifies">Al Jazeera</a></div>
+      </div>
+    </div>
+    <div class="watch"><strong>Watch:</strong> Saudi export data this week, which will show whether anything was actually lost.</div>
+    <div class="mix"><div class="mixbar"><span style="width:100%"></span></div>4 of 4 sources independent/international</div>
   </article>
 
   <article class="story" id="s-ukraine">
-    <div class="story-top"><span class="tag new">New</span><span>Ukraine peace track</span></div>
-    <h3>US eyes Abu Dhabi talks on a limited "energy truce"; report says a Lukoil deal is on the table</h3>
+    <div class="story-top"><span class="tag developing">Developing</span><span>Ukraine peace track</span></div>
+    <h3>Zelensky: the US wants three-way talks with Russia by the end of October</h3>
     <h4>What happened</h4>
-    <p class="lede">Washington is reportedly organizing Ukraine–Russia talks this month, most likely in Abu Dhabi. The proposal is a phased approach that starts with a mutual halt on strikes against power plants and refineries, plus an Egypt-mediated deal on Black Sea shipping. Meanwhile Zelensky said Kyiv will <em>step up</em> refinery strikes in response to expanded Russian attacks on Ukrainian infrastructure. A New York Times report, picked up widely, says the talks now include a multibillion-dollar purchase of Lukoil's global assets that Putin raised with Witkoff and Kushner on Sept 5.</p>
-    <h4>Why it matters</h4>
-    <p>Ukraine's refinery strikes are one reason Russia has stopped exporting diesel. A deal on energy strikes is therefore also a deal on the world diesel shortage driving US prices.</p>
+    <p class="lede">Since Sunday's issue: with German Chancellor Friedrich Merz in Kyiv, Zelensky said the US is proposing a "technical level" trilateral meeting with Russia by the end of October, and that Kyiv is open to the UAE "or any other country" as host. He said he spoke with the US team on Oct 3. Merz brought his economy minister and about 10 defense and energy executives, and Zelensky raised Taurus cruise missiles with him. Ukraine's Defense Ministry claims its strikes have knocked out more than 51% of Russia's refining capacity, a figure Kyiv provides and that we couldn't check independently. Ukraine says it will step up refinery strikes in response to Russian attacks on its cities.</p>
     <h4>How each side sees it</h4>
     <div class="perspectives">
       <div class="view a">
-        <div class="who">Administration / pragmatist view</div>
-        <p>Small, verifiable deals (no energy strikes, safe grain shipping) build toward a broader ceasefire. US negotiators reportedly saw the Lukoil deal as a way to build trust with the Kremlin <em>and</em> bring down global energy prices. The reporting found no sign Witkoff or Kushner would profit personally.</p>
-        <div class="cite">Via <a href="https://news.liga.net/en/war/news/the-atlantic-us-seeks-to-organize-talks-with-ukraine-and-russia-in-abu-dhabi-in-october">Liga.net</a> · <a href="https://kyivpost.com/post/86038">Kyiv Post</a></div>
+        <div class="who">Kyiv and Berlin: talk, but from strength</div>
+        <p>Zelensky calls a Taurus transfer a signal of stronger support. Kyiv's position is to join US-brokered talks while keeping pressure on Russia's oil revenue.</p>
+        <div class="cite">Via <a href="https://kyivindependent.com/us-proposes-trilateral-talks-with-russia-ukraine-by-end-of-october-zelensky-says/">Kyiv Independent</a> · <a href="https://www.ukrinform.net/rubric-polytics/4170996-zelensky-merz-discuss-transfer-of-taurus-missiles-to-ukraine.html">Ukrinform</a> <span class="lean">(Ukrainian state news agency)</span></div>
       </div>
       <div class="view b">
-        <div class="who">Critics / conflict-of-interest view</div>
-        <p>The consortium includes Todd Boehly, who gave $2M to pro-Trump groups, and two Gulf investment groups with past business ties to the Kushner and Witkoff families. Critics say tying a peace deal to a sanctions-lifting asset sale rewards Moscow and blurs public and private interests.</p>
-        <div class="cite">Via <a href="https://www.themoscowtimes.com/2026/10/03/us-russia-talks-on-ukraine-involve-multi-billion-dollar-oil-deal-nyt-reports-a93862">The Moscow Times</a> <span class="lean">(exiled, anti-Kremlin)</span> · <a href="https://www.pravda.com.ua/eng/news/2026/10/03/8056300/">Ukrainska Pravda</a></div>
+        <div class="who">Skeptics of the side deals</div>
+        <p>Greek reporting describes a $20B+ contest for Lukoil's foreign assets, between a UAE-linked consortium and Carlyle's $22B bid that still awaits US Treasury approval, now tied to the US–Russia track. Critics question whether commercial interests are steering the diplomacy.</p>
+        <div class="cite">Via <a href="https://en.protothema.gr/2026/10/03/lukoils-20-billion-deal-the-oil-battle-uniting-trump-putin-and-gulf-billionaires">ProtoThema</a> · <a href="https://eaworldview.com/2026/10/ukraine-war-russia-zelensky-us-proposes-talks-by-end-of-october/">EA WorldView</a></div>
       </div>
     </div>
-    <div class="watch"><strong>Watch:</strong> a date and venue for the Abu Dhabi talks, and whether Treasury signals any Lukoil sanctions relief.</div>
-    <div class="mix"><div class="mixbar"><span style="width:83%"></span></div>5 of 6 sources independent/international</div>
+    <div class="watch"><strong>Watch:</strong> a date and venue, Berlin's decision on Taurus, and any Treasury signal on Lukoil.</div>
+    <div class="mix"><div class="mixbar"><span style="width:100%"></span></div>6 of 6 sources independent/international/state</div>
     <details class="sources"><summary>Sources</summary><ul>
-      <li><a href="https://news.liga.net/en/war/news/the-atlantic-us-seeks-to-organize-talks-with-ukraine-and-russia-in-abu-dhabi-in-october">Liga.net</a> <span class="lean">— Ukrainian</span></li>
-      <li><a href="https://mezha.net/eng/news/149cd662_us_plans_october_talks/">Mezha</a> <span class="lean">— Ukrainian</span></li>
-      <li><a href="https://kyivpost.com/post/86038">Kyiv Post</a> <span class="lean">— Ukrainian</span></li>
-      <li><a href="https://www.pravda.com.ua/eng/news/2026/10/03/8056300/">Ukrainska Pravda</a> <span class="lean">— Ukrainian</span></li>
-      <li><a href="https://www.themoscowtimes.com/2026/10/03/us-russia-talks-on-ukraine-involve-multi-billion-dollar-oil-deal-nyt-reports-a93862">The Moscow Times</a> <span class="lean">— Russian exile press</span></li>
-      <li><a href="https://thehill.com/homenews/administration/6127449-trump-russia-ukraine-oil-deal-lukoil/">The Hill</a> <span class="lean">— mainstream, center</span></li>
+      <li><a href="https://www.france24.com/en/europe/20261004-live-germany-s-merz-in-kyiv-for-talks-with-zelensky">France 24</a> <span class="lean">— French public broadcaster</span></li>
+      <li><a href="https://kyivindependent.com/us-proposes-trilateral-talks-with-russia-ukraine-by-end-of-october-zelensky-says/">Kyiv Independent</a> <span class="lean">— Ukrainian</span></li>
+      <li><a href="https://www.ukrinform.net/rubric-polytics/4170996-zelensky-merz-discuss-transfer-of-taurus-missiles-to-ukraine.html">Ukrinform</a> <span class="lean">— Ukrainian state agency</span></li>
+      <li><a href="https://www.japantimes.co.jp/news/2026/10/04/world/ukraine-russian-refineries-response/">Japan Times</a> <span class="lean">— Japanese, center</span></li>
+      <li><a href="https://en.protothema.gr/2026/10/03/lukoils-20-billion-deal-the-oil-battle-uniting-trump-putin-and-gulf-billionaires">ProtoThema</a> <span class="lean">— Greek</span></li>
+      <li><a href="https://eaworldview.com/2026/10/ukraine-war-russia-zelensky-us-proposes-talks-by-end-of-october/">EA WorldView</a> <span class="lean">— independent analysis</span></li>
     </ul></details>
-  </article>
-
-  <article class="story" id="s-brazil">
-    <div class="story-top"><span class="tag developing">Developing</span><span>Brazil election · runoff Oct 25 if needed</span></div>
-    <h3>Brazil votes: Lula seeks a fourth term against Flávio Bolsonaro</h3>
-    <h4>What happened</h4>
-    <p class="lede">Brazilians voted Sunday in a race that polls showed as essentially tied between President Lula da Silva and Senator Flávio Bolsonaro, the former president's eldest son. If neither clears 50%, the top two meet in an Oct 25 runoff. <strong>The results were not final when this issue was built.</strong> Wednesday's issue will cover them.</p>
-    <h4>Why it matters</h4>
-    <p>Latin America's largest economy is choosing between closer alignment with Washington (Bolsonaro) and Lula's "sovereignty" posture, with critical minerals and China trade at stake. Whoever wins inherits a debt load projected above 86% of GDP and interest costs near 8% of GDP.</p>
-    <h4>How each side sees it</h4>
-    <div class="perspectives">
-      <div class="view a">
-        <div class="who">Lula camp</div>
-        <p>He's running on continuity and Brazilian sovereignty, keeping balanced ties with both the US and China. He holds a big lead with women, the key swing group.</p>
-        <div class="cite">Via <a href="https://www.aljazeera.com/news/2026/10/3/what-to-know-about-brazils-2026-presidential-election">Al Jazeera</a> · <a href="https://www.cfr.org/articles/brazils-2026-election-what-to-know-and-whats-at-stake">CFR</a></div>
-      </div>
-      <div class="view b">
-        <div class="who">Bolsonaro camp</div>
-        <p>He promises to rein in inflation and spending, and an adviser says he would put in a debt ceiling. He wants closer alignment with Washington.</p>
-        <div class="cite">Via <a href="https://www.cnbc.com/2026/10/02/brazil-election-bolsonaro-lula-china-trump.html">CNBC</a> · <a href="https://foreignpolicy.com/2026/10/02/brazil-lula-bolsonaro-election-trump-china-united-states-cuba/">Foreign Policy</a></div>
-      </div>
-    </div>
-    <p style="margin-top:10px;font-size:14px;color:var(--ink-2)"><em>Skeptic's note:</em> Foreign Policy argues that <em>neither</em> candidate has a credible plan for Brazil's growing economic dependence on Beijing.</p>
-    <div class="watch"><strong>Watch:</strong> the first-round margin, and whether the third-party right-wing vote moves to Bolsonaro for the runoff.</div>
-    <div class="mix"><div class="mixbar"><span style="width:75%"></span></div>3 of 4 sources independent/international</div>
   </article>
 </section>
 
 <!-- ============ ECONOMY ============ -->
 <section id="econ">
   <div class="section-head"><h2>Economy &amp; markets</h2><span class="count">1 story</span></div>
-  <article class="story" id="s-jobs">
-    <div class="story-top"><span class="tag new">New</span><span>Fed tightening cycle</span></div>
-    <h3>Hiring stalls at 29,000 jobs a month after the Fed raised rates</h3>
+  <article class="story" id="s-fed">
+    <div class="story-top"><span class="tag developing">Developing</span><span>Fed tightening cycle</span></div>
+    <h3>Fed week: minutes Wednesday, hike odds near 23%</h3>
     <h4>What happened</h4>
-    <p class="lede">Payrolls rose by just 29,000 in September, against forecasts of 84–90k. Unemployment ticked up to 4.2%. July was revised to a <em>loss</em> of 10,000, and July and August together lost 60,000 jobs in revisions. Average hourly earnings rose only 0.1% on the month and 3% on the year, likely below inflation. Stocks rose, and CME futures now give only ~17% odds of another hike at the late-October meeting. The Fed's range is 3.75–4.00%.</p>
-    <h4>Why it matters</h4>
-    <p>The Fed raised rates in September to fight energy-driven inflation. With 3% wage growth trailing prices and gas and diesel at records, this is where the "stagflation" label stops being rhetoric. Even so, the 10-year yield <em>rose</em> Friday to 5.28%. Bond markets still fear the inflation more than they welcome the slowdown.</p>
+    <p class="lede">Since Sunday's issue: markets put October-hike odds around 23%, according to Rio Times' Monday briefing. Minutes of the September hike, a 12–0 vote that took the range to 3.75–4.00%, come out Wednesday. A slate of Fed speakers follows through Friday. The latest jobs detail: private employers added 46k and governments cut 17k. The labor force grew 485k, and the three-month payroll average is 51k.</p>
     <h4>How each side sees it</h4>
     <div class="perspectives">
       <div class="view a">
-        <div class="who">"The Fed overshot"</div>
-        <p>Raising rates into an oil <em>supply</em> shock was a mistake. Higher rates can't produce diesel, but they can cost jobs. This report is the first warning.</p>
-        <div class="cite">Via <a href="https://247wallst.com/investing/2026/10/04/america-added-just-29000-jobs-in-september-did-the-fed-just-get-its-first-warning-that-it-went-too-far/">24/7 Wall St.</a> · <a href="https://www.tipranks.com/news/article/september-jobs-report-adds-to-stagflation-fears">TipRanks</a></div>
+        <div class="who">"October is off the table"</div>
+        <p>Jefferies' Thomas Simons called the report the "nail in the coffin for an October hike." Wolf Street notes that government job cuts dragged the headline down.</p>
+        <div class="cite">Via <a href="https://www.investing.com/news/economy-news/reaction-roundup-experts-analysts-weigh-in-on-september-jobs-report-4930206">Investing.com</a> · <a href="https://wolfstreet.com/2026/10/02/private-sector-employers-created-46000-jobs-governments-shed-17000-jobs/">Wolf Street</a></div>
       </div>
       <div class="view b">
-        <div class="who">"Don't read too much into payrolls"</div>
-        <p>The household survey looks much stronger than the headline. ZeroHedge's headline: "Payrolls Plunge… But Employment Soars." Unemployment is still low by historical standards, and inflation is the bigger threat.</p>
-        <div class="cite">Via <a href="https://www.zerohedge.com/markets/jobs-huge-miss-sept-payrolls-plunge-just-29k-below-all-estimates-july-revised-negative">ZeroHedge</a> <span class="lean">(right-libertarian, markets)</span> · <a href="https://www.foxbusiness.com/economy/us-jobs-report-september-2026">Fox Business</a></div>
+        <div class="who">"Inflation still rules"</div>
+        <p>Indeed Hiring Lab calls the report "steadiness without a spark." It notes inflation is still well above target, which keeps officials wary but makes another hike a harder sell.</p>
+        <div class="cite">Via <a href="https://hiringlab.indeed.com/2026/10/02/september-2026-jobs-report-steadiness-without-a-spark/">Indeed Hiring Lab</a> · <a href="https://riotimesonline.com/global-economy-briefing-october-5-2026">Rio Times</a></div>
       </div>
     </div>
-    <div class="watch"><strong>Watch:</strong> the September CPI release and Fed speakers this week. Any official who calls the September hike "one and done" is a signal.</div>
-    <div class="mix"><div class="mixbar"><span style="width:60%"></span></div>3 of 5 sources independent</div>
-    <details class="sources"><summary>Sources</summary><ul>
-      <li><a href="https://247wallst.com/investing/2026/10/04/america-added-just-29000-jobs-in-september-did-the-fed-just-get-its-first-warning-that-it-went-too-far/">24/7 Wall St.</a></li>
-      <li><a href="https://www.tipranks.com/news/article/september-jobs-report-adds-to-stagflation-fears">TipRanks</a></li>
-      <li><a href="https://www.zerohedge.com/markets/jobs-huge-miss-sept-payrolls-plunge-just-29k-below-all-estimates-july-revised-negative">ZeroHedge</a> <span class="lean">— right-libertarian</span></li>
-      <li><a href="https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html">CNBC</a> <span class="lean">— mainstream</span></li>
-      <li><a href="https://www.foxbusiness.com/economy/us-jobs-report-september-2026">Fox Business</a> <span class="lean">— mainstream, right</span></li>
-    </ul></details>
+    <div class="watch"><strong>Watch:</strong> how many officials in the minutes wanted a bigger move, and whether Waller or Bowman says "one and done."</div>
+    <div class="mix"><div class="mixbar"><span style="width:100%"></span></div>4 of 4 sources independent</div>
   </article>
 </section>
 
 <!-- ============ ENERGY ============ -->
 <section id="energy">
-  <div class="section-head"><h2>Oil &amp; gas</h2><span class="count">2 stories</span></div>
-
-  <article class="story" id="s-g7">
-    <div class="story-top"><span class="tag developing">Developing</span><span>Energy crisis · Iran war day 218</span></div>
-    <h3>G7 opens the taps: 100 million barrels, diesel first</h3>
+  <div class="section-head"><h2>Oil &amp; gas</h2><span class="count">1 story</span></div>
+  <article class="story" id="s-oil">
+    <div class="story-top"><span class="tag developing">Developing</span><span>Energy crisis · Iran war day 220</span></div>
+    <h3>Murban jumps to about $110 as traders pay up for barrels outside the Gulf risk zone</h3>
     <h4>What happened</h4>
-    <p class="lede">Macron announced Friday that G7 countries and partners will release up to 100 million barrels through the IEA over four months. Roughly 50M will be European diesel and 50M crude, with a "substantial" diesel release in the first 20 days. European gasoil futures fell ~4%, and Brent briefly dipped under $100 before closing near $102.70. US retail diesel hit a record of about $6.50/gal.</p>
+    <p class="lede">Monday's Asian session opened with Brent slightly higher after the weekend's Houthi claims. It later slipped to about $101, per Trading Economics, as traders weighed Sunday's OPEC+ decision to hold output and the G7 reserve release. Abu Dhabi's Murban traded near $110.80, about $8 over Brent, and the Brent–WTI spread is above $11, against a normal $3–5. The G7 release (up to 100M barrels over four months, about 830k barrels a day, diesel first) has no new delivery dates yet. Goldman estimates it offsets only about half the diesel price surge.</p>
     <h4>Why it matters</h4>
-    <p>The shortage has three causes at once. The Iran war has cut Gulf exports from 23.3 to about 21.8 million barrels a day. Ukraine's refinery strikes have stopped Russian diesel exports. And China has halted diesel exports. A reserve release fills the gap for a while; it doesn't add refining capacity.</p>
+    <p>The spreads are the market's own risk map. Barrels that have to pass Hormuz or the Red Sea cost more, which hits Asian buyers first. The wide WTI discount also keeps US crude exports attractive, which shapes the US debate over diesel exports.</p>
     <h4>How each side sees it</h4>
     <div class="perspectives">
       <div class="view a">
-        <div class="who">"It will help"</div>
-        <p>A release this size should "put some downward pressure on prices, particularly global diesel prices," especially in the first 20 days, which fall in Europe's harvest-season peak in demand.</p>
-        <div class="cite">Hamad Hussain (Capital Economics) via <a href="https://www.aljazeera.com/news/2026/10/3/g7-to-release-100-million-barrels-of-oil-and-diesel-will-it-curb-prices">Al Jazeera</a> · <a href="https://oilprice.com/Latest-Energy-News/World-News/G7-Moves-to-Release-100-Million-Barrels-to-Counter-Diesel-Crisis.html">OilPrice.com</a></div>
+        <div class="who">"End the war, prices fall"</div>
+        <p>Trump says oil prices "will come tumbling down" once the war ends, and touts Europe's agreement to release "heavily stocked Diesel."</p>
+        <div class="cite">Via <a href="https://www.cbsnews.com/live-updates/trump-iran-war-us-midterm-elections-troops-deployment/">CBS News</a> · <a href="https://www.euronews.com/2026/10/02/g7-agrees-100-million-barrel-emergency-oil-release-amid-us-pressure-over-diesel">Euronews</a></div>
       </div>
       <div class="view b">
-        <div class="who">"A band-aid"</div>
-        <p>The release "doesn't deal with the fundamental problem that the global supply remains lower than normal." Estimates put the effect at about $0.25/gal off diesel, roughly half of the recent spike by Goldman's math.</p>
-        <div class="cite">Neil Atkinson via <a href="https://www.aljazeera.com/news/2026/10/3/g7-to-release-100-million-barrels-of-oil-and-diesel-will-it-curb-prices">Al Jazeera</a> · <a href="https://discoveryalert.com/analysis/g7-oil-reserve-release-october-2026/">Discovery Alert</a> · <a href="https://nairametrics.com/2026/10/02/g7-plans-100-million-barrel-oil-release-to-ease-soaring-fuel-prices/">Nairametrics</a></div>
+        <div class="who">"It's a refining crisis"</div>
+        <p>Doomberg argues record diesel reflects a global shortage of refining capacity, not US exports. It warns that lawmakers pushing a diesel-export ban are grasping at straws.</p>
+        <div class="cite">Via <a href="https://newsletter.doomberg.com/p/straw-clutching">Doomberg</a> <span class="lean">(energy realist)</span> · <a href="https://time.com/article/2026/10/03/the-g7-is-releasing-emergency-fuel-reserves-how-much-will-it-help-americans-/">Time</a> (Goldman estimate)</div>
       </div>
     </div>
-    <div class="watch"><strong>Watch:</strong> whether Brent holds above $100 after the Aramco strike, and how quickly the first diesel actually reaches the market.</div>
-    <div class="mix"><div class="mixbar"><span style="width:83%"></span></div>5 of 6 sources independent/international</div>
-  </article>
-
-  <article class="story" id="s-hormuz">
-    <div class="story-top"><span class="tag escalating">Escalating</span><span>Iran war · day 218 (began Feb 28)</span></div>
-    <h3>Four ships hit near Hormuz in four days as Trump floats post-midterm strikes</h3>
-    <h4>What happened</h4>
-    <p class="lede">UKMTO logged four attacks on vessels near the Strait of Hormuz from Oct 1 to 4. All were on the Omani side, which is the route US-escorted traffic uses. Trump rejected an Iranian proposal to reopen talks and said renewed strikes on Iran after the midterms are "possible" as ceasefire talks stall.</p>
-    <h4>How each side sees it</h4>
-    <div class="perspectives">
-      <div class="view a">
-        <div class="who">Hawks / pressure camp</div>
-        <p>Talks with Tehran are a stalling tactic while the IRGC keeps harassing shipping. Only continued pressure and the threat of renewed strikes keep the strait open.</p>
-        <div class="cite">Via <a href="https://www.iranintl.com/en/liveblog/202610033293">Iran International</a> <span class="lean">(Persian diaspora, anti-regime)</span></div>
-      </div>
-      <div class="view b">
-        <div class="who">Restraint camp</div>
-        <p>The war is driving the price shock that's hurting the economy and is now reaching solidly Republican districts. Seven months in, more strikes mean more of the same.</p>
-        <div class="cite">Via <a href="https://responsiblestatecraft.org/tag/iran-war/">Responsible Statecraft</a> <span class="lean">(Quincy Institute, restraint)</span></div>
-      </div>
-    </div>
-    <div class="watch"><strong>Watch:</strong> tanker insurance rates, and whether the attacks move to the US-escorted lane itself.</div>
-    <div class="mix"><div class="mixbar"><span style="width:100%"></span></div>3 of 3 sources independent</div>
+    <div class="watch"><strong>Watch:</strong> today's EIA diesel print (the record is $6.529, from Sep 21) and whether Murban's premium narrows if Saudi exports hold.</div>
+    <div class="mix"><div class="mixbar"><span style="width:71%"></span></div>5 of 7 sources independent/international</div>
+    <details class="sources"><summary>Sources</summary><ul>
+      <li><a href="https://gulfnews.com/world/americas/oil-prices-split-as-brent-tops-102-murban-hits-110-per-barrel-on-oct-5-2026-1.500698305">Gulf News</a> <span class="lean">— UAE</span></li>
+      <li><a href="https://www.nationthailand.com/news/world/40071873">Nation Thailand</a> <span class="lean">— Thai</span></li>
+      <li><a href="https://tradingeconomics.com/commodity/brent-crude-oil">Trading Economics</a> <span class="lean">— data</span></li>
+      <li><a href="https://www.euronews.com/2026/10/02/g7-agrees-100-million-barrel-emergency-oil-release-amid-us-pressure-over-diesel">Euronews</a> <span class="lean">— European</span></li>
+      <li><a href="https://newsletter.doomberg.com/p/straw-clutching">Doomberg</a> <span class="lean">— energy realist</span></li>
+      <li><a href="https://time.com/article/2026/10/03/the-g7-is-releasing-emergency-fuel-reserves-how-much-will-it-help-americans-/">Time</a> <span class="lean">— mainstream</span></li>
+      <li><a href="https://www.cbsnews.com/live-updates/trump-iran-war-us-midterm-elections-troops-deployment/">CBS News</a> <span class="lean">— mainstream</span></li>
+    </ul></details>
   </article>
 </section>
 
@@ -272,24 +280,33 @@
   <div class="section-head"><h2>US politics</h2><span class="count">1 story</span></div>
   <article class="story" id="s-midterms">
     <div class="story-top"><span class="tag developing">Developing</span><span>Midterms · T-minus 29 days</span></div>
-    <h3>Final month: forecasters tilt toward Democrats, GOP rejects the "wave"</h3>
+    <h3>Forecasters can't agree on the Senate, and Democrats bring the Epstein files into a Colorado race</h3>
     <h4>What happened</h4>
-    <p class="lede">Congress left Washington until after Nov 3. As of Oct 1, Decision Desk HQ gave Democrats a 75% chance of taking the House and 54% for the Senate. Cook moved 15 House races toward Democrats. Trump plans a 10-state swing through the battlegrounds. Republicans have the cash edge: $233M on hand vs. $130M for Democrats.</p>
+    <p class="lede">Since Sunday's issue: Senate forecasts as of Oct 4 range widely. Decision Desk HQ gives Democrats 56% and a 51-seat median. Polymarket has Democrats at 67%. PollsMax gives Republicans 69.9%. CBS/YouGov's tracker (Sept 30–Oct 2) projects 229 House seats for Democrats and 206 for Republicans. On Monday the DCCC launched a six-figure ad in Colorado's 5th District. In it, the brother of Epstein accuser Virginia Giuffre attacks Rep. Jeff Crank (R) over the Epstein files. The government is funded through Dec 11, so there is no shutdown fight before the election.</p>
     <h4>How each side sees it</h4>
     <div class="perspectives">
       <div class="view a">
-        <div class="who">"The ground is shifting"</div>
-        <p>Trump's approval is at historic lows in recent polling, with gas prices and the Iran war at the top of voters' concerns. Even conservative analyst Henry Olsen says voters are "disappointed, bordering on angry" over unkept promises. GOP aides worry about double-digit Trump seats.</p>
-        <div class="cite">Via <a href="https://www.aljazeera.com/news/2026/10/3/bordering-on-angry-the-state-of-play-as-us-midterms-enter-final-month">Al Jazeera</a> · <a href="https://www.washingtonexaminer.com/opinion/columnists/4737394/republican-2026-elections-reckoning-polls/">Washington Examiner (columnist)</a></div>
+        <div class="who">Republicans: the polls are missing something</div>
+        <p>Trump told an Ohio crowd, "I think we're gonna have a surprise." Brazil's result, where the polls underestimated the right, will feed that argument.</p>
+        <div class="cite">Via <a href="https://www.nbcnews.com/politics/2026-election/trump-campaigning-ohio-says-midterms-will-bring-big-surprise-rcna601150">NBC News</a> · <a href="https://www.pollsmax.com/senate/">PollsMax</a></div>
       </div>
       <div class="view b">
-        <div class="who">"No blue wave"</div>
-        <p>White House deputy chief of staff James Blair, who runs midterm strategy for MAGA Inc., says he doesn't "think there will be a blue wave at all." One Examiner op-ed predicts Republicans <em>expand</em> their majorities as voters reject "far-left" policy and polls undercount GOP support.</p>
-        <div class="cite">Via <a href="https://www.washingtonexaminer.com/op-eds/4750477/republicans-sweep-midterm-elections-prediction-lying-polls/">Washington Examiner</a> · Blair quote first reported by The Free Press</div>
+        <div class="who">Democrats: the stakes are the second term</div>
+        <p>Semafor reports that a Democratic Senate would block most Trump nominees: "Don't expect many of Trump's picks to move at all." Democrats are betting that the Epstein issue moves suburban voters in red-leaning seats.</p>
+        <div class="cite">Via <a href="https://politicalwire.com/2026/10/05/democratic-senate-would-confirm-very-few-trump-picks/">Semafor via Political Wire</a> · <a href="https://votes.decisiondeskhq.com/forecast/2026/senate">Decision Desk HQ</a></div>
       </div>
     </div>
-    <div class="watch"><strong>Watch:</strong> the Senate races in NC, TX, OH, AK, IA and ME, and whether gas prices come down before early voting peaks.</div>
-    <div class="mix"><div class="mixbar"><span style="width:100%"></span></div>3 of 3 sources independent/international</div>
+    <div class="watch"><strong>Watch:</strong> whether forecasters adjust after Brazil's polling miss, and early-vote turnout as it opens in more states.</div>
+    <div class="mix"><div class="mixbar"><span style="width:57%"></span></div>4 of 7 sources independent</div>
+    <details class="sources"><summary>Sources</summary><ul>
+      <li><a href="https://votes.decisiondeskhq.com/forecast/2026/senate">Decision Desk HQ</a> <span class="lean">— data</span></li>
+      <li><a href="https://polymarket.com/predictions/midterms">Polymarket</a> <span class="lean">— prediction market</span></li>
+      <li><a href="https://www.pollsmax.com/senate/">PollsMax</a> <span class="lean">— forecast</span></li>
+      <li><a href="https://politicalwire.com/2026/10/05/democratic-senate-would-confirm-very-few-trump-picks/">Political Wire / Semafor</a> <span class="lean">— center</span></li>
+      <li><a href="https://www.cbsnews.com/news/midterm-poll-battleground-tracker-democrats-house-advantage/">CBS News</a> <span class="lean">— mainstream</span></li>
+      <li><a href="https://www.nbcnews.com/politics/2026-election/family-epstein-victim-appears-campaign-attack-ad-colorado-rcna601415">NBC News</a> <span class="lean">— mainstream</span></li>
+      <li><a href="https://www.foxnews.com/politics/reporters-notebook-congress-dodged-fall-shutdown-real-fight-looms">Fox News</a> <span class="lean">— mainstream, right</span></li>
+    </ul></details>
   </article>
 </section>
 
@@ -297,27 +314,36 @@
 <section id="law">
   <div class="section-head"><h2>Law &amp; courts</h2><span class="count">1 story</span></div>
   <article class="story" id="s-suncor">
-    <div class="story-top"><span class="tag new">New</span><span>SCOTUS · October Term 2026</span></div>
-    <h3>Can a Colorado county sue Exxon over climate change? The justices hear it today.</h3>
+    <div class="story-top"><span class="tag new">New</span><span>SCOTUS · October Term 2026 opens today</span></div>
+    <h3>The term opens with Big Oil vs. Boulder, without Alito</h3>
     <h4>What happened</h4>
-    <p class="lede">Boulder County is suing Suncor and ExxonMobil under Colorado law. It says the companies misled the public about climate risks and should help pay for heat, drought, wildfire and flood costs. The companies, backed by the Trump administration, say federal law and the Clean Air Act preempt the suit. There's also a threshold question: does the Court even have jurisdiction before the state case has reached a final judgment? Later this term the Court also hears cases on assault-weapons bans, religious preschools and asylum status.</p>
+    <p class="lede">At 9 AM CT the justices hear <em>Suncor Energy v. Boulder County</em>. The question is whether federal law bars state-law claims for harm from interstate and international greenhouse-gas emissions. Boulder sued Suncor and ExxonMobil in 2018, and the Colorado Supreme Court let the case proceed in 2025. The Solicitor General is arguing alongside the companies. Kevin Russell argues for Boulder. Justice Alito recused himself without giving a reason, which leaves eight justices and the possibility of a 4–4 split that would let the Colorado ruling stand. <em>Johnson v. U.S. Congress</em>, on VA benefits for incarcerated veterans, follows.</p>
     <h4>Why it matters</h4>
-    <p>Dozens of similar state and city suits hang on this one. A broad ruling for the companies would effectively end climate liability litigation in state courts.</p>
+    <p>Dozens of similar state and city climate suits depend on the answer. Previews single out Thomas and Gorsuch, who are often skeptical of broad federal preemption, as the votes to watch.</p>
     <h4>How each side sees it</h4>
     <div class="perspectives">
       <div class="view a">
-        <div class="who">Energy companies / federal government</div>
-        <p>Global emissions are an "inherently transboundary" problem. Letting "each State… tackle inherently national or international problems" through local juries would produce a patchwork of conflicting liability rules.</p>
-        <div class="cite">Via <a href="https://www.scotusblog.com/2026/10/supreme-court-to-consider-whether-suit-may-go-forward-seeking-to-hold-energy-companies-liable-fo/">SCOTUSblog</a> · <a href="https://www.wlf.org/2026/09/30/publishing/why-the-supreme-court-should-shut-down-climate-change-tort-suits-in-suncor-v-boulder/">Washington Legal Foundation</a> <span class="lean">(pro-business)</span></div>
+        <div class="who">Industry / right</div>
+        <p>A Daily Caller column calls the case "climate lawfare." It argues a Colorado court shouldn't set national energy policy through local damage awards.</p>
+        <div class="cite">Via <a href="https://dailycaller.com/2026/10/03/opinion-suncor-boulder-oral-arguments-climate-lawfare-david-blackmon/">Daily Caller</a> <span class="lean">(right)</span> · <a href="https://justthenews.com/nation/states/center-square/supreme-court-set-hear-suncor-v-boulder-climate-lawsuit-arguments">The Center Square</a></div>
       </div>
       <div class="view b">
-        <div class="who">Boulder / climate litigants</div>
-        <p>This is a consumer-deception case, not emissions regulation. The companies "point to nothing in the text of the Constitution" that bars it, and the Court is stepping in before state courts have finished.</p>
-        <div class="cite">Via <a href="https://www.justsecurity.org/159107/suncor-v-boulder-constitution-clean-air-act-leave-deception/">Just Security</a> · <a href="https://ballsandstrikes.org/law-politics/suncor-energy-supreme-court-case-preview/">Balls &amp; Strikes</a> <span class="lean">(progressive)</span></div>
+        <div class="who">Boulder / climate advocates</div>
+        <p>Supporters say this is an ordinary state consumer-deception case, not emissions regulation. The Union of Concerned Scientists called Alito's recusal the "bare minimum" given what it calls a conflict of interest.</p>
+        <div class="cite">Via <a href="https://www.ucs.org/about/news/justice-alitos-recusal-climate-case-bare-minimum-address-glaring-conflict-interest">Union of Concerned Scientists</a> <span class="lean">(climate advocacy, left)</span> · <a href="https://earthjustice.org/brief/2026/what-to-know-about-suncor-energy-v-boulder-county">Earthjustice</a></div>
       </div>
     </div>
-    <div class="watch"><strong>Watch:</strong> whether Justices Gorsuch and Barrett, who sometimes side with states on federalism, are skeptical of the preemption argument.</div>
-    <div class="mix"><div class="mixbar"><span style="width:100%"></span></div>4 of 4 sources independent</div>
+    <div class="watch"><strong>Watch:</strong> whether Thomas or Gorsuch presses the companies on federalism, and whether any justice raises the jurisdiction question, which could end the case without a merits ruling.</div>
+    <div class="mix"><div class="mixbar"><span style="width:86%"></span></div>6 of 7 sources independent</div>
+    <details class="sources"><summary>Sources</summary><ul>
+      <li><a href="https://justthenews.com/nation/states/center-square/supreme-court-set-hear-suncor-v-boulder-climate-lawsuit-arguments">The Center Square</a> <span class="lean">— center-right</span></li>
+      <li><a href="https://reason.com/volokh/2026/09/30/justice-alito-says-recusal-in-suncor-energy-v-boulder-county-a-difficult-judgment-call/">Volokh Conspiracy</a> <span class="lean">— libertarian/conservative</span></li>
+      <li><a href="https://deseret.com/politics/2026/10/05/the-supreme-court-starts-2026-term-on-monday-here-is-what-to-know">Deseret News</a> <span class="lean">— Utah, center-right</span></li>
+      <li><a href="https://bouldercolorado.gov/news/us-supreme-court-hear-boulder-climate-case-monday">City of Boulder</a> <span class="lean">— party (primary)</span></li>
+      <li><a href="https://dailycaller.com/2026/10/03/opinion-suncor-boulder-oral-arguments-climate-lawfare-david-blackmon/">Daily Caller</a> <span class="lean">— right</span></li>
+      <li><a href="https://www.ucs.org/about/news/justice-alitos-recusal-climate-case-bare-minimum-address-glaring-conflict-interest">Union of Concerned Scientists</a> <span class="lean">— advocacy</span></li>
+      <li><a href="https://www.cnn.com/2026/10/03/politics/clarence-thomas-climate-change-suncor-boulder">CNN</a> <span class="lean">— mainstream</span></li>
+    </ul></details>
   </article>
 </section>
 
@@ -326,23 +352,31 @@
   <div class="section-head"><h2>Environment</h2><span class="count">1 story</span></div>
   <article class="story" id="s-cop">
     <div class="story-top"><span class="tag new">New</span><span>Road to COP31 · Antalya, Nov 9–20</span></div>
-    <h3>Pacific nations host pre-COP31 talks as 2026 piles up heat records</h3>
+    <h3>Pre-COP31 opens in Fiji with more than 50 countries at the table</h3>
     <h4>What happened</h4>
-    <p class="lede">Pre-COP31 meetings open today in Fiji and Tuvalu ahead of the November summit in Antalya, Turkey, which Australia leads in negotiations. This year's backdrop: August tied as the hottest month on record, ocean heat records set on 100 days, and Oxfam figures showing Pacific climate-disaster losses at 14.3% of GDP a year.</p>
+    <p class="lede">UN pre-COP talks opened Monday in Nadi. Fiji's Prime Minister Rabuka chaired the opening, with the prime ministers of Australia and Tuvalu as co-chairs. Ministers from more than 50 countries are attending. Australia's Chris Bowen is taking 34 leaders, including the heads of development banks, to Tuvalu. The agenda covers keeping 1.5°C in reach, access to climate finance, oceans, and Pacific leadership. The WHO joined to push health-focused climate measures. In the Pacific, Hurricane Nolo regained major-hurricane strength (Cat 3, 115 mph) on Saturday northwest of Hawaii and is moving away from land.</p>
     <h4>How each side sees it</h4>
     <div class="perspectives">
       <div class="view a">
-        <div class="who">Climate-justice view</div>
-        <p>Australia, as negotiating lead, should make its own fossil-fuel exporters pay for climate damage, or its leadership is empty.</p>
-        <div class="cite">Via <a href="https://climatechangenews.com/2026/10/02/as-cop31-co-host-australia-should-make-its-polluters-pay-for-climate-damage">Climate Home News</a> · <a href="https://www.amnesty.org/en/latest/news/2026/10/pre-cop31-pacific/">Amnesty</a></div>
+        <div class="who">Pacific hosts / climate-justice view</div>
+        <p>Rabuka says inaction "is a choice with a human face." Amnesty says leaders must show up for the Pacific "through action, not just speeches."</p>
+        <div class="cite">Via <a href="https://fijisun.com.fj/news/environment/pm-climate-inaction-a-choice-with-a-human-face">Fiji Sun</a> · <a href="https://www.amnesty.org/en/latest/news/2026/10/pre-cop31-pacific/">Amnesty International</a> · <a href="https://rnz.co.nz/news/pacific/1735789/fijian-pm-rabuka-urges-climate-action-as-pacific-hosts-pre-cop31-meeting">RNZ</a></div>
       </div>
       <div class="view b">
-        <div class="who">Energy-security view</div>
-        <p>No sourced counterpoint was found this cycle.</p>
-        <div class="flag-onesided">⚠ One-sided coverage. Live issues pull this side from sources like the Breakthrough Institute or Roger Pielke Jr. When none is found, the story is flagged like this rather than given a made-up counterpoint.</div>
+        <div class="who">Energy-security / skeptic view</div>
+        <p>No sourced response to the Nadi talks was found in the window. Roger Pielke Jr. lectures in Oslo Tuesday on how climate scenarios "got off track"; the next issue will check it.</p>
+        <div class="flag-onesided">⚠ One-sided coverage this cycle. No credible counterpoint dated Oct 2–5 was found, so none is supplied.</div>
       </div>
     </div>
-    <div class="mix"><div class="mixbar"><span style="width:100%"></span></div>3 of 3 sources independent</div>
+    <div class="mix"><div class="mixbar"><span style="width:100%"></span></div>6 of 6 sources independent/international</div>
+    <details class="sources"><summary>Sources</summary><ul>
+      <li><a href="https://www.france24.com/en/environment/20261004-pacific-leaders-climate-action-un-pre-cop-talks-fiji">France 24</a></li>
+      <li><a href="https://rnz.co.nz/news/pacific/1735789/fijian-pm-rabuka-urges-climate-action-as-pacific-hosts-pre-cop31-meeting">RNZ</a> <span class="lean">— NZ public broadcaster</span></li>
+      <li><a href="https://fijisun.com.fj/news/environment/pm-climate-inaction-a-choice-with-a-human-face">Fiji Sun</a></li>
+      <li><a href="https://www.amnesty.org/en/latest/news/2026/10/pre-cop31-pacific/">Amnesty International</a> <span class="lean">— NGO</span></li>
+      <li><a href="https://www.who.int/westernpacific/news/item/05-10-2026-who-joins-pre-cop31-to-advance-climate-action-that-delivers-for-people-s-health">WHO</a> <span class="lean">— primary</span></li>
+      <li><a href="https://www.staradvertiser.com/2026/10/03/breaking-news/nolo-grows-to-major-hurricane-again-near-northwestern-hawaiian-islands/">Honolulu Star-Advertiser</a></li>
+    </ul></details>
   </article>
 </section>
 
@@ -350,25 +384,26 @@
 <section id="ai">
   <div class="section-head"><h2>AI &amp; tech</h2><span class="count">1 story</span></div>
   <article class="story" id="s-ai">
-    <div class="story-top"><span class="tag new">New</span><span>Frontier labs · safety</span></div>
-    <h3>OpenAI shelves a model over safety regressions as the fight over preempting state AI laws heats up</h3>
+    <div class="story-top"><span class="tag new">New</span><span>AI policy · federal</span></div>
+    <h3>Trump names an AI czar with a "Super Intelligence Force," but no stated mission</h3>
     <h4>What happened</h4>
-    <p class="lede">OpenAI reportedly scrapped the release of GPT-6.1 "Astra" after internal testing showed serious safety regressions. It also parted ways with three safety researchers, saying they "mishandled sensitive information." The cheaper GPT-6.1 "Sol" and an always-on agent product ("Dots") shipped anyway. Google gave cyber-defenders first access to Gemini 4. In Washington, industry coalitions are pushing Congress to preempt state AI laws in California, Colorado and elsewhere, after Congress twice voted down moratorium language, once 99–1 in the Senate.</p>
+    <p class="lede">On Saturday Trump launched a "Super Intelligence Force" chaired by Director of National Intelligence Jay Clayton, effectively making him the administration's AI czar. FTC Chair Andrew Ferguson, Under Secretary Emil Michael and OPM's Scott Kupor are vice chairs. It came days after AI CEOs publicly floated slowing development and after Treasury Secretary Bessent told them to slow themselves down. The FTC's probe of OpenAI, Anthropic and METR, opened Sep 30, continues.</p>
     <h4>How each side sees it</h4>
     <div class="perspectives">
       <div class="view a">
-        <div class="who">One national rulebook</div>
-        <p>With 700+ state AI bills, companies face conflicting deadlines and rules. One federal framework is needed to compete with China.</p>
-        <div class="cite">Via <a href="https://www.digitalapplied.com/blog/federal-vs-state-ai-regulation-congress-preemption-2026">Digital Applied</a></div>
+        <div class="who">Race-to-win view</div>
+        <p>Clayton opposes a pause. He said last week that "the risk of not being first is high," framing AI leadership as a national-security contest with China.</p>
+        <div class="cite">Via <a href="https://siliconangle.com/2026/10/04/trump-launches-super-intelligence-force-with-jay-clayton-as-ai-czar/">SiliconANGLE</a> · <a href="https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/">TechCrunch</a></div>
       </div>
       <div class="view b">
-        <div class="who">Let states keep acting</div>
-        <p>A model was pulled over safety failures at the same time its safety staff were let go. That's the case for keeping state guardrails while Congress stalls. Civil-liberties groups oppose the bipartisan preemption draft.</p>
-        <div class="cite">Via <a href="https://www.aclu.org/press-releases/aclu-reacts-to-draft-bipartisan-ai-bill-that-would-preempt-state-laws">ACLU</a> · <a href="https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-october-1-2026/">The Neuron</a></div>
+        <div class="who">Guardrails view</div>
+        <p>Critics note the force was created "without saying what it will actually do," and that putting the intelligence chief and the FTC chair in charge blurs security and consumer-protection roles.</p>
+        <div class="cite">Via <a href="https://www.ibtimes.co.uk/trump-super-intelligence-force-us-ai-policy-1823584">IBTimes UK</a> · <a href="https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump">NPR</a></div>
       </div>
     </div>
     <p style="font-size:13px;color:var(--ink-3);margin-top:10px">Disclosure: The Brief is written by Claude, an AI made by Anthropic. Anthropic news is covered by the same rules as everything else, and this note appears whenever AI companies are covered.</p>
-    <div class="mix"><div class="mixbar"><span style="width:100%"></span></div>4 of 4 sources independent</div>
+    <div class="watch"><strong>Watch:</strong> a charter or executive order defining the force's powers, and whether it touches the FTC probe.</div>
+    <div class="mix"><div class="mixbar"><span style="width:75%"></span></div>3 of 4 sources independent</div>
   </article>
 </section>
 
@@ -376,45 +411,33 @@
 <section id="church">
   <div class="section-head"><h2>The Church</h2><span class="count">1 story</span></div>
   <article class="story" id="s-amoris">
-    <div class="story-top"><span class="tag new">New</span><span>Pontificate of Leo XIV</span></div>
-    <h3>Ten years after <em>Amoris Laetitia</em>, Leo calls bishops to Rome to take stock</h3>
+    <div class="story-top"><span class="tag developing">Developing</span><span>Pontificate of Leo XIV</span></div>
+    <h3><em>Amoris</em> meeting opens Wednesday; Parolin says ending wars means abandoning "domination"</h3>
     <h4>What happened</h4>
-    <p class="lede">Pope Leo XIV is convening a closed-door meeting Oct 7–14 on how bishops have put Francis's 2016 exhortation into practice. That document opened a path for some divorced and civilly remarried Catholics to receive Communion. The Vatican stresses the text is "not up for rewriting, amending or scrapping." The meeting will use the synodal "Conversation in the Spirit" method and publish a public summary. Also this week: Leo returned from a four-day France trip (Sept 25–28). It included the first papal visit to the rebuilt Notre-Dame, a UNESCO speech on AI, and a private meeting with abuse survivors at Lourdes. His October prayer intention is mental-health ministry.</p>
+    <p class="lede">Since Sunday's issue: the <em>Amoris Laetitia</em> meeting opens Wednesday in the Paul VI Hall with 187 participants. Bishops will hear from 11 married couples from five continents. Officials repeat that it is neither a synod nor an evaluation of the document. (EWTN counts 111 conference presidents; last issue's 115 came from an earlier briefing.) In a la Repubblica interview relayed by Vatican News, Secretary of State Cardinal Parolin said ending the wars in Gaza, Ukraine and Iran requires leaving "the logic of domination" and tackling inequality. Leo's Sunday Angelus said St. Francis "repaired the Church."</p>
     <h4>How each side sees it</h4>
     <div class="perspectives">
       <div class="view a">
-        <div class="who">Traditionalist view</div>
-        <p>The review is overdue. Critics see "Luther's shadow" in <em>Amoris</em> and want the meeting to restore clarity on marriage and the sacraments, not just record practice.</p>
-        <div class="cite">Via <a href="https://www.returntoorder.org/2026/10/luthers-shadow-in-amoris-laetitia-rome-bishops-meeting">Return to Order (TFP)</a> <span class="lean">(traditionalist)</span> · <a href="https://cruxnow.com/vatican/2026/10/pope-leo-seeks-status-update-of-franciss-divisive-look-at-divorced-and-remarried-catholics">Crux</a></div>
+        <div class="who">Organizers: listening, not relitigating</div>
+        <p>Fr. Giacomo Costa said "the question is not what <em>Amoris Laetitia</em> says" but how families are being accompanied in practice.</p>
+        <div class="cite">Via <a href="https://www.catholicsun.org/2026/10/02/vatican-meeting-on-amoris-laetitia-to-focus-on-listening-not-past-debates-officials-say/">Catholic Sun / CNS</a> · <a href="https://wherepeteris.com/morning-keys-leo-says-st-francis-repaired-the-church/">Where Peter Is</a> <span class="lean">(pro-Francis)</span></div>
       </div>
       <div class="view b">
-        <div class="who">Francis-continuity view</div>
-        <p>This is a pastoral checkup on a settled teaching. Leo is listening to how accompaniment works locally, not reopening doctrine. The Vatican's own framing backs this up.</p>
-        <div class="cite">Via <a href="https://www.ncronline.org/vatican/vatican-news/pope-leo-seeks-status-update-francis-divisive-opening-divorced-and-remarried">National Catholic Reporter</a> <span class="lean">(progressive)</span> · <a href="https://wherepeteris.com/morning-keys-gambetti-named-to-chieti-vasto-see">Where Peter Is</a></div>
+        <div class="who">Skeptical framing</div>
+        <p>Crux frames the meeting as Leo seeking a "status update" on a "divisive" text. Conservative coverage stresses the challenges families face over the document's legacy. Traditionalist outlets have pressed for doctrinal clarity.</p>
+        <div class="cite">Via <a href="https://cruxnow.com/vatican/2026/10/pope-leo-seeks-status-update-of-franciss-divisive-look-at-divorced-and-remarried-catholics">Crux</a> · <a href="https://www.ewtnnews.com/vatican/10-years-after-amoris-laetitia-bishops-to-discuss-challenges-of-families-at-the-vatican">EWTN News</a> <span class="lean">(conservative)</span></div>
       </div>
     </div>
-    <div class="watch"><strong>Watch:</strong> the public summary report, and whether participants from Poland and Africa, where bishops' conferences resisted <em>Amoris</em>, speak publicly.</div>
-    <div class="mix"><div class="mixbar"><span style="width:100%"></span></div>7 of 7 sources independent (incl. Vatican News, EWTN, The Pillar)</div>
+    <div class="watch"><strong>Watch:</strong> the opening addresses Wednesday, and whether any participant briefs the press despite the closed format.</div>
+    <div class="mix"><div class="mixbar"><span style="width:100%"></span></div>5 of 5 sources independent</div>
     <details class="sources"><summary>Sources</summary><ul>
+      <li><a href="https://www.ewtnnews.com/vatican/10-years-after-amoris-laetitia-bishops-to-discuss-challenges-of-families-at-the-vatican">EWTN News</a> <span class="lean">— conservative</span></li>
+      <li><a href="https://www.catholicsun.org/2026/10/02/vatican-meeting-on-amoris-laetitia-to-focus-on-listening-not-past-debates-officials-say/">Catholic Sun / CNS</a> <span class="lean">— US bishops' news service</span></li>
       <li><a href="https://cruxnow.com/vatican/2026/10/pope-leo-seeks-status-update-of-franciss-divisive-look-at-divorced-and-remarried-catholics">Crux</a> <span class="lean">— center</span></li>
-      <li><a href="https://www.ncronline.org/vatican/vatican-news/pope-leo-seeks-status-update-francis-divisive-opening-divorced-and-remarried">National Catholic Reporter</a> <span class="lean">— progressive</span></li>
-      <li><a href="https://www.returntoorder.org/2026/10/luthers-shadow-in-amoris-laetitia-rome-bishops-meeting">Return to Order</a> <span class="lean">— traditionalist</span></li>
-      <li><a href="https://wherepeteris.com/morning-keys-gambetti-named-to-chieti-vasto-see">Where Peter Is</a> <span class="lean">— pro-Francis</span></li>
-      <li><a href="https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-prayer-intention-october-for-mental-health-ministry.html">Vatican News</a> <span class="lean">— official</span></li>
-      <li><a href="https://www.ncregister.com/cna/pope-leo-xiv-arrives-in-paris-at-start-of-4-day-visit-to-france">National Catholic Register / CNA</a> <span class="lean">— conservative</span></li>
-      <li><a href="https://www.pillarcatholic.com/p/news-roundup-week-of-october-1">The Pillar</a> <span class="lean">— center-right, investigative</span></li>
+      <li><a href="https://wherepeteris.com/morning-keys-leo-says-st-francis-repaired-the-church/">Where Peter Is</a> <span class="lean">— pro-Francis</span></li>
+      <li><a href="https://www.vaticannews.va/en/vatican-city/news/2026-10/parolin-ending-wars-requires-moving-beyond-domination.html">Vatican News</a> <span class="lean">— official</span></li>
     </ul></details>
   </article>
-</section>
-
-<!-- ============ BLIND SPOT ============ -->
-<section id="blindspot">
-  <div class="blindspot">
-    <div class="eyebrow">Blind spot</div>
-    <h3>The Lukoil side deal is a big story in Kyiv and Moscow's exile press, and nearly absent on the American right</h3>
-    <p>In our sweep, the report that Ukraine talks now include a Lukoil asset sale was covered by the NYT, The Hill, and Ukrainian and Russian-exile outlets (Kyiv Post, Ukrainska Pravda, Moscow Times, Liga). We found <strong>no coverage yet from major right-leaning US outlets</strong>. If you mostly read conservative media, you probably haven't seen this.</p>
-    <p style="margin-bottom:0">Their likely argument, which is also the negotiators' reported rationale: bringing Lukoil's global assets under Western ownership could lower energy prices and give Washington leverage over Moscow. Whether that's statecraft or a sweetheart deal is the debate worth following.</p>
-  </div>
 </section>
 
 <!-- ============ THREADS ============ -->
@@ -423,15 +446,17 @@
   <div class="table-wrap"><table>
     <thead><tr><th>Thread</th><th>Status</th><th>Where it stands</th><th>Next marker</th></tr></thead>
     <tbody>
-      <tr><td>Iran war</td><td><span class="tag escalating">Esc.</span></td><td>Day 218. Talks stalled; 4 ship attacks Oct 1–4.</td><td>Post-midterm strike decision</td></tr>
-      <tr><td>Saudi–Houthi war</td><td><span class="tag escalating">Esc.</span></td><td>Truce collapsed in July; Aramco strike claimed.</td><td>Damage confirmation</td></tr>
-      <tr><td>Energy crisis</td><td><span class="tag developing">Dev.</span></td><td>Brent ~$103, diesel record; G7 releasing 100M bbl.</td><td>First diesel deliveries (~20 days)</td></tr>
-      <tr><td>Ukraine peace track</td><td><span class="tag developing">Dev.</span></td><td>Limited energy truce floated; Lukoil deal reported.</td><td>Abu Dhabi talks date</td></tr>
-      <tr><td>Fed / labor market</td><td><span class="tag developing">Dev.</span></td><td>Range 3.75–4.00% after the Sept hike; payrolls +29k.</td><td>CPI; late-Oct FOMC</td></tr>
-      <tr><td>US midterms</td><td><span class="tag developing">Dev.</span></td><td>House lean D, Senate toss-up.</td><td>Nov 3</td></tr>
-      <tr><td>Brazil election</td><td><span class="tag developing">Dev.</span></td><td>First round held Oct 4.</td><td>Runoff Oct 25</td></tr>
-      <tr><td>SCOTUS term</td><td><span class="tag new">New</span></td><td>Opens with <em>Suncor</em>.</td><td>Guns, religion, asylum cases</td></tr>
-      <tr><td><em>Amoris</em> review</td><td><span class="tag new">New</span></td><td>Bishops' meeting announced.</td><td>Oct 7–14 meeting</td></tr>
+      <tr><td>Iran war</td><td><span class="tag escalating">Esc.</span></td><td>Day 220. Oil minister resigns; exports near zero.</td><td>Bovard confirmation; strike decision</td></tr>
+      <tr><td>Saudi–Houthi war</td><td><span class="tag escalating">Esc.</span></td><td>Offensive continues; Aramco silent.</td><td>Saudi export data</td></tr>
+      <tr><td>Energy crisis</td><td><span class="tag developing">Dev.</span></td><td>Brent ~$101–103; Murban ~$110.</td><td>EIA diesel today; OPEC+ Nov 1</td></tr>
+      <tr><td>Ukraine peace track</td><td><span class="tag developing">Dev.</span></td><td>US seeks trilateral talks by end-Oct.</td><td>Date and venue</td></tr>
+      <tr><td>Fed / labor market</td><td><span class="tag developing">Dev.</span></td><td>Oct hike odds ~23%.</td><td>Minutes Oct 7; CPI Oct 14</td></tr>
+      <tr><td>US midterms</td><td><span class="tag developing">Dev.</span></td><td>Senate forecasts split.</td><td>Nov 3</td></tr>
+      <tr><td>Brazil election</td><td><span class="tag developing">Dev.</span></td><td>Flávio 47.0%, Lula 45.2%.</td><td>Runoff Oct 25</td></tr>
+      <tr><td>SCOTUS term</td><td><span class="tag developing">Dev.</span></td><td><em>Suncor</em> argued today.</td><td><em>Anderson v. Intel</em> Oct 6</td></tr>
+      <tr><td>Voting-law rulings</td><td><span class="tag developing">Dev.</span></td><td>No change since Sunday.</td><td>11th Circuit</td></tr>
+      <tr><td>US AI policy</td><td><span class="tag new">New</span></td><td>Clayton heads "Super Intelligence Force."</td><td>Charter / mandate</td></tr>
+      <tr><td><em>Amoris</em> review</td><td><span class="tag developing">Dev.</span></td><td>Opens Wednesday.</td><td>Summary Oct 14</td></tr>
     </tbody>
   </table></div>
 </section>
@@ -440,65 +465,72 @@
 <section id="ledger">
   <div class="section-head"><h2>Source ledger</h2><span class="count">Every source cited in this issue</span></div>
   <div class="ledger-summary">
-    <div class="big-pct">82%</div>
+    <div class="big-pct">89%</div>
     <div style="flex:1;min-width:180px">
-      <div class="ledger-bar"><span style="width:82%"></span></div>
-      <div class="footnote">41 independent / international / state, and 9 mainstream, out of 50 sources. Target: at least 50% non-mainstream.</div>
+      <div class="ledger-bar"><span style="width:89%"></span></div>
+      <div class="footnote">51 independent / international / state, and 6 mainstream, out of 57 sources. Target: at least 50% non-mainstream.</div>
     </div>
   </div>
   <div class="table-wrap"><table>
     <thead><tr><th>Source</th><th>Type</th><th>Lean / note</th></tr></thead>
     <tbody>
+      <tr data-type="state"><td>Agência Brasil</td><td><span class="pill state">State media</span></td><td>Brazilian government-owned</td></tr>
+      <tr data-type="indep"><td>MercoPress</td><td><span class="pill indep">Intl</span></td><td>South Atlantic regional</td></tr>
       <tr data-type="indep"><td>Al Jazeera</td><td><span class="pill indep">Intl</span></td><td>Qatar-funded</td></tr>
-      <tr data-type="indep"><td>Daily Pakistan</td><td><span class="pill indep">Intl</span></td><td>Pakistani</td></tr>
-      <tr data-type="state"><td>RT</td><td><span class="pill state">State media</span></td><td>Russian government</td></tr>
-      <tr data-type="indep"><td>Profile News</td><td><span class="pill indep">Intl</span></td><td>Regional</td></tr>
-      <tr data-type="indep"><td>Liga.net</td><td><span class="pill indep">Intl</span></td><td>Ukrainian</td></tr>
-      <tr data-type="indep"><td>Mezha</td><td><span class="pill indep">Intl</span></td><td>Ukrainian</td></tr>
-      <tr data-type="indep"><td>Kyiv Post</td><td><span class="pill indep">Intl</span></td><td>Ukrainian</td></tr>
-      <tr data-type="indep"><td>Ukrainska Pravda</td><td><span class="pill indep">Intl</span></td><td>Ukrainian</td></tr>
-      <tr data-type="indep"><td>The Moscow Times</td><td><span class="pill indep">Intl</span></td><td>Russian exile, anti-Kremlin</td></tr>
-      <tr data-type="indep"><td>Council on Foreign Relations</td><td><span class="pill indep">Think tank</span></td><td>Establishment center</td></tr>
-      <tr data-type="indep"><td>Foreign Policy</td><td><span class="pill indep">Indep</span></td><td>Center</td></tr>
-      <tr data-type="indep"><td>24/7 Wall St.</td><td><span class="pill indep">Indep</span></td><td>Markets</td></tr>
-      <tr data-type="indep"><td>TipRanks</td><td><span class="pill indep">Indep</span></td><td>Markets</td></tr>
-      <tr data-type="indep"><td>ZeroHedge</td><td><span class="pill indep">Indep</span></td><td>Right-libertarian</td></tr>
-      <tr data-type="indep"><td>OilPrice.com</td><td><span class="pill indep">Indep</span></td><td>Energy trade</td></tr>
-      <tr data-type="indep"><td>Discovery Alert</td><td><span class="pill indep">Indep</span></td><td>Commodities analysis</td></tr>
-      <tr data-type="indep"><td>Nairametrics</td><td><span class="pill indep">Intl</span></td><td>Nigerian financial</td></tr>
-      <tr data-type="indep"><td>EnergyNow</td><td><span class="pill indep">Indep</span></td><td>Canadian energy trade</td></tr>
-      <tr data-type="indep"><td>Trading Economics</td><td><span class="pill indep">Data</span></td><td>Market data</td></tr>
-      <tr data-type="indep"><td>GlobalSecurity.org</td><td><span class="pill indep">Indep</span></td><td>Defense tracker</td></tr>
+      <tr data-type="indep"><td>Latin America Daily Briefing</td><td><span class="pill indep">Indep</span></td><td>Newsletter</td></tr>
+      <tr data-type="indep"><td>Ynet</td><td><span class="pill indep">Intl</span></td><td>Israeli, center</td></tr>
       <tr data-type="indep"><td>Iran International</td><td><span class="pill indep">Intl</span></td><td>Diaspora, anti-regime</td></tr>
-      <tr data-type="indep"><td>Responsible Statecraft</td><td><span class="pill indep">Indep</span></td><td>Restraint (Quincy)</td></tr>
-      <tr data-type="indep"><td>Washington Examiner</td><td><span class="pill indep">Indep</span></td><td>Right</td></tr>
-      <tr data-type="indep"><td>The Free Press</td><td><span class="pill indep">Indep</span></td><td>Heterodox center-right</td></tr>
-      <tr data-type="indep"><td>The Fulcrum</td><td><span class="pill indep">Indep</span></td><td>Cross-partisan</td></tr>
-      <tr data-type="indep"><td>SCOTUSblog</td><td><span class="pill indep">Indep</span></td><td>Legal, nonpartisan</td></tr>
-      <tr data-type="indep"><td>Washington Legal Foundation</td><td><span class="pill indep">Indep</span></td><td>Pro-business legal</td></tr>
-      <tr data-type="indep"><td>Just Security</td><td><span class="pill indep">Indep</span></td><td>Legal, center-left</td></tr>
-      <tr data-type="indep"><td>Balls &amp; Strikes</td><td><span class="pill indep">Indep</span></td><td>Progressive legal</td></tr>
-      <tr data-type="indep"><td>National Constitution Center</td><td><span class="pill indep">Indep</span></td><td>Nonpartisan</td></tr>
-      <tr data-type="indep"><td>Climate Home News</td><td><span class="pill indep">Indep</span></td><td>Climate-focused</td></tr>
+      <tr data-type="indep"><td>Middle East Eye</td><td><span class="pill indep">Intl</span></td><td>Arab-world, left</td></tr>
+      <tr data-type="indep"><td>Rigzone</td><td><span class="pill indep">Indep</span></td><td>Energy trade</td></tr>
+      <tr data-type="indep"><td>The National</td><td><span class="pill indep">Intl</span></td><td>UAE</td></tr>
+      <tr data-type="indep"><td>Haaretz</td><td><span class="pill indep">Intl</span></td><td>Israeli, left</td></tr>
+      <tr data-type="indep"><td>Daily Sabah</td><td><span class="pill indep">Intl</span></td><td>Turkish, pro-government</td></tr>
+      <tr data-type="indep"><td>Tribune India</td><td><span class="pill indep">Intl</span></td><td>Indian, center</td></tr>
+      <tr data-type="indep"><td>France 24</td><td><span class="pill indep">Intl</span></td><td>French public broadcaster</td></tr>
+      <tr data-type="indep"><td>Kyiv Independent</td><td><span class="pill indep">Intl</span></td><td>Ukrainian</td></tr>
+      <tr data-type="state"><td>Ukrinform</td><td><span class="pill state">State media</span></td><td>Ukrainian state agency</td></tr>
+      <tr data-type="indep"><td>Japan Times</td><td><span class="pill indep">Intl</span></td><td>Japanese, center</td></tr>
+      <tr data-type="indep"><td>ProtoThema</td><td><span class="pill indep">Intl</span></td><td>Greek</td></tr>
+      <tr data-type="indep"><td>EA WorldView</td><td><span class="pill indep">Indep</span></td><td>Independent analysis</td></tr>
+      <tr data-type="indep"><td>Investing.com</td><td><span class="pill indep">Indep</span></td><td>Markets</td></tr>
+      <tr data-type="indep"><td>Wolf Street</td><td><span class="pill indep">Indep</span></td><td>Skeptical markets</td></tr>
+      <tr data-type="indep"><td>Indeed Hiring Lab</td><td><span class="pill indep">Indep</span></td><td>Labor-market research</td></tr>
+      <tr data-type="indep"><td>Rio Times</td><td><span class="pill indep">Intl</span></td><td>Brazil-based, markets</td></tr>
+      <tr data-type="indep"><td>Gulf News</td><td><span class="pill indep">Intl</span></td><td>UAE</td></tr>
+      <tr data-type="indep"><td>Nation Thailand</td><td><span class="pill indep">Intl</span></td><td>Thai</td></tr>
+      <tr data-type="indep"><td>Trading Economics</td><td><span class="pill indep">Data</span></td><td>Market data</td></tr>
+      <tr data-type="indep"><td>Euronews</td><td><span class="pill indep">Intl</span></td><td>European</td></tr>
+      <tr data-type="indep"><td>Doomberg</td><td><span class="pill indep">Indep</span></td><td>Energy realist</td></tr>
+      <tr data-type="indep"><td>Decision Desk HQ</td><td><span class="pill indep">Data</span></td><td>Forecast</td></tr>
+      <tr data-type="indep"><td>Polymarket</td><td><span class="pill indep">Data</span></td><td>Prediction market</td></tr>
+      <tr data-type="indep"><td>PollsMax</td><td><span class="pill indep">Data</span></td><td>Forecast</td></tr>
+      <tr data-type="indep"><td>Semafor / Political Wire</td><td><span class="pill indep">Indep</span></td><td>Center</td></tr>
+      <tr data-type="indep"><td>The Center Square</td><td><span class="pill indep">Indep</span></td><td>Center-right</td></tr>
+      <tr data-type="indep"><td>Volokh Conspiracy</td><td><span class="pill indep">Indep</span></td><td>Libertarian / conservative</td></tr>
+      <tr data-type="indep"><td>Deseret News</td><td><span class="pill indep">Indep</span></td><td>Center-right</td></tr>
+      <tr data-type="indep"><td>City of Boulder</td><td><span class="pill indep">Primary</span></td><td>Party to case</td></tr>
+      <tr data-type="indep"><td>Daily Caller</td><td><span class="pill indep">Indep</span></td><td>Right</td></tr>
+      <tr data-type="indep"><td>Union of Concerned Scientists</td><td><span class="pill indep">NGO</span></td><td>Climate advocacy</td></tr>
+      <tr data-type="indep"><td>Earthjustice</td><td><span class="pill indep">NGO</span></td><td>Environmental law, left</td></tr>
+      <tr data-type="indep"><td>Fiji Sun</td><td><span class="pill indep">Intl</span></td><td>Fijian</td></tr>
+      <tr data-type="indep"><td>RNZ</td><td><span class="pill indep">Intl</span></td><td>NZ public broadcaster</td></tr>
       <tr data-type="indep"><td>Amnesty International</td><td><span class="pill indep">NGO</span></td><td>Human rights</td></tr>
-      <tr data-type="indep"><td>Digital Applied</td><td><span class="pill indep">Indep</span></td><td>Industry analysis</td></tr>
-      <tr data-type="indep"><td>ACLU</td><td><span class="pill indep">NGO</span></td><td>Civil liberties, left</td></tr>
-      <tr data-type="indep"><td>The Neuron</td><td><span class="pill indep">Indep</span></td><td>AI newsletter</td></tr>
-      <tr data-type="indep"><td>AI Weekly</td><td><span class="pill indep">Indep</span></td><td>AI newsletter</td></tr>
+      <tr data-type="indep"><td>WHO</td><td><span class="pill indep">Primary</span></td><td>UN agency</td></tr>
+      <tr data-type="indep"><td>Honolulu Star-Advertiser</td><td><span class="pill indep">Indep</span></td><td>Regional</td></tr>
+      <tr data-type="indep"><td>TechCrunch</td><td><span class="pill indep">Indep</span></td><td>Tech trade</td></tr>
+      <tr data-type="indep"><td>SiliconANGLE</td><td><span class="pill indep">Indep</span></td><td>Tech trade</td></tr>
+      <tr data-type="indep"><td>IBTimes UK</td><td><span class="pill indep">Intl</span></td><td>UK digital</td></tr>
+      <tr data-type="indep"><td>EWTN News</td><td><span class="pill indep">Catholic</span></td><td>Conservative</td></tr>
+      <tr data-type="indep"><td>Catholic Sun / CNS</td><td><span class="pill indep">Catholic</span></td><td>US bishops' news service</td></tr>
       <tr data-type="indep"><td>Crux</td><td><span class="pill indep">Catholic</span></td><td>Center</td></tr>
-      <tr data-type="indep"><td>National Catholic Reporter</td><td><span class="pill indep">Catholic</span></td><td>Progressive</td></tr>
-      <tr data-type="indep"><td>Return to Order (TFP)</td><td><span class="pill indep">Catholic</span></td><td>Traditionalist</td></tr>
       <tr data-type="indep"><td>Where Peter Is</td><td><span class="pill indep">Catholic</span></td><td>Pro-Francis</td></tr>
-      <tr data-type="indep"><td>Vatican News / Nat'l Catholic Register / The Pillar</td><td><span class="pill indep">Catholic</span></td><td>Official / conservative / investigative (counted as 1)</td></tr>
-      <tr data-type="main"><td>The Hill</td><td><span class="pill main">Mainstream</span></td><td>Center</td></tr>
-      <tr data-type="main"><td>CNBC</td><td><span class="pill main">Mainstream</span></td><td>Center</td></tr>
-      <tr data-type="main"><td>Fox Business</td><td><span class="pill main">Mainstream</span></td><td>Right</td></tr>
-      <tr data-type="main"><td>NPR</td><td><span class="pill main">Mainstream</span></td><td>Center-left</td></tr>
+      <tr data-type="indep"><td>Vatican News</td><td><span class="pill indep">Catholic</span></td><td>Official</td></tr>
+      <tr data-type="main"><td>CNN</td><td><span class="pill main">Mainstream</span></td><td>Center-left</td></tr>
+      <tr data-type="main"><td>Fox News</td><td><span class="pill main">Mainstream</span></td><td>Right</td></tr>
       <tr data-type="main"><td>CBS News</td><td><span class="pill main">Mainstream</span></td><td>Center-left</td></tr>
       <tr data-type="main"><td>NBC News</td><td><span class="pill main">Mainstream</span></td><td>Center-left</td></tr>
-      <tr data-type="main"><td>New York Times (via reprints)</td><td><span class="pill main">Mainstream</span></td><td>Center-left</td></tr>
-      <tr data-type="main"><td>Yahoo Finance</td><td><span class="pill main">Mainstream</span></td><td>Aggregator</td></tr>
-      <tr data-type="main"><td>Bloomberg</td><td><span class="pill main">Mainstream</span></td><td>Center</td></tr>
+      <tr data-type="main"><td>NPR</td><td><span class="pill main">Mainstream</span></td><td>Center-left</td></tr>
+      <tr data-type="main"><td>Time</td><td><span class="pill main">Mainstream</span></td><td>Center</td></tr>
     </tbody>
   </table></div>
 </section>
