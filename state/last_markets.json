@@ -1,12 +1,12 @@
 {
-  "as_of": "2026-10-06 close (Brent/WTI/HH/DXY back-calculated from Trading Economics Oct 7 quotes; no dated settlement report confirmed)",
-  "brent": 100.58,
-  "wti": 89.40,
-  "henry_hub": 3.11,
+  "as_of": "2026-10-08 close (10y official Treasury; others derived from Oct 9 OilPrice/Trading Economics quotes minus daily change)",
+  "brent": 104.27,
+  "wti": 91.49,
+  "henry_hub": 3.17,
   "us_diesel_retail": 6.199,
   "us_diesel_retail_as_of": "2026-10-05 (EIA weekly; next print Oct 14)",
-  "sp500": 7792.19,
-  "us10y": 5.27,
-  "gold": 4179.70,
-  "dxy": 101.83
+  "sp500": 7793.97,
+  "us10y": 5.22,
+  "gold": 4133.0,
+  "dxy": 102.14
 }

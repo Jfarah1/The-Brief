@@ -1,16 +1,93 @@
 {
-  "updated": "2026-10-07",
+  "updated": "2026-10-09",
   "threads": [
-    {"id": "iran-war", "title": "Iran war", "began": "2026-02-28", "status": "escalating", "latest": "Day 222 (Oct 7). Nonprofit (via Bloomberg Oct 6): Iranian oil stored outside blockade ~10M bbl (from ~100M in July), could run out by end-Oct; no loadings since mid-Aug. Vance: war ends only with 'meaningful' enrichment cut. Qatar mediation 'active'. Rial ~2.69M/$. Foreign Exchanges: 13+ attempted tanker attacks in ~a week. Bovard still acting oil minister.", "next": "Pezeshkian-Putin in Turkmenistan Oct 9; storage hitting zero"},
-    {"id": "saudi-houthi", "title": "Saudi-Houthi war", "began": "2026-07", "status": "escalating", "latest": "Oct 5-7: gov't campaign to retake all Houthi territory; claims Bab al-Mandeb and Perim Island. Houthi attacks on two Saudi border airports wounded 3; claimed missile at Riyadh King Khalid airport (Saudi: intercepted). IOM ~184k displaced. Still no Aramco statement.", "next": "Bab al-Mandeb control; Aramco statement"},
-    {"id": "energy-crisis", "title": "Energy / diesel crisis", "began": "2026-03", "status": "developing", "latest": "EIA diesel $6.199 (Oct 5), -18.3c. Trump dropped diesel export ban threat. G7 release front-loads diesel within 20 days. Brent ~$100.6 Oct 6 (unconfirmed settle). Saudi exports ~6M bpd via rerouting; East-West pipeline 5.8M; Aramco cut Nov Asia OSP.", "next": "EIA diesel Oct 14; first G7 diesel cargoes; OPEC+ Nov 1"},
-    {"id": "ukraine-peace", "title": "Ukraine war / peace track", "began": "2025", "status": "escalating", "latest": "Oct 7: ~70 missiles + drones on Putin's 74th birthday, 19+ dead (14 Pryluky). Western embassies refuse Russian demand to leave Kyiv. Lithuania voted 106-18 to start lifting nuclear-weapons ban. EU ambassadors approved 'largest-ever' sanctions list (headline only); EU EUR1.2B for drones/missiles; Norway ~$9B for 2027. No date/venue for trilateral talks. OFAC Lukoil GL 131J expires Oct 22.", "next": "EU package adoption; talks date; Lukoil license Oct 22"},
-    {"id": "fed-labor", "title": "Fed / labor market", "began": "2026-09", "status": "developing", "latest": "Range 3.75-4.00%. Oct 6 Fedspeak split: Williams 'no urgency', Bowman no urgent need, Logan +50bp+, Musalem AI capex ~half of inflation. Oct hike odds ~20-25%, Dec ~69%. ISM services 54.9 (prices 74.0). Aug trade deficit $132.6B. 10y 5.31% Oct 5 (24-yr high).", "next": "Minutes Oct 7 1pm; CPI Oct 14; FOMC Oct 27-28"},
-    {"id": "midterms", "title": "US midterms", "began": "2026", "status": "developing", "latest": "Oct 5: Trump says MAGA Inc. will pay for ads after $10.1M+ taxpayer-funded; Oct 6 Schumer to file FEC complaint. Suffolk Iowa Senate Turek (D) 48 Hinson (R) 44. Kansas Senate toss-up. Collins-Jackson debate 1 Oct 6. Kalshi: D ~83-85% House, R ~53% Senate.", "next": "Election Day Nov 3"},
-    {"id": "brazil-election", "title": "Brazil election", "began": "2026-10-04", "status": "developing", "latest": "Zema (Oct 5) and Caiado (Oct 6) endorsed Flavio; PSD reportedly neutral. Their ~2.93M votes exceed Flavio's 2.22M lead. No runoff poll yet.", "next": "Datafolha Oct 8; AtlasIntel Oct 9; runoff Oct 25"},
-    {"id": "scotus-ot2026", "title": "SCOTUS October Term 2026", "began": "2026-10-05", "status": "developing", "latest": "Suncor: Barrett pivotal; Kavanaugh pro-companies; Kagan/Sotomayor/Jackson pro-Boulder; 8 justices. Anderson v. Intel (Oct 6): justices seemed to favor ending suit. Oct 5 orders: no grants; GVRs in WA redistricting (Callais) and TPS. BOP transgender-care emergency app pending, responses due Oct 8.", "next": "BOP application; Genalo v. Black Oct 13"},
-    {"id": "voting-rulings", "title": "Voting-law / executive-power rulings", "began": "2026-10-01", "status": "developing", "latest": "No change Oct 5-7. Cox/Leibowitz noncitizen-voting ruling on 11th Cir. appeal (filing date unconfirmed). Rogoff: 9th Cir. administrative stay Oct 4.", "next": "11th / 9th Circuit action"},
-    {"id": "us-ai-policy", "title": "US AI policy", "began": "2026-10-04", "status": "developing", "latest": "No new Super Intelligence Force charter news (120-day assessment). Wikimedia (Oct 5) reported 'rogue' OpenAI agents on its wikis. NYC Council hearing Oct 5: labs declined to guarantee guardrails. Mistral Large 4 (Oct 6). FTC probe of OpenAI/Anthropic/METR: no public developments.", "next": "Charter; FTC CIDs"},
-    {"id": "amoris-review", "title": "Amoris Laetitia review", "began": "2026-10", "status": "developing", "latest": "Opened Oct 7, closed-door, ~187 participants; Leo opening address (text not yet available). Costa: 'will not try to erase differences'. LifeSiteNews: progressives dominate guest list.", "next": "Leo address text; synthesis Oct 14"}
+    {
+      "id": "iran-war",
+      "title": "Iran war",
+      "began": "2026-02-28",
+      "status": "developing",
+      "latest": "Day 224 (Oct 9). Oct 8: Atlantic/Axios reported strike options/CENTCOM prep; then Trump: no attacks before midterms, blockade stays, talks 'productive'. Araghchi: reply to US on Iran's 'seven-day plan' within days. Putin-Pezeshkian met Oct 8 in Turkmenistan; Putin offers mediation. Tanker hit 51nm off Qatar Oct 7. Iran-Oman safe-transit coordinates; IRGC to block 'illegal routes'. Treasury sanctioned 17 vessels. CRS: 81+ US aircraft lost/damaged. ~10M bbl storage figure not reconfirmed.",
+      "next": "Iran's reply; tanker attacks; Nov 3"
+    },
+    {
+      "id": "saudi-houthi",
+      "title": "Saudi-Houthi war",
+      "began": "2026-07",
+      "status": "escalating",
+      "latest": "Oct 8: Houthi missile on Riyadh King Khalid airport killed Saudia pilot (toll ~3, varies); hundreds of flights cancelled; reopened Oct 9. GACA: earlier airport attacks killed 3, injured 36. Coalition struck 82 targets. Houthis told workers to leave Saudi oil sites. Perim: Houthis besieged, not confirmed retaken. Axios: Syria discussing sending troops.",
+      "next": "Aramco statement; Syrian troops"
+    },
+    {
+      "id": "energy-crisis",
+      "title": "Energy / diesel crisis",
+      "began": "2026-03",
+      "status": "escalating",
+      "latest": "Brent ~$104.27 Oct 8 (derived), ~$102.7 Fri AM. Hurricane Isaias: ~63% Gulf oil / 57% gas shut in Oct 8 (~1.3M b/d); landfall Oct 9 night. EIA distillate 105.1M bbl. Diesel $6.199 (Oct 5). IEA met Oct 7, no volumes for G7 release. China resumed fuel exports.",
+      "next": "Isaias damage; EIA diesel Oct 14; WPSR Oct 15; OPEC+ Nov 1"
+    },
+    {
+      "id": "ukraine-peace",
+      "title": "Ukraine war / peace track",
+      "began": "2025",
+      "status": "developing",
+      "latest": "EU ambassadors agreed 22nd package Oct 7 (~1,646 listings); FMs adopt Oct 12. Kramatorsk bus-stop bomb 33+ dead. Oct 6-7 strike toll 19-32. Ryabkov: no talks planned; Rubio: deal unattainable now. Ukrainian delegation (Umerov, Budanov) meets Witkoff/Kushner in US Oct 9-10; NBC: 'new' plan. Lithuania 1st vote 106-18-6; final Jan 12 2027.",
+      "next": "EU adoption Oct 12; delegation outcome; Lukoil GL Oct 22"
+    },
+    {
+      "id": "fed-labor",
+      "title": "Fed / labor market",
+      "began": "2026-09",
+      "status": "developing",
+      "latest": "Minutes Oct 7: most see another hike by year-end. Waller Oct 8: more hikes, not necessarily consecutive. Claims 197k. Oct hike odds ~17-20%, Dec ~80-85%. 10y 5.22% Oct 8 (intraday ~5.35%, highest since 2002); 10y auction 5.30%.",
+      "next": "CPI Oct 14; FOMC Oct 27-28"
+    },
+    {
+      "id": "midterms",
+      "title": "US midterms",
+      "began": "2026",
+      "status": "developing",
+      "latest": "Cook moved 18 House races to D (D+9-19). WaPo-Schar Maine: Jackson 50 Collins 46. Emerson Iowa: Hinson 47 Turek 45. DNC (Oct 7) and Common Cause sued over taxpayer-funded ads. Schumer FEC complaint filing unconfirmed; FEC lacks quorum. DeFi Rate: D 90% House, 62% Senate.",
+      "next": "DNC suit hearing; Nov 3"
+    },
+    {
+      "id": "brazil-election",
+      "title": "Brazil election",
+      "began": "2026-10-04",
+      "status": "developing",
+      "latest": "Datafolha (Oct 6-8): Flavio 49 Lula 45 (52-48 valid). AtlasIntel (Oct 3-8): Flavio 52.8 Lula 47.2 valid.",
+      "next": "Debates; runoff Oct 25"
+    },
+    {
+      "id": "scotus-ot2026",
+      "title": "SCOTUS October Term 2026",
+      "began": "2026-10-05",
+      "status": "developing",
+      "latest": "Trump v. Kingdom (BOP trans care) response filed Oct 8; no ruling. FCC v. Brown (political ad rates): Roberts paused 4th Cir; responses due Oct 10. Air Force v. Prutehi Guahan argued Oct 7, no clear majority. Genalo dismissed Sept 11 (not Oct 13); Beaird Oct 13.",
+      "next": "BOP ruling; orders Oct 13; Salazar v. Paramount Oct 14"
+    },
+    {
+      "id": "voting-rulings",
+      "title": "Voting-law / executive-power rulings",
+      "began": "2026-10-01",
+      "status": "developing",
+      "latest": "No change Oct 7-9. 11th Cir. appeal noticed only; Rogoff administrative stay only.",
+      "next": "11th / 9th Circuit action"
+    },
+    {
+      "id": "us-ai-policy",
+      "title": "US AI policy",
+      "began": "2026-10-04",
+      "status": "developing",
+      "latest": "No new charter/FTC news Oct 7-9. Charter (Oct 6): Clayton chair; 120 days; no statutory authority or budget. OpenAI told investors ~$50B annualized revenue vs ~$68-70B reported (CNBC Oct 8); chip stocks fell. Claude Haiku 5.5 (Oct 7).",
+      "next": "Charter report; FTC CIDs"
+    },
+    {
+      "id": "amoris-review",
+      "title": "Amoris Laetitia review",
+      "began": "2026-10",
+      "status": "developing",
+      "latest": "Leo opening address published: 'shared narrative', fragility; didn't address footnote 351. America: 187 participants. Schneider: meaningless without correction. Tagle elected Dean of College of Cardinals (Oct 8).",
+      "next": "Synthesis + Mass Oct 14"
+    }
   ]
 }
