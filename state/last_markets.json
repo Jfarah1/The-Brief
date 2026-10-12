@@ -1,12 +1,12 @@
 {
-  "as_of": "2026-10-08 close (10y official Treasury; others derived from Oct 9 OilPrice/Trading Economics quotes minus daily change)",
-  "brent": 104.27,
-  "wti": 91.49,
-  "henry_hub": 3.17,
+  "as_of": "2026-10-09 close (Investing.com historical; 10y official Treasury par). Note: Oct 8 S&P close was 7765.36, not 7793.97 as previously stored.",
+  "brent": 104.72,
+  "wti": 91.85,
+  "henry_hub": 3.22,
   "us_diesel_retail": 6.199,
   "us_diesel_retail_as_of": "2026-10-05 (EIA weekly; next print Oct 14)",
-  "sp500": 7793.97,
-  "us10y": 5.22,
-  "gold": 4133.0,
-  "dxy": 102.14
+  "sp500": 7811.54,
+  "us10y": 5.24,
+  "gold": 4194.46,
+  "dxy": 102.21
 }
