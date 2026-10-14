@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-12",
+  "updated": "2026-10-14",
   "threads": [
     {
       "id": "iran-war",
       "title": "Iran war",
       "began": "2026-02-28",
       "status": "developing",
-      "latest": "Day 227 (Oct 12). Oct 11: Rezaei (via Reuters/state media) called US reply 'insufficient'; Iran 'no longer in the process of responding'. Wants June MoU + Iran-Oman transit deal. CENTCOM jet bombed Ocean Molica (Gulf of Oman) Oct 11; IRGC says supertanker hit mine Oct 10; UKMTO projectile hit tanker Oct 11; UAE rescued 22 from burning tanker. CENTCOM: 135 turned back since July. Kpler: 8.5M b/d transits wk to Oct 7 (~40% below normal). No US strikes on Iran pledged before Nov 3.",
+      "latest": "Day 229 (Oct 14). Oct 12: UKMTO tanker hit leaving Hormuz; IRGC claims 3rd ship in 2 days; 18+ ship attacks since Oct 1. Rezaei repeats Iran not responding. Oct 13: IRGC Navy's Azmaei 'so that we can sink them'; CENTCOM 'has no navy'. No US counter-offer found. Kpler: <10M b/d Oct 7 vs 15.5M Sept.",
       "next": "US counter-offer; tanker attacks; Nov 3"
     },
     {
@@ -14,63 +14,63 @@
       "title": "Saudi-Houthi war",
       "began": "2026-07",
       "status": "escalating",
-      "latest": "Oct 9 night: coalition says 136 Houthi targets destroyed. Oct 10: missile on Riyadh King Khalid airport killed 12 (GACA; CBS/AP 13), 309 wounded, incl. 1 American. Oct 11: second strike on terminal killed 1; Dammam airport hit. Houthis claim Rabigh/Tanajib/Shugadam strikes (unconfirmed); Saree: Saudi airports a 'theatre of operations'. Trump: US 'may' join retaliation. UK providing air defence/refuelling.",
-      "next": "US decision on joining; Aramco confirmation"
+      "latest": "Oct 13: Houthi missile hit Aramco admin building Dhahran (limited fire, no casualties, Saudi Energy Ministry). Riyadh debris injured 4. Airport toll 13 dead incl. 1 American; airport shut to Oct 17. Coalition struck Sabaha fuel station Sanaa + Hodeidah/Ras Isa/Dhamar (2 dead). US still undecided; Trump: Houthis 'behaving very badly', at Iran's behest.",
+      "next": "US decision; airport reopening Oct 17"
     },
     {
       "id": "energy-crisis",
       "title": "Energy / diesel crisis",
       "began": "2026-03",
       "status": "developing",
-      "latest": "Oct 9: Trump-Putin diesel deal (300k t now, 500k Nov, then 1M, +3M); Treasury GL waives sanctions on Russian diesel to Apr 2027. Isaias landfall Destin Cat 2 Oct 9; 4+ dead; pre-landfall shut-in 1.46M b/d (71.5%); ports reopened; no restart data. Brent $104.72 Oct 9 close, ~$105.9 Mon AM. Diesel $6.199 (Oct 5). SPR 4M bbl exchange unconfirmed. G7 100M bbl release.",
-      "next": "EIA diesel Oct 14; WPSR Oct 15; IEA Oct 15; OPEC+ Nov 1"
+      "latest": "Brent 105.69, WTI 94.14 Oct 13. 7 senators (bipartisan) urged reversing GL 135 Russian diesel waiver; Moran Oct 12; no deliveries confirmed. IEA board Oct 15: Birol wants faster release of 400M pledge (325M done). OPEC MOMR Oct 13: 2026 growth ~200k, 2027 2.6M b/d. GoM shut-in ~1.17M b/d Oct 11. DOE 4M bbl SPR exchange approved Oct 10; SPR 283.8M. EIA diesel delayed to Oct 14.",
+      "next": "EIA diesel Oct 14; IEA Oct 15; WPSR Oct 15; OPEC+ Nov 1"
     },
     {
       "id": "ukraine-peace",
       "title": "Ukraine war / peace track",
       "began": "2025",
-      "status": "developing",
-      "latest": "Oct 9 Miami talks (Witkoff/Kushner + Budanov/Umerov + Europeans): 'constructive', no deal; day 2 reportedly cancelled. Oct 10 Trump: Kyiv should 'get a new leader'. Oct 11 Trump declared 'ENERGY CEASEFIRE'; Zelensky learned from media; Kharkiv strikes continued. Peskov: 'contacts are ongoing'. Oct 12: EU FMs adopted 22nd package (~1,600 listings, per Kallas via TASS).",
-      "next": "Grid strikes stop?; Lukoil GL Oct 22"
+      "status": "escalating",
+      "latest": "Energy ceasefire ignored: Oct 13-14 night 39 ballistic missiles + 120 drones, 600k without power, 5 dead in Kyiv; RU MoD claims 6 power plants. Lavrov: Zelensky doesn't 'deserve a respite'; Peskov rejected 60-day election truce. Trump: 'they agreed', violations on both sides. Zelensky in London Oct 14 (PM Burnham). Starlink drone-terminal throttling alleged.",
+      "next": "EU summit; Lukoil GL Oct 22"
     },
     {
       "id": "fed-labor",
       "title": "Fed / labor market",
       "began": "2026-09",
       "status": "developing",
-      "latest": "UMich prelim Oct 46.3 (from 48.1); 1y infl exp 4.7%, 5y 3.5%. 10y 5.24% Oct 9. FedWatch ~19% Oct hike, ~71% Dec (Stockpil). No Fed speeches found Oct 9-11.",
-      "next": "CPI Oct 14; PPI Oct 15; FOMC Oct 27-28"
+      "latest": "Sept CPI (Oct 14): +0.6% m/m, 3.7% y/y (fcst 3.6); core +0.3% m/m, 2.6% y/y (fcst 0.2/2.5); energy +5.2%, gasoline +9.1% m/m, +34.2% y/y. Pre-CPI: TE ~77% hold Oct, ~88% Dec hike; Williams one more hike may be needed. 10y 5.21% Oct 13. JPM Q3 $15.3B/$5.57.",
+      "next": "CPI result; PPI Oct 15; Warsh IMF Oct 15; FOMC Oct 27-28"
     },
     {
       "id": "midterms",
       "title": "US midterms",
       "began": "2026",
       "status": "developing",
-      "latest": "Oct 11: Judge Rochon (SDNY) TRO in Common Cause suit: taxpayer ads cancelled, 14 days. ~$19M spent per govt ($12M+ elsewhere). DNC DC suit: no hearing found. Polls: GA Ossoff 51 Collins 43 (Trafalgar); IA Hinson 47 Turek 45 (Emerson); TX Talarico 47 Paxton 44 (Trafalgar). Senate D odds: Polymarket 63.5, Kalshi 60, DDHQ 56.",
-      "next": "Trump Wasilla rally Oct 13; TRO expiry ~Oct 25; Nov 3"
+      "latest": "Oct 13 Wasilla rally: pardoned 2 Anchorage auto-shop owners; endorsed Bernadette Wilson. TX: ReconMR Talarico 48-44, Quantus Paxton 47.2-46.7. GA Trafalgar Ossoff 51-43; SMP pulled GA ads. MT Dem chair resigned, backed Bodnar. Senate D odds: Kalshi 62, Polymarket 64. No appeal of Common Cause TRO found.",
+      "next": "Maine debate Oct 15; TRO expiry ~Oct 25; Nov 3"
     },
     {
       "id": "brazil-election",
       "title": "Brazil election",
       "began": "2026-10-04",
       "status": "developing",
-      "latest": "DataTrends (Oct 11): Flavio 53.1 Lula 46.9 valid. AtlasIntel 52.8-47.2; Datafolha 52-48. No debates found Oct 9-11.",
-      "next": "Quaest; debates; runoff Oct 25"
+      "latest": "No new national polls Oct 12-14. Quaest (Oct 10-13) due Oct 14 evening; Datafolha Oct 15. Debates Band Oct 18, Globo Oct 23.",
+      "next": "Quaest/Datafolha; debates; runoff Oct 25"
     },
     {
       "id": "scotus-ot2026",
       "title": "SCOTUS October Term 2026",
       "began": "2026-10-05",
       "status": "developing",
-      "latest": "FCC v. Brown: candidates' response filed Oct 10; Roberts admin stay stands. Trump v. Kingdom pending. Trump asked Court to revive RICO suit vs Clinton (SCOTUSblog Oct 11).",
-      "next": "Orders Oct 13; Beaird Oct 13; Salazar Oct 14"
+      "latest": "Oct 13 orders: cert granted US DOGE Service v. USDC (CREW FOIA), Blanche v. Ozurumba, Berry v. US; Monsanto v. Dennis GVR. Beaird argued Oct 13; Salazar Oct 14. FCC v. Brown (26A274) still pending under admin stay. 'Trump v. Kingdom' is actually Kingdom v. Trump at D.C. Cir. (26-5310). DC Guard argued at D.C. Cir. Oct 14.",
+      "next": "FCC application ruling; DC Guard ruling"
     },
     {
       "id": "voting-rulings",
       "title": "Voting-law / executive-power rulings",
       "began": "2026-10-01",
       "status": "developing",
-      "latest": "No change Oct 9-12.",
+      "latest": "No change Oct 12-14.",
       "next": "11th / 9th Circuit action"
     },
     {
@@ -78,16 +78,16 @@
       "title": "US AI policy",
       "began": "2026-10-04",
       "status": "developing",
-      "latest": "No charter/FTC news Oct 9-12. OpenAI no on-record response to ~$50B vs $68-70B revenue gap; source says gross vs net. Nvidia in talks re Reflection AI (Bloomberg/FT Oct 10).",
-      "next": "Charter report; FTC CIDs"
+      "latest": "No federal action Oct 12-14. Meta Muse Wonder frontier models Oct 12. CNBC: Anthropic to share Q3 financials with investors pre-IPO; Anthropic sought en banc rehearing on supply-chain-risk designation Oct 13. Judge ordered OpenAI to give Apple hiring records.",
+      "next": "FTC; Anthropic financials"
     },
     {
       "id": "amoris-review",
-      "title": "Amoris Laetitia review",
+      "title": "Leo's health / Amoris Laetitia review",
       "began": "2026-10",
       "status": "developing",
-      "latest": "Oct 11 Angelus: Leo to have surgery early this week to remove small lung nodule (Gemelli likely, ~1 week recovery; malignancy not stated). Meeting: bishops urged accompanying cohabiting couples (Oct 9); InfoVaticana objects. Tagle Dean confirmed Oct 9.",
-      "next": "Surgery bulletin; closing Mass + synthesis Oct 14"
+      "latest": "Oct 13: Leo had right lower lobe removed at Gemelli; intraoperative histology 'confirmed the diagnosis of lung adenocarcinoma'; no complications; stage undisclosed; events cancelled to Oct 20; Nov 6-17 trip in doubt. Oct 14 'night passed calmly'. Synthesis not published, goes to Pope. Tagle presided closing Mass Oct 14, read Leo's homily.",
+      "next": "Pathology results; trip decision; Leo's reflections"
     }
   ]
 }
