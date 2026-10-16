@@ -1,12 +1,12 @@
 {
-  "as_of": "2026-10-13 close (Investing.com historical; 10y official Treasury par)",
-  "brent": 105.69,
-  "wti": 94.14,
-  "henry_hub": 3.283,
-  "us_diesel_retail": 6.199,
-  "us_diesel_retail_as_of": "2026-10-05 (EIA weekly; delayed print due Oct 14)",
-  "sp500": 7805.45,
-  "us10y": 5.21,
-  "gold": 4155.20,
-  "dxy": 102.18
+  "as_of": "2026-10-15 close (Investing.com historical / Investrade; 10y official Treasury par)",
+  "brent": 105.92,
+  "wti": 97.97,
+  "henry_hub": 3.236,
+  "us_diesel_retail": 6.179,
+  "us_diesel_retail_as_of": "2026-10-12 (EIA weekly, released Oct 14)",
+  "sp500": 7744.06,
+  "us10y": 5.10,
+  "gold": 4156.11,
+  "dxy": 102.06
 }
