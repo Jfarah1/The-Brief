@@ -1,12 +1,12 @@
 {
-  "as_of": "2026-10-15 close (Investing.com historical / Investrade; 10y official Treasury par)",
-  "brent": 105.92,
-  "wti": 97.97,
-  "henry_hub": 3.236,
+  "as_of": "2026-10-16 close (Newsquawk settlements for Brent/WTI Nov; Investing.com historical for HH, gold, DXY; S&P via Investrade; 10y official Treasury par)",
+  "brent": 109.86,
+  "wti": 101.41,
+  "henry_hub": 3.116,
   "us_diesel_retail": 6.179,
-  "us_diesel_retail_as_of": "2026-10-12 (EIA weekly, released Oct 14)",
-  "sp500": 7744.06,
-  "us10y": 5.10,
-  "gold": 4156.11,
-  "dxy": 102.06
+  "us_diesel_retail_as_of": "2026-10-12 (EIA weekly; no newer reading by Oct 19 morning)",
+  "sp500": 7659.41,
+  "us10y": 5.09,
+  "gold": 4165.50,
+  "dxy": 101.84
 }
