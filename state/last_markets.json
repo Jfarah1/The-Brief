@@ -1,12 +1,13 @@
 {
-  "as_of": "2026-10-16 close (Newsquawk settlements for Brent/WTI Nov; Investing.com historical for HH, gold, DXY; S&P via Investrade; 10y official Treasury par)",
-  "brent": 109.86,
-  "wti": 101.41,
-  "henry_hub": 3.116,
-  "us_diesel_retail": 6.179,
-  "us_diesel_retail_as_of": "2026-10-12 (EIA weekly; no newer reading by Oct 19 morning)",
-  "sp500": 7659.41,
-  "us10y": 5.09,
-  "gold": 4165.50,
-  "dxy": 101.84
+  "as_of": "2026-10-20 close (CNBC/TokenPost settlements for Brent Dec and WTI Nov (expired; Dec 97.82); Trading Economics prior close for HH (approx); Guardian Gold spot; DXY late-session Investopedia; S&P via Zacks; 10y official Treasury par)",
+  "brent": 108.79,
+  "wti": 101.79,
+  "wti_dec": 97.82,
+  "henry_hub": 2.96,
+  "us_diesel_retail": 6.276,
+  "us_diesel_retail_as_of": "2026-10-19 (EIA weekly)",
+  "sp500": 7712.57,
+  "us10y": 5.12,
+  "gold": 4122.5,
+  "dxy": 101.73
 }

@@ -1,76 +1,76 @@
 {
-  "updated": "2026-10-19",
+  "updated": "2026-10-21",
   "threads": [
     {
       "id": "iran-war",
       "title": "Iran war",
       "began": "2026-02-28",
-      "status": "developing",
-      "latest": "Day 234 (Oct 19). No new sinkings Oct 16-18. Oct 16: two tankers hit off al-Jubail (ISW). Oct 18: tug hit near Khor Fakkan, 1 injured. Araghchi: 7-day plan stands (reopen day 6, talks day 7 if blockade lifted); no US counter-offer. Trump: could 'soon finish the job'; Nov 3 pledge stands. Reuters: 8 LPG + 1 jet tanker evaded blockade. Lavrov in Tehran Oct 19.",
-      "next": "Lavrov visit; US reply; Nov 3 pledge"
+      "status": "escalating",
+      "latest": "Day 236 (Oct 21). Oct 19 Lavrov in Tehran. Oct 20 Munir (Pakistan) in Tehran; Rezaei rejects proposals, Ghalibaf 'nothing new to say'. Oct 21 Araghchi: strait 'will not be open to everyone' until deal; FT op-ed 'little reason to expect progress'. IRGC claims 3 tankers hit mines on Oman-side route Oct 20 (unverified; CENTCOM: false). Oct 21 UKMTO tanker hit off Bukha. Fox: USS Theodore Roosevelt heading to region (3rd carrier). Iran requested UNSC meeting.",
+      "next": "Qatar mediation; UNSC; Nov 3 pledge"
     },
     {
       "id": "saudi-houthi",
       "title": "Saudi-Houthi war",
       "began": "2026-07",
       "status": "escalating",
-      "latest": "Oct 18: Riyadh airport reopened with GACA prior permission; Lufthansa out to Nov 18, KLM Oct 31, AF/Etihad Oct 24. Oct 17: Houthis downed Saudi AH-6 over Najran (2 killed; Riyadh says malfunction). Oct 16: 2 BMs at Aden airport. Intercepts at Riyadh/Yanbu. Oct 18: Egypt pledges 'all necessary' support; Sisi emergency parliament session. UAE resumes paying Yemeni forces. No US decision.",
-      "next": "Egypt parliament vote ~Oct 20; Yanbu; US decision"
+      "latest": "Oct 19 Houthi strike on Shabwa govt camp: 73 killed (CBS). Riyadh intercepts Oct 20. Saudi strike Saada killed 9 (Houthi figure). Egypt parliament adjourned without vote to Oct 26 (needs 2/3); ESDP abstains. Saudi investment conference postponed to 2027. No US decision.",
+      "next": "Egypt vote Oct 26; US decision"
     },
     {
       "id": "energy-crisis",
       "title": "Energy / diesel crisis",
       "began": "2026-03",
       "status": "escalating",
-      "latest": "Oct 16 close Brent 109.86 (5-month high), WTI Nov 101.41 (+10.4% wk). Oct 19 AM ~-2% (Brent ~107.6) on Graham Act waiver. EIA diesel $6.179 (Oct 12), AAA $6.32 Oct 18. SPR 17M bbl sour exchange, bids Oct 21. Rigs: oil 459 (-3). GL 135: no US delivery confirmed. Lukoil GL 131J expires Oct 22; UP says station GLs extended to Apr 2027 (unconfirmed).",
-      "next": "EIA Oct 21; SPR bids Oct 21; Lukoil Oct 22; OPEC+ Nov 1"
+      "latest": "Oct 20: Brent intraday 111.99 (highest since May 20), settled 108.79; WTI Nov expired 101.79, Dec 97.82. EIA diesel 6.276 (Oct 19, +9.7c). Treasury GL for Russian diesel to Apr 7 2027. Kpler: 18 vessels attacked in 2 weeks. NASTC urges export pause. Lukoil GL 131J expires Oct 22, no extension seen.",
+      "next": "EIA Oct 21; Lukoil Oct 22; rigs Oct 23; OPEC+ Nov 1"
     },
     {
       "id": "ukraine-peace",
       "title": "Ukraine war / peace track",
       "began": "2025",
-      "status": "escalating",
-      "latest": "Oct 16: Trump brought Graham Act into force but waived most sanctions/tariffs; Bessent: 'no sanctions have been lifted'. Oct 18: Trump Truth Social attack on Zelensky. WSJ: Kremlin proposes Trump-Putin-Xi meeting at APEC Shenzhen Nov 18-19 without Kyiv; Peskov 'no clear understanding'. Zelensky call w/ Witkoff, Kushner; US resumed launch intel; Starlink cap remains; talks maybe next week. Oct 18 Ukraine drones hit St Petersburg oil terminal (1 killed). Oct 19 overnight 16 BMs on Kyiv region. EU summit: no relief, 22nd package.",
-      "next": "US-Ukraine talks; APEC summit confirmation; 22nd package"
+      "status": "developing",
+      "latest": "Oct 20 Oslo: Witkoff met Zelensky with Nordic/European leaders. Oct 21 Witkoff met Putin in St Petersburg; Putin freed Stephen Hubbard; urged trilateral talks; TASS: Putin-Trump meeting in China discussed; no deal. Strikes: 16 killed Oct 19-20 (Kyiv hospital hit), 9 more by Oct 21. Hungary blocked EU accession step. Sikorski: Poland has no Patriots left.",
+      "next": "Witkoff readout; China summit; Lukoil Oct 22"
     },
     {
       "id": "fed-labor",
       "title": "Fed / labor market",
       "began": "2026-09",
       "status": "developing",
-      "latest": "Oct 16: S&P -1.1% (-1.95% wk), 10y 5.09%. IP +0.7%; import prices +1.1%. Warsh (Bangkok): economy as expected since Sept hike to 3.75-4.00%, no signal. FedWatch ~16% Oct hike; Dec expected. Blackout.",
-      "next": "Housing starts Oct 20; PMIs/UMich Oct 23; FOMC Oct 27-28"
+      "latest": "Oct 20: Sept starts 1.221M (-5.2%), single-family 859K; pending sales -7.3%. S&P 7712.57 (Oct 20), 10y 5.12%. FedWatch ~84% hold Oct 28, ~90% Dec hike (via summary).",
+      "next": "Claims Oct 22; PMIs/UMich Oct 23; FOMC Oct 27-28"
     },
     {
       "id": "midterms",
       "title": "US midterms",
       "began": "2026",
       "status": "developing",
-      "latest": "TX early vote Oct 19-30; UT poll Talarico 50-47 (Oct 14); Lone Star Liberty PAC $123M; Chamber endorses Paxton; NBC: TX GOP panic. Axios: 3 polls Trump approval new lows, D +8-10. SLF/SMP no GA broadcast last week (Collins -9 vs Ossoff). Trump Dalton Oct 16, Kentucky Oct 17. Rogers escalates Muslim Brotherhood attacks on El-Sayed.",
-      "next": "Talarico CNN town hall Oct 21; Trump Sioux City Oct 22; Nov 3"
+      "latest": "TX early-vote day 1 records (Harris ~104K, Dallas 76K, Tarrant ~50K). UH Hobby Talarico +2; InsiderAdvantage Paxton +1. NYT/Siena Oct 21: Trump 36/59, D+11. AJC GA Ossoff 48-40. Marist MI El-Sayed 50-48. Govt funded to Dec 11. (Talarico CNN town hall was Oct 14, not Oct 21.)",
+      "next": "Trump Sioux City Oct 22; TX early vote to Oct 30; Nov 3"
     },
     {
       "id": "brazil-election",
       "title": "Brazil election",
       "began": "2026-10-04",
       "status": "developing",
-      "latest": "Band debate Oct 18: no clear winner, 5.39M viewers. AtlasIntel (Oct 13-18) Flávio 51.1-48.9 valid; BTG/Nexus 50.3-49.7; PoderData 52-48; Vox Brasil Lula 51-49. Prediction markets Flávio 77-79%.",
-      "next": "Quaest Oct 21; Datafolha Oct 22; Globo Oct 23; runoff Oct 25"
+      "latest": "Post-debate polls (valid): AtlasIntel 51.1-48.9, PoderData 52-48, BTG/Nexus 50.3-49.7, Futura 50.4-49.6, RTBD 52-48, Meio/Ideia 51.1-48.9 (Oct 21). Quaest due Oct 21 (not seen).",
+      "next": "Datafolha Oct 22; Globo Oct 23; final polls Oct 24; runoff Oct 25"
     },
     {
       "id": "scotus-ot2026",
       "title": "SCOTUS October Term 2026",
       "began": "2026-10-05",
       "status": "developing",
-      "latest": "Oct 16: administration asks SCOTUS to rule on courts' power to vacate agency actions (SCOTUSblog). DC Guard (D.C. Cir., argued Oct 14) no ruling.",
-      "next": "Orders Oct 19 (not yet seen); args Nov 2; DC Guard ruling"
+      "latest": "Oct 19 orders: granted Assn for Education Fairness v. Montgomery County (magnet lottery) and DOJ v. McNutt (home distilling); denied Wilcox v. Trump, 9/11 plea cases, O'Donnell (Sotomayor+Gorsuch statement). HHS v. Texas Medical Ass'n (vacatur) response due Nov 13. DC Guard: no ruling.",
+      "next": "Args Nov 2; DC Guard ruling; Nov 13 response"
     },
     {
       "id": "voting-rulings",
       "title": "Voting-law / executive-power rulings",
       "began": "2026-10-01",
       "status": "developing",
-      "latest": "Common Cause says DOJ CA suit may violate Sooknanan's Oct 9 vacatur, seeks status conference; DOJ appealed Oct 9 order to D.C. Cir. Oct 16. Intervention motions (SIREN/Mi Familia; CLC/NAACP). DHS ads TRO to Nov 8 stands.",
+      "latest": "No new action Oct 19-21. DHS ads: Common Cause v. DHS (SDNY, Judge Rochon) TRO extended to Nov 8, PI hearing Nov 4. DOJ v. California (filed Oct 15) pending; Common Cause seeks status conference.",
       "next": "Status conference; Nov 4 hearing"
     },
     {
@@ -78,24 +78,32 @@
       "title": "US AI policy",
       "began": "2026-10-04",
       "status": "developing",
-      "latest": "Oct 16: OpenAI discloses 4 more rogue-agent incidents (19 total, 2 critical) (Fortune). Oct 17: Anthropic workforce report (junior hires 27%->9%). Neuron: Anthropic 5% public benefit fund (unverified). Oct 16: China draft export controls on 40 techs incl. LLMs, agents; comments to Nov 15. No FTC follow-up.",
-      "next": "S-1/IPO Nov; FTC; China comments Nov 15"
+      "latest": "Oct 19 Reuters: lone hacker used AI agents (reportedly DeepSeek, Claude Code via Cairn) to breach sites of 100+ firms. DHS orders DeepSeek removed (WSJ via Neuron). OpenAI seeking ~$30B at >$1.4T. Canadian publishers suing Anthropic in Ontario. China draft controls: 40 techs, 14 banned/26 licensed; comments Nov 15. Reuters: Chinese giants ordered 3M+ RTX PRO 5500. No public Anthropic S-1 yet.",
+      "next": "S-1/IPO Nov; China comments Nov 15"
     },
     {
       "id": "amoris-review",
       "title": "Leo's health / Amoris Laetitia review",
       "began": "2026-10",
       "status": "resolved",
-      "latest": "Discharged Oct 17 afternoon; Angelus from Apostolic Palace window Oct 18. Surgeon Margaritora: 'no clinical reasons' against Nov 6-17 trip; ~10 days to full recovery. Stage/pathology still undisclosed. Pillar: Peru leg may be shortened. No audience date.",
-      "next": "Pathology; audiences; Nov 6 trip"
+      "latest": "Oct 21 first general audience since surgery (catechesis on family, GS 47-52). Oct 19 call with Zelensky. Stage still undisclosed; trip Nov 6-17 on.",
+      "next": "Pathology; Nov 6 trip"
     },
     {
       "id": "israel-election",
       "title": "Israeli election",
       "began": "2026-10",
       "status": "developing",
-      "latest": "Oct 18: Trump 'Complete and Total Endorsement' of Netanyahu. Maariv Oct 16: bloc 51, center-left 51, Arab 14; Yashar 21, Likud 18. JPost roundup: Ch13 51-50, Kan 53-50, Ch12 49-54.",
-      "next": "Final polls ~Oct 22-23; election Oct 27"
+      "latest": "Oct 20-21 polls: Ch12 Yashar 24/Likud 21, blocs 51-55; Kan 23/21; Ch13 20/18, 50-51; Walla 23/19, 48-54. JPost avg: Netanyahu bloc 50, Zionist opp 53, Arab 14. Ch12 preferred PM Eisenkot 45-33. Ch14 outlier 61.",
+      "next": "Final polls; election Oct 27"
+    },
+    {
+      "id": "church-ripperger",
+      "title": "Fr. Ripperger restriction",
+      "began": "2026-10-19",
+      "status": "developing",
+      "latest": "Oct 19: Denver Abp Golka asked Ripperger to take 1-year 'fast' from public speaking; no reason given. WPI: earlier 2025 restriction.",
+      "next": "Archdiocese explanation"
     }
   ]
 }
