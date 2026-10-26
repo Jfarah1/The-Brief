@@ -1,13 +1,14 @@
 {
-  "as_of": "2026-10-22 close (Brent Dec / WTI Dec settlements via Bloomberg/Rigzone; S&P cash close via Yahoo; 10y official Treasury par; Henry Hub, gold, DXY approx from Trading Economics)",
-  "brent": 113.17,
-  "wti": 99.47,
+  "as_of": "2026-10-23 close (Brent Dec / WTI Dec settlements via CappNotes/Strategitz, confirmed CNBC; S&P cash close; 10y ~5.00%; Henry Hub, gold futures, DXY via CappNotes only)",
+  "brent": 116.72,
+  "wti": 103.27,
   "wti_contract": "Dec",
-  "henry_hub": 2.81,
+  "henry_hub": 2.64,
   "us_diesel_retail": 6.276,
-  "us_diesel_retail_as_of": "2026-10-19 (EIA weekly; next Oct 26)",
-  "sp500": 7663.43,
-  "us10y": 4.96,
-  "gold": 4050,
-  "dxy": 101.7
+  "us_diesel_retail_as_of": "2026-10-19 (EIA weekly; Oct 26 release not yet out at build)",
+  "sp500": 7623.68,
+  "us10y": 5.0,
+  "gold": 4008,
+  "gold_note": "futures, not spot",
+  "dxy": 101.79
 }
