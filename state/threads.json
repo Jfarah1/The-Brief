@@ -1,68 +1,68 @@
 {
-  "updated": "2026-10-26",
+  "updated": "2026-10-28",
   "threads": [
     {
       "id": "iran-war",
       "title": "Iran war",
       "began": "2026-02-28",
       "status": "developing",
-      "latest": "Day 241 (Oct 26). Oct 23 Trump 'may do another little Epic Fury'; Oct 24 strike or 'big beautiful agreement'; Oct 25 'no strike today'. Qatari mediators in Tehran Oct 25 (Reuters). Pezeshkian: return to June framework. Iran amb. in Islamabad: Hormuz for blockade end; Tasnim rejects ('lies'), 7 conditions. The Hill: strike options post-Nov 3. 7-ship claim still unconfirmed.",
-      "next": "Qatar channel; Israel vote Oct 27; post-Nov 3"
+      "latest": "Day 243 (Oct 28). Qatari draft deal given Oct 25 (Reuters): 7-day confidence-building plan; Iran reply due end of week. Senior Iranian official Oct 28: ideas 'unacceptable', no nuclear flexibility. Sticking points: sequencing, nuclear in final deal. Trump: 'deal or finish them off'. CENTCOM cost est ~$47B ($29B munitions).",
+      "next": "Iran reply by Oct 30; post-Nov 3"
     },
     {
       "id": "saudi-houthi",
       "title": "Saudi-Houthi war",
       "began": "2026-07",
       "status": "escalating",
-      "latest": "Oct 24 debris on Mecca/Jeddah/Taif/Rabigh; US reconsider-travel. Oct 25 10 BMs intercepted in south + Riyadh/Khamis Mushait targets, 2 hurt (The National). Riyadh airport reopened 2 terminals Oct 25 (Houthis: 'military target'). Houthis claim Yanbu/Rabigh/East-West Pipeline hits, unconfirmed. Egypt parliament Art. 152 vote Oct 26 (needs 2/3).",
-      "next": "Egypt vote result; airport strikes"
+      "latest": "Oct 26 Egypt parliament authorized Sisi (2/3) to support Saudi; defensive only; Social Democrats abstained. Houthis claim East-West pipeline pumping stations + Riyadh airport Oct 26; Reuters satellite image shows damage at one station; no Saudi confirmation. Oct 28 Houthis order Aden airport evacuation.",
+      "next": "Saudi confirmation; Saudi request to Egypt"
     },
     {
       "id": "energy-crisis",
       "title": "Energy / diesel crisis",
       "began": "2026-03",
-      "status": "escalating",
-      "latest": "Oct 23 Brent 116.72 (+3.1%, highest since Apr 29), WTI Dec 103.27; Sun eve Brent ~115. HH 2.64. Rigs 603 flat, oil 460. Diesel 6.276 (Oct 19). GL 128C (Lukoil retail) expires Oct 29; GL 131K/Nov 21 unverified. GL 135 Russian diesel to Apr 7 2027. OPEC+ subgroup Nov 1, no change expected.",
-      "next": "EIA diesel Oct 26; EIA Oct 28; GL 128C Oct 29; OPEC+ Nov 1"
+      "status": "developing",
+      "latest": "Oct 27 Brent 113.88 (-1.7%, CNBC), WTI 99.90 (-1.8%). Diesel 6.352 Oct 26 (+7.6c; record 6.53 Sept 21). HH unconfirmed (~2.6?). GL 128C expires 12:01am EDT Oct 29, no extension found. OPEC+ Nov 1.",
+      "next": "EIA Oct 28; GL 128C; OPEC+ Nov 1; diesel Nov 2"
     },
     {
       "id": "ukraine-peace",
       "title": "Ukraine war / peace track",
       "began": "2025",
       "status": "developing",
-      "latest": "Zelensky: trilateral talks in Nov, Abu Dhabi; nothing before Nov 4. Oct 25-26 Russia 140 drones/4 missiles; Ukraine drone strike on Voronezh kills 2, 17 hurt. Euronews-only: Oleshky local ceasefire brokered by Melania Trump. No confirmation of Putin-Trump-Xi at APEC.",
-      "next": "~Nov 10 talks; APEC Nov 18-19"
+      "latest": "Oleshky humanitarian ceasefire Oct 27 03:00 to Nov 1 22:59 Kyiv, confirmed by both sides, no violations (ISW). Night Oct 26-27: ~280 drones + ballistic missiles on Kyiv, 1 killed 15 hurt, university hit, Southern Bridge closed. Putin to Stubb/Store: root causes, realities on ground. Talks ~Nov in Abu Dhabi.",
+      "next": "Nov 1 truce end; talks date; APEC Nov 18-19"
     },
     {
       "id": "fed-labor",
       "title": "Fed / labor market",
       "began": "2026-09",
       "status": "developing",
-      "latest": "Oct 23: S&P 7623.68 (-0.5%), Dow -653, 10y ~5.00%. Flash mfg PMI 56.0 (53-mo high), UMich 48.0, 1yr infl exp 4.7% (CappNotes). Fed funds 3.75-4.00 after Sept hike; ~88-92% hold Oct 28, ~71-80% Dec hike.",
-      "next": "FOMC Oct 28; GDP/PCE Oct 29; ECI Oct 30"
+      "latest": "Oct 27: S&P 7722.60 (+0.6%), Nasdaq +1.18%, 10y ~4.99%. Durables +1.8% Sept; Conf Board 91.7 (+7.5). Hold expected Oct 28 (<10% hike); Dec hike priced. Possible dissents Hammack, Logan, Kashkari.",
+      "next": "FOMC result Oct 28; GDP/PCE Oct 29; ECI Oct 30"
     },
     {
       "id": "midterms",
       "title": "US midterms",
       "began": "2026",
       "status": "developing",
-      "latest": "CBS/YouGov (Oct 21-23) D 53-45 LV, ~229 D House seats. Cook moved 19 races to D (Oct 23), D+12-22. Silver: D 75% Senate, 95% House; Trump approval ~37%. TPOR Talarico 51-47; Trafalgar ME 47-47; InsiderAdv IA Hinson 47-45. Early vote ~27M (private tracker). Obama Detroit Oct 24, Trump Michigan Oct 25.",
+      "latest": "NPR/PBS/Marist Oct 27: D+10 RV, D+8 LV. 30M+ early votes (UF Election Lab): reg D 45%, R 31%. Harris County records. Earlier: Silver D 75% Senate; Cook D+12-22.",
       "next": "TX early vote ends Oct 30; Trump Iowa Nov 1; Nov 3"
     },
     {
       "id": "brazil-election",
       "title": "Brazil election",
       "began": "2026-10-04",
-      "status": "developing",
-      "latest": "Oct 25 runoff: Lula ~51.8%, Flávio ~48.2% (~4.4M votes). Zanin extended voting 2 hrs; Flávio says recognizing result 'impossible', seeks annulment. TSE (Nunes Marques): extension didn't change outcome. No Trump reaction found.",
-      "next": "PL challenge at TSE; Trump reaction; Jan 5 inauguration"
+      "status": "resolved",
+      "latest": "Oct 26 Trump: 'looked like another rigged election' but no intervention; Flávio effectively conceded; PL 'accepted' results. STF ordered passports surrendered (money-laundering probe). Oct 27 reports Flávio left for US; State Dept official: visas for him and family. Castro objects.",
+      "next": "Extradition request?; Jan 5 inauguration"
     },
     {
       "id": "scotus-ot2026",
       "title": "SCOTUS October Term 2026",
       "began": "2026-10-05",
       "status": "developing",
-      "latest": "No orders Oct 23-26. Big Bend border-wall application, responses Oct 29. DC Guard still at DC Cir. Nov sitting: Nov 2 opens; Nov 3 St. Mary Catholic Parish v. Roy.",
+      "latest": "Oct 27 denied application by cities/Centro Legal de la Raza vs Texas-DOJ deportation settlement. Big Bend responses Oct 29. Nov 2 sitting; Nov 3 St. Mary v. Roy.",
       "next": "Oct 29; Nov 2-3 args"
     },
     {
@@ -70,39 +70,39 @@
       "title": "Voting-law / executive-power rulings",
       "began": "2026-10-01",
       "status": "escalating",
-      "latest": "9th Cir Sunday Oct 25 argument on DOJ bid to set aside ~20K CA ballots; Bennett/Sanchez skeptical, Bumatay receptive; no ruling. Carter hearing Oct 27. DOJ v. Alaska (filed Oct 22) to block certification if Sullivan loses; Trump 'I said do it'; Blanche: not seeking to stop certification; Murkowski opposes; MTD before Gleason. DHS field-ops PI (Oct 21) appeal status unknown. DHS ads TRO to Nov 8, hearing Nov 4.",
-      "next": "9th Cir ruling; Oct 27; Gleason; Nov 4"
+      "latest": "9th Cir Oct 26 ruled 2-1 no jurisdiction over DOJ 'constructive denial' appeal (CA ~20K ballots). Carter Oct 27 hearing: appointed special master, rules Oct 28 on TRO; possible PI hearing in 2 weeks; CA certifies Dec 11. Alaska Oct 27 MTD (with prejudice) before Gleason; DOJ response Thu Oct 29, state reply Fri, ruling sought by Nov 2. DHS ads TRO to Nov 8, hearing Nov 4.",
+      "next": "Carter ruling Oct 28; Gleason by Nov 2; Nov 4"
     },
     {
       "id": "us-ai-policy",
       "title": "US AI policy",
       "began": "2026-10-04",
       "status": "developing",
-      "latest": "Anthropic S-1 not filed Oct 23; Investing.com/Fox Business: expected Oct 26 9am ET, IPO Nov 19-20 (unconfirmed). WaPo: Cathedral (ex-DOGE startup) claims breach of Anthropic internal systems <12 hrs. OpenAI discounts up to 90% to poach Anthropic customers (The Information). Presley estate suit $41M+. Meta $95B AI financing incl $35B stock.",
-      "next": "S-1; MSFT/GOOGL Oct 28, AMZN Oct 29"
+      "latest": "Anthropic S-1 filed Oct 26: H1 rev $16.3B (+1,300%), Q2 $11.6B; net loss $80.7B incl $72.4B non-cash note charge; op loss $693M; OCF +$3.9B; Nasdaq 'ANT'; founders 50.1% vote via Class F; Thanksgiving-week debut reported, $1.5-2T target (press). Risks: top-5 ~25% rev, Department of War dispute. $63B bank financing for Broadcom chips reported.",
+      "next": "Pricing/roadshow; MSFT/GOOGL Oct 28, AMZN Oct 29"
     },
     {
       "id": "amoris-review",
       "title": "Leo's health / pontificate",
       "began": "2026-10",
       "status": "developing",
-      "latest": "Oct 25 Angelus: Yemen/Taiz ceasefire appeal, Karak Jordan funeral shooting victims. Recovery 'progressing very well'. Message to Assisi Oct 27. Oct 24 six Venerables. NY archdiocese $800M settlement consented (~1,300 claimants), signing week of Nov 6.",
-      "next": "Assisi message Oct 27; Nov 6-17 trip"
+      "latest": "Oct 27 Holy See: 'several meetings' with abuse survivors on Nov 6-17 trip (Uruguay, Argentina, Peru). Skipped Assisi Oct 27, sent message (text not found). All Souls Mass at Verano Nov 2. NY $800M settlement signing week of Nov 6.",
+      "next": "Nov 2; Nov 6 trip"
     },
     {
       "id": "israel-election",
       "title": "Israeli election",
       "began": "2026-10",
       "status": "developing",
-      "latest": "Final polls Oct 23: Ch12 blocs 56-50 Eisenkot (Yashar 23, Likud 21); Ch13 54-50; Kan 52-50; Direct Polls/i24 Netanyahu 59-47. Arab parties ~14. ToI: dead heat.",
-      "next": "Election Oct 27; coalition talks"
+      "latest": "Oct 27 vote, turnout 77.7%. ~84% counted: Netanyahu bloc 54, Eisenkot 49, Arab parties 17. Likud 27, Yashar 22, Beyachad 12, Joint List 11. ~500K double envelopes counted by Thu. Official results Nov 4; Herzog consultations; 42 days. Shekel/bonds fell.",
+      "next": "Final count Oct 29-30; Nov 4"
     },
     {
       "id": "church-ripperger",
       "title": "Fr. Ripperger restriction",
       "began": "2026-10-19",
       "status": "developing",
-      "latest": "No new developments Oct 23-26. Denver: one-year 'fast' from public speaking; WPI reports 2025 decree on psychology topics (unverified).",
+      "latest": "No new developments Oct 26-28. Denver: one-year 'fast' from public speaking.",
       "next": "Archdiocese explanation"
     },
     {
@@ -110,15 +110,15 @@
       "title": "Bishops at the White House",
       "began": "2026-10-22",
       "status": "escalating",
-      "latest": "Oct 22 12 bishops prayed over Trump in Oval Office (Golka hand on shoulder). Pillar: Heritage official organized (Heritage denies); NCRegister: WH Faith Office. USCCB not involved. Oct 25 Abp Grob apologized.",
-      "next": "More apologies?; USCCB plenary"
+      "latest": "Joensen (Des Moines) joins Grob in regret ('more shrewd and less simple'). WH (Taylor Rogers): 'never a greater president for Catholic Americans'. Pillar reconfirms Heritage's Mario Enzler invited bishops (Heritage denies); senior USCCB officials knew in advance. Naumann spox: assured no photos.",
+      "next": "USCCB plenary; nuncio Caccia address"
     },
     {
       "id": "cop31",
       "title": "COP31",
       "began": "2026-10-23",
       "status": "developing",
-      "latest": "Climate Home (Oct 23): provisional list 77 leaders (vs 116 COP28); G20 only Burnham, Lula, Albanese, Turkey. US withdrawing from UNFCCC. UNEP gap report Oct 21: 2.8C current policies.",
+      "latest": "Oct 28: Cyclone Arnab (Cat-4 equiv.) landfall near Kakinada, India. UN News: COP31 'test of trust'. Earlier: 77 leaders on provisional list; UNEP 2.8C.",
       "next": "COP31 opens Nov 9; leaders Nov 11-12"
     }
   ]
