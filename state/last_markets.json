@@ -1,15 +1,15 @@
 {
-  "as_of": "2026-10-27 close (Brent Dec $113.88 per CNBC; WTI Dec $99.90, S&P cash close, 10y ~4.99%, gold, DXY via HDFC Sky market wrap only; Henry Hub not confirmed, carried from Oct 23)",
-  "brent": 113.88,
-  "wti": 99.90,
-  "wti_contract": "Dec",
-  "henry_hub": 2.64,
-  "henry_hub_note": "carried from Oct 23; no confirmed Oct 27 close",
+  "as_of": "2026-10-29 close (Capp Notes Substack wrap: Brent, WTI, NYMEX front-month gas, S&P cash close, 10y, Dec gold, DXY)",
+  "brent": 114.88,
+  "wti": 102.00,
+  "wti_contract": "front month (per wrap)",
+  "henry_hub": 2.906,
+  "henry_hub_note": "NYMEX front-month natural gas future (not spot); prior issues carried 2.64 on a different basis",
   "us_diesel_retail": 6.352,
-  "us_diesel_retail_as_of": "2026-10-26 (EIA weekly via IndexBox)",
-  "sp500": 7722.60,
-  "us10y": 4.99,
-  "gold": 4075,
-  "gold_note": "per HDFC Sky wrap; contract basis unclear",
-  "dxy": 102.3
+  "us_diesel_retail_as_of": "2026-10-26 (EIA weekly via IndexBox); next release Nov 2",
+  "sp500": 7720.39,
+  "us10y": 4.98,
+  "gold": 4031.70,
+  "gold_note": "Dec futures per Capp Notes",
+  "dxy": 101.87
 }
