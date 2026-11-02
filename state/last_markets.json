@@ -1,15 +1,16 @@
 {
-  "as_of": "2026-10-29 close (Capp Notes Substack wrap: Brent, WTI, NYMEX front-month gas, S&P cash close, 10y, Dec gold, DXY)",
-  "brent": 114.88,
-  "wti": 102.00,
+  "as_of": "2026-10-30 close (Capp Notes Substack wrap: Brent Jan contract, WTI, NYMEX front-month gas, S&P cash close, 10y, Dec gold, DXY)",
+  "brent": 113.43,
+  "brent_note": "January contract; December expired Oct 30 (prior issue's 114.88 was December)",
+  "wti": 104.12,
   "wti_contract": "front month (per wrap)",
-  "henry_hub": 2.906,
-  "henry_hub_note": "NYMEX front-month natural gas future (not spot); prior issues carried 2.64 on a different basis",
+  "henry_hub": 2.883,
+  "henry_hub_note": "NYMEX front-month natural gas future (not spot)",
   "us_diesel_retail": 6.352,
-  "us_diesel_retail_as_of": "2026-10-26 (EIA weekly via IndexBox); next release Nov 2",
-  "sp500": 7720.39,
-  "us10y": 4.98,
-  "gold": 4031.70,
+  "us_diesel_retail_as_of": "2026-10-26 (EIA weekly); Nov 2 release due afternoon, not yet captured",
+  "sp500": 7580.07,
+  "us10y": 4.94,
+  "gold": 3898.90,
   "gold_note": "Dec futures per Capp Notes",
-  "dxy": 101.87
+  "dxy": 101.92
 }
