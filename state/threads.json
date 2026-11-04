@@ -1,53 +1,53 @@
 {
-  "updated": "2026-11-02",
+  "updated": "2026-11-04",
   "threads": [
     {
       "id": "iran-war",
       "title": "Iran war",
       "began": "2026-02-28",
       "status": "escalating",
-      "latest": "Day 248 (Nov 2). Rezaei (state TV Oct 31): read letter, not answered, tone 'completely changed'; 7 conditions stand. Araghchi: 'positive step', no plans to meet US. Iranian negotiators in Doha Nov 1 (The National). Rubio Oct 31 G20 Atlanta: no deadline/decision. Gulf officials to MSNOW: strikes as early as Nov 4. Khamenei 'geographically unrestricted response' order. Lt Gen Sylvia removed over leaks.",
-      "next": "Iran reply; Nov 4 window"
+      "latest": "Day 250 (Nov 4). US limited 'defensive' strike on Qeshm Nov 2 (IRGC SAM launcher per Euronews; WSJ: one of several unannounced). Iran delegation left Doha Sun; Qatari mediators in Tehran Mon night. Araghchi: Hormuz could reopen within 2 days if conditions met. Ghalibaf Nov 4: sent 'rational response'. Trump said 'No' to post-midterm strikes; 'Iran wants a settlement'.",
+      "next": "Content of Iran reply; US answer; retaliation for Qeshm"
     },
     {
       "id": "saudi-houthi",
       "title": "Saudi-Houthi war",
       "began": "2026-07",
       "status": "escalating",
-      "latest": "Oct 29 night 2 missiles at Riyadh intercepted (1 injured); Oct 30 drone downed over Makkah region (SPA), another over Riyadh. Houthis deny targeting Mecca. US ordered non-emergency staff out of Saudi; Air India suspends to Nov 14 (Gulf News live, Oct 31).",
-      "next": "Further departures; Egypt deployment"
+      "latest": "Nov 2 missile intercepted, US Mission alert; Nov 3 drone over Mecca region downed; Houthis claim 109 Saudi strikes/17 civilians killed (unverified); MEE reports Houthi cross-border raids. No confirmed Egyptian deployment.",
+      "next": "Confirm ground raids; Egypt"
     },
     {
       "id": "energy-crisis",
       "title": "Energy / diesel crisis",
       "began": "2026-03",
-      "status": "escalating",
-      "latest": "Oct 29 limpet-mine attack on tanker Louise 1 (UKMTO; first successful); IRGC multi-tanker claims unconfirmed. Oct 30 WTI 104.12 (+2.08%), Brent Jan 113.43 (Dec expired), gas 2.883. OPEC+ 7-country Nov 1: Dec output = Sept levels; next Nov 29. Diesel 6.352 (Oct 26).",
-      "next": "EIA diesel Nov 2; Nov 29 OPEC+"
+      "status": "developing",
+      "latest": "Nov 2 Brent 104.77 (-7.6%), WTI 96.46 (-7.3%) on deal hopes. Nov 3 Brent 103.60 (4-wk low), WTI 96.09. EIA diesel 6.292, gasoline 4.153 (Nov 2). OPEC+ Dec quotas 31.01M b/d, ~4.2M above output. Aramco East-West to 10M b/d by 2029.",
+      "next": "EIA inventories Nov 4; Nov 29 OPEC+"
     },
     {
       "id": "ukraine-peace",
       "title": "Ukraine war / peace track",
       "began": "2025",
-      "status": "developing",
-      "latest": "Oleshky 6-day truce: hundreds evacuated via Crimea-Anapa-Belarus (Al Jazeera/Vatican News Nov 1); expiry Sun eve or Mon, extension unconfirmed. Lantratova: 'mission has come to an end.' Zelensky asks further de-escalation steps.",
-      "next": "Talks later in Nov; shelling resumes?"
+      "status": "escalating",
+      "latest": "Oleshky truce ended Nov 1, not extended; 167 evacuated. Nov 2 Komyshuvakha aid-site strike 26-31 dead. Nov 3 Russia hit 20+ energy sites, Kyiv power/water out. Yaroslavl refinery fire. Abu Dhabi trilateral talks confirmed Nov 10-11 (Medinsky; Witkoff/Kushner).",
+      "next": "Abu Dhabi Nov 10-11"
     },
     {
       "id": "fed-labor",
       "title": "Fed / labor market",
       "began": "2026-09",
       "status": "developing",
-      "latest": "Oct 30 ECI Q3 +0.8% (in line), 3.4% y/y; Chicago PMI 55.3. S&P -1.82% to 7580.07 (worst since June 5); SOX -7.2%; 10y 4.94%; Dec gold 3898.90 (1-yr low). Dec hike odds ~76%.",
-      "next": "ISM Nov 2; Oct jobs Nov 6; Dec 9"
+      "latest": "ISM Oct 55.5 (prices 75.2); JOLTS Sept 7.52M. S&P Nov 3 7568.92; 10y 4.95%, ~4.91% Nov 4 a.m. after Dem sweep. Prediction markets ~78% Dec hike.",
+      "next": "Oct jobs Nov 6; FOMC Dec 8-9"
     },
     {
       "id": "midterms",
       "title": "US midterms",
       "began": "2026",
       "status": "developing",
-      "latest": "NYT/Siena (5,708 LV, Oct 23-Nov 1): Dems lead all 7 battleground Senate races; KS Hamilton 49-44 Marshall; IA Turek 48-47 Hinson. TX: Fox 49-49 to ActiVote/TPOR +4 Talarico. 52M+ early votes (UF Election Lab). Trump final rallies Nov 1 Dubuque, Salina. Senate 53-47 R.",
-      "next": "Nov 3 results"
+      "latest": "Dems won Senate and House (AP). Senate flips: TX Talarico, KS Hamilton, IA Turek, OH Brown, NC Cooper, SC (over Darline Graham), ME Jackson. GOP held FL (Moody), NE. AK, MS uncalled. House ~75 uncalled early Nov 4; CNBC desk >=245 D. Gov flips TX Hinojosa, OH Acton, GA Bottoms. Trump: 'not a hit on me', blames gas.",
+      "next": "AK ranked-choice; MS; final House; Jan 3 seating"
     },
     {
       "id": "brazil-election",
@@ -62,47 +62,47 @@
       "title": "SCOTUS October Term 2026",
       "began": "2026-10-05",
       "status": "developing",
-      "latest": "November sitting opens Nov 2 (Maxwell v. Dinis; Younge v. Fulton). St. Mary Catholic Parish v. Roy Nov 3: petitioners ask to overrule Smith; US + 21 GOP states back parishes, 18 Dem states back Colorado.",
-      "next": "Nov 3 argument"
+      "latest": "Nov 3 St. Mary v. Roy argued: majority seemed to favor parishes, no justice called to overrule Smith (SCOTUSblog). Nov 2 Maxwell v. Dinis, Younge v. Fulton argued.",
+      "next": "Decision by June"
     },
     {
       "id": "voting-rulings",
       "title": "Voting-law / executive-power rulings",
       "began": "2026-10-01",
       "status": "developing",
-      "latest": "Nov 1 Gleason dismissed DOJ Alaska suit (standing; no leave to amend); DOJ appealed within the hour. Oct 30 9th Cir 2-1 (Bennett, Sanchez; Bumatay dissent) again denied DOJ on ~20K CA ballots; DOJ expected to seek SCOTUS, no filing found.",
-      "next": "SCOTUS application; 9th Cir Alaska; DHS ads Nov 4"
+      "latest": "Nov 2 SCOTUS denied DOJ emergency app on ~20K CA ballots, no noted dissents. Alaska appeal pending at 9th Cir. 9th Cir en banc 6-5 reinstated stay of Thompson order on election-official threats (Nov 3). Walton denied NAACP bid on DOJ poll monitors (clerical only).",
+      "next": "9th Cir Alaska; super en banc; DHS ads ruling"
     },
     {
       "id": "us-ai-policy",
       "title": "US AI policy",
       "began": "2026-10-04",
       "status": "developing",
-      "latest": "Oct 30 Intel -28.6% (Q4 guide $15-16B vs ~$17.1B; PC shipments -12% 2026, -10% 2027 on memory costs). AMZN -1.4%, TTM FCF -$42.4B, capex ~$220B. Anthropic S-1 no price range; roadshow earliest ~Nov 10 (Implicator, unconfirmed).",
-      "next": "Amended S-1; roadshow"
+      "latest": "Anthropic S-1/A filed Nov 2, no price range (Investing.com: Q3 rev $16.96B, net loss $23.29B, ~$895B commitments; unverified by us). AMD Q3 rev $13.4B +45%. Palantir rev +96%. Heatmap: data centers lost on election night; 35+ local limits passed.",
+      "next": "Price range; roadshow ~Nov 9-10"
     },
     {
       "id": "amoris-review",
       "title": "Leo's health / pontificate",
       "began": "2026-10",
       "status": "developing",
-      "latest": "Oct 31 Georgia Martyrs (Pedro de Corpa + 4) beatified in Savannah, Cardinal Frank Leo legate, ~12K venue. Nov 1 Angelus: 'holiness not a privilege'; hopes Oleshky leads to peace initiatives. Nov prayer intention: proper use of wealth.",
-      "next": "Nov 2 Verano homily; Nov 6 trip"
+      "latest": "Nov 2 Verano All Souls Mass (~1,500), anti-war appeal. Vatican: clinically fit ~3 weeks after Oct 13 lung-cancer surgery. Trip Nov 6-17 Uruguay/Argentina/Peru, 9 Masses, will meet abuse survivors.",
+      "next": "Nov 5 Mass; Nov 6 departure"
     },
     {
       "id": "israel-election",
       "title": "Israeli election",
       "began": "2026-10",
       "status": "developing",
-      "latest": "No change: 53/48/19. Eisenkot rejects unity/rotation: 'only one prime minister, and it will be me.' Lieberman: no coalition with Netanyahu, Haredim or Arabs. Herzog: new vote 'must be avoided at all costs.' Eisenkot expected first mandate (Ynet).",
-      "next": "Nov 4 official; Herzog consultations"
+      "latest": "Nov 4 certified results handed to Herzog: 53/48/19, no fraud found; Herzog 'no clear winner'. Consultations start Nov 4 eve. Ynet expected recs: Eisenkot 48, Netanyahu 46; UTJ, Raam, Joint List undeclared. Lieberman backs Eisenkot. Knesset sworn Nov 10.",
+      "next": "Mandate; Nov 10"
     },
     {
       "id": "church-ripperger",
       "title": "Fr. Ripperger restriction",
       "began": "2026-10-19",
       "status": "developing",
-      "latest": "Not re-checked Oct 28-Nov 2.",
+      "latest": "No update found through Nov 4 (Oct 19 one-year pause on public speaking).",
       "next": "Archdiocese explanation"
     },
     {
@@ -110,16 +110,24 @@
       "title": "Bishops at the White House",
       "began": "2026-10-22",
       "status": "developing",
-      "latest": "Not re-checked Oct 28-Nov 2.",
-      "next": "USCCB plenary; nuncio address"
+      "latest": "No new item through Nov 4.",
+      "next": "USCCB plenary Nov 16-19 Baltimore"
     },
     {
       "id": "cop31",
       "title": "COP31",
       "began": "2026-10-23",
       "status": "developing",
-      "latest": "Arnab official toll 6 (ThePrint Oct 30; ToI reports 9). Kurum: finance central, ~$1T need. COP31 Nov 9-20 Antalya; Bowen leads negotiations.",
+      "latest": "No official US delegation expected (Climate Home, Oct 23). Cyclone Murasu landfall India Nov 3. Heatmap: Dems plan to restore wind/solar credits.",
       "next": "COP31 opens Nov 9"
+    },
+    {
+      "id": "midterm-world-reaction",
+      "title": "World reaction to US midterms",
+      "began": "2026-11-04",
+      "status": "developing",
+      "latest": "Al Jazeera roundup: UK 'seismic shift'; Sanchez: far right unravelling; Peskov: internal affair, hopes Trump peacemaking continues; China: domestic affair; Ghalibaf: 'Americans said NO TO WAR'.",
+      "next": "Kyiv reaction"
     }
   ]
 }
