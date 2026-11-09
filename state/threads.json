@@ -1,60 +1,60 @@
 {
-  "updated": "2026-11-06",
+  "updated": "2026-11-09",
   "threads": [
     {
       "id": "iran-war",
       "title": "Iran war",
       "began": "2026-02-28",
       "status": "escalating",
-      "latest": "Day 252 (Nov 6). Rezaei: US reply 'not convincing'; Hormuz shut until 7 conditions met; met Putin Nov 5. Qatar pushing 3-day confidence-building draft. Trump: 'locked and loaded', no immediate strike plan; 18 US troops killed; Vance: 'the reason we lost is the war'. UKMTO confirmed tanker hit N of Qatar; JMIC 4 attacks/96h; IRGC mine claims unverified. Exemptions for India/China/Iraq/Qatar ships. Massie to force Hegseth impeachment vote.",
-      "next": "Qatar plan; CENTCOM strike in lame duck?; Massie vote"
+      "latest": "Day 255 (Nov 9). Fri night 'minor' US strike on Qeshm air defenses; Sat US disabled blockade-running ship. Qatar 2-day framework (US steps day 1, Hormuz reopens day 2); Iran demands incl. sanctions relief, oil waivers, frozen funds, Iran-Oman lane, end war incl. Lebanon. Trump Sun: strikes 'highly unlikely' if deal; 38 bridges on target list. Rubio: demands 'not just unacceptable'. Araghchi: 'rain down hell'. Axios: CENTCOM ready.",
+      "next": "Trump/Vance-Qatar PM Nov 9"
     },
     {
       "id": "saudi-houthi",
       "title": "Saudi-Houthi war",
       "began": "2026-07",
       "status": "escalating",
-      "latest": "Nov 5 missile downed over Madinah region; Qatar/Kuwait/Bahrain/Jordan condemned; Houthis deny targeting it. Nov 6 two missiles at Najran intercepted. Al-Masirah: 7 killed in Saada (unverified). WSJ: Houthis demand $51B + recognition. No confirmed ground raids or Egyptian deployment.",
-      "next": "Saudi response to $51B demand"
+      "latest": "Nov 8: 2 ballistic + 2 cruise missiles at Riyadh intercepted; shrapnel hit Aramco admin building (minor). Saree claims 6 ops incl. Abqaiq, Khurais (unverified). Houthi health auth: Saudi strikes near Sanaa killed 33 (Nov 7). Coalition hit Sanaa launch platform. No update on $51B demand.",
+      "next": "Abqaiq/Khurais damage?; Saudi response"
     },
     {
       "id": "energy-crisis",
       "title": "Energy / diesel crisis",
       "began": "2026-03",
       "status": "developing",
-      "latest": "Nov 4 Brent 94.62 (-8.7%), WTI 88.12 (-8.3%) on midterm/peace bets; Nov 5 Brent 98.29, WTI 90.52 on tanker attacks. DOE loaned 300K bbl from NE heating-oil reserve. EIA wk to Oct 30: crude -0.9M to 409.8M; distillates -3.6M (13% below 5-yr). Gulf exports 17.1M b/d Oct (Vortexa). Nat gas ~3.00. EIA diesel 6.292 (Nov 2).",
-      "next": "EIA diesel Nov 9; Nov 29 OPEC+"
+      "latest": "Nov 6 Brent 98.32, WTI 90.83; Brent -16% on week (steepest since 2020). Nov 9 Asia Brent 96.67, WTI 89.87. JPM sees 1.4M b/d Oct surplus. Kirishi refinery fire (Ukrainian drone). Nat gas ~3.00. EIA diesel 6.292 (Nov 2).",
+      "next": "EIA diesel Nov 9 pm; Nov 29 OPEC+"
     },
     {
       "id": "ukraine-peace",
       "title": "Ukraine war / peace track",
       "began": "2025",
       "status": "escalating",
-      "latest": "Zelensky Nov 5: consolidate bipartisan US support; $16B undelivered; Patriots priority. Russia 128 drones Nov 4-5; DTEK 78 energy strikes since ~Nov 2. Ukraine hit Ryazan, Oryol refineries. Komyshuvakha toll >=43 (ISW). Abu Dhabi Nov 10-11 (Medinsky; Witkoff/Kushner; Umerov reported). China confirms talks on possible Xi-Putin-Trump at APEC Shenzhen Nov 18-19.",
-      "next": "Abu Dhabi Nov 10-11; APEC"
+      "latest": "Nov 7: 172 drones, 36 ballistic missiles at Kyiv region (4 missiles intercepted); 1 killed; Northern Bridge damaged; power/heat/water 'extremely difficult'. Russia delegation: Medinsky, Ryabkov, Galuzin, Kostyukov. Umerov leads Ukraine. Kremlin: security guarantees, no Europeans.",
+      "next": "Abu Dhabi Nov 10-11; APEC Nov 18-19"
     },
     {
       "id": "fed-labor",
       "title": "Fed / labor market",
       "began": "2026-09",
       "status": "developing",
-      "latest": "BoE hiked to 4% Nov 5 (8-1, Mann for 50bp). Dec Fed hike odds ~66-69% (from ~83%). ADP Oct +86K; claims fell. 10y 4.84% Nov 5. Jobs consensus +50K, 4.2% (Continuum).",
-      "next": "Oct jobs Nov 6 (published after issue); FOMC Dec 8-9"
+      "latest": "Oct payrolls +165K (vs ~59-65K), private +159K, Aug-Sep revised +84K, unemployment 4.1%. Dec hike odds ~77-79% (from ~67%). 10y 4.86% Nov 6.",
+      "next": "CPI Nov 10; FOMC Dec 8-9"
     },
     {
       "id": "midterms",
       "title": "US midterms",
       "began": "2026",
       "status": "developing",
-      "latest": "D >=54 Senate, R 44; AK (Peltola +~600, RCV likely, count by Nov 18, cert Nov 25) and MS (Colom +1,813, 96%) uncalled. House D 253, R 157, 25 uncalled (Nov 6). Johnson won't lead GOP in minority; Jordan, Scalise run; Jeffries for speaker. Thune stays. Trump blames candidates/media; will veto D bills.",
-      "next": "AK, MS calls; GOP leadership vote; Jan 3"
+      "latest": "AP Nov 8: House D 254, R 162, 19 uncalled; Boebert trails by ~3,200 (CO-4). MS Colom +~2,500 at 97% (absentees by Nov 10, cert Nov 13). AK Peltola +637 at 74%, static since Nov 4; RCV Nov 18. Massie Hegseth impeachment vote expected this week; Jeffries 'hard yes'. Miller replaced Wiles as CoS (starts Nov 9).",
+      "next": "MS cert Nov 13; AK Nov 18; Hegseth vote"
     },
     {
       "id": "scotus-ot2026",
       "title": "SCOTUS October Term 2026",
       "began": "2026-10-05",
       "status": "developing",
-      "latest": "No major orders Nov 4-6. Nov 6 conference; Nov 9 orders + Nielsen v. Watanabe (Bivens). St. Mary v. Roy argued Nov 3.",
+      "latest": "Nov 9: orders + Nielsen v. Watanabe (Bivens, prison nurse) and Hoffmann v. WBI Energy argued.",
       "next": "Decision by June"
     },
     {
@@ -62,39 +62,39 @@
       "title": "Voting-law / executive-power rulings",
       "began": "2026-10-01",
       "status": "developing",
-      "latest": "Nov 5 Judge Whitehead (W.D. Wash.) 14-day TRO bars DOJ/DHS demands on WA voter removals/ballots; PI hearing Nov 18. 9th Cir AK briefing: DOJ Dec 14, defendants Jan 11 (after certification). No DHS ads development.",
-      "next": "Nov 18 WA hearing; DOJ emergency app?"
+      "latest": "No new ruling found Nov 6-9. WA TRO in place; PI hearing Nov 18. 9th Cir AK briefing after certification.",
+      "next": "Nov 18 WA hearing"
     },
     {
       "id": "us-ai-policy",
       "title": "US AI policy",
       "began": "2026-10-04",
       "status": "escalating",
-      "latest": "Nov 5 AI selloff: S&P -4.4%, Nasdaq -5.5%, Nvidia -9.3%, AMD -17.3%, ~$3T lost, on data-center moratorium fears (Sanders 'National data center moratorium now'; Hinojosa). ~41 local measures, all but one for restrictions. OpenAI pledges to pay full power cost. Anthropic: no price range as of Nov 5; 22 banks; ticker ANT. Qualcomm FQ4 rev $10.4B.",
-      "next": "Anthropic price range/roadshow; Nvidia earnings"
+      "latest": "Anthropic roadshow reported to start week of Nov 9 (CNBC, The Information); listing possibly week of Nov 16; no price range as of Nov 8. FT: $80-100B at $1.25-1.75T; investors see $1-1.3T. Q3 rev ~$17B. Chips bounced ~4% Nov 6. Hinojosa permit moratorium pledge.",
+      "next": "Price-range amendment; Nvidia earnings"
     },
     {
       "id": "amoris-review",
       "title": "Leo's health / pontificate",
       "began": "2026-10",
       "status": "developing",
-      "latest": "Departed Rome Nov 6 07:05 for Montevideo; 12 days, 10 cities, ~40 addresses. Vatican: 'in great health'. Met Bob Dylan Nov 4. Bishops in VA/MO reacted to abortion ballot results (EWTN).",
-      "next": "Argentina Nov 8; Peru Nov 11"
+      "latest": "Uruguay Nov 6-8: universal health care 'in every society'; life at all stages; Paysandu Mass ~40K; youth vigil ~70K. Argentina Nov 8: Milei met him on tarmac, Casa Rosada; urged leaders to 'safeguard democracy'.",
+      "next": "BA Mass Nov 9; Peru Nov 11"
     },
     {
       "id": "israel-election",
       "title": "Israeli election",
       "began": "2026-10",
       "status": "developing",
-      "latest": "Consultations ended Nov 5: Eisenkot 67 recs (incl. Ra'am, Joint List), Netanyahu 46, UTJ none. Herzog to announce mandate Sun Nov 8. Netanyahu warns against Arab-Jewish coalition, alleges foreign money.",
-      "next": "Mandate Nov 8; Knesset Nov 10"
+      "latest": "Nov 8 Herzog gave Eisenkot the mandate (67 vs 46); 28 days + 14. Eisenkot: national emergency govt; conditions incl. Jewish & democratic state, Hamas terror. Netanyahu: Arab support 'national suicide'.",
+      "next": "Knesset Nov 10; Liberman terms"
     },
     {
       "id": "church-ripperger",
       "title": "Fr. Ripperger restriction",
       "began": "2026-10-19",
       "status": "developing",
-      "latest": "No update found through Nov 6.",
+      "latest": "No update found through Nov 9.",
       "next": "Archdiocese explanation"
     },
     {
@@ -102,7 +102,7 @@
       "title": "Bishops at the White House",
       "began": "2026-10-22",
       "status": "developing",
-      "latest": "No new item through Nov 6. USCCB agenda: AI task force, immigration, elections.",
+      "latest": "No new item through Nov 9.",
       "next": "USCCB plenary Nov 16-19"
     },
     {
@@ -110,16 +110,8 @@
       "title": "COP31",
       "began": "2026-10-23",
       "status": "developing",
-      "latest": "No US delegation; 19 House Dems to attend (Casten). 77 leaders on provisional list vs 116 at COP28. Electrification pledge Nov 10. Murasu: >=2 dead (Xinhua).",
-      "next": "Opens Nov 9"
-    },
-    {
-      "id": "midterm-world-reaction",
-      "title": "World reaction to US midterms",
-      "began": "2026-11-04",
-      "status": "developing",
-      "latest": "Zelensky: consolidate bipartisan support. Ghalibaf: 'we endorse this message'.",
-      "next": "Folded into other threads"
+      "latest": "Opened Nov 9; Kurum president, Bowen leads talks. 77 leaders on speakers' list (Azernews: 102 confirmed). NDCs ~6% below 2019 by 2035. Sponsor Koc/Tupras criticized. No US delegation.",
+      "next": "Leaders Nov 11-12; ends Nov 20"
     }
   ]
 }
