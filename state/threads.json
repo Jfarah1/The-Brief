@@ -1,133 +1,141 @@
 {
-  "updated": "2026-11-18",
+  "updated": "2026-11-20",
   "threads": [
     {
       "id": "iran-war",
       "title": "Iran war",
       "began": "2026-02-28",
       "status": "escalating",
-      "latest": "Day 264 (Nov 18). Nov 17 IRGC drones at Isa Air Base radar, Bahrain (3rd attack in 5 days; CENTCOM: all intercepted, no damage). US struck IRGC missile site on Qeshm (self-defense). Unconfirmed Iranian drone shootdown claims; Kuwait engaged drones, Iran claims Ali Al-Salem Patriot hits (unconfirmed). ADNOC vessel attacked in Hormuz: 1 missing, 11 injured; Oman evacuated 24 off Musandam. Araghchi-Albusaidi Muscat Nov 17, no Hormuz deal; Qatar mediating. CNN: Iran 'dirty bomb' planning intel, nothing imminent; Trump: 'pay a price'. Mohseni-Eje'i: 'will not retreat'.",
-      "next": "Shenzhen Nov 19; Dec 11"
+      "latest": "Day 266 (Nov 20). Axios: Trump weighing new offensive; Netanyahu pushing 4-7 day joint air campaign (Pickaxe Mtn, bridges, power, leadership). Trump: 'after January 1'; claims Iran 'looking at gas'/bio. Mossad (Gofman) CW claims, some US officials skeptical. Bahrain 3rd wave intercepted Nov 18; Iran struck Kuwait (first since Sept). 2 vs 3 carriers (reports conflict). Mediation stalled. Netanyahu: war 'unavoidable' (reported).",
+      "next": "Trump presser Nov 20; strike decision; IAEA calls"
     },
     {
       "id": "saudi-houthi",
       "title": "Saudi-Houthi war",
       "began": "2026-07",
       "status": "escalating",
-      "latest": "Nov 16 royal decree removed coalition cmdr Fahd bin Hamad Al-Salman; Ruwaili takes over. Houthis at Tur al-Bahah (Lahij), 60-85 km from Aden; reinforcements sent. Nov 17 coalition hit 60 targets (Houthis: 17 killed). Nov 18 two cruise missiles at Riyadh intercepted; Saree claims pumping stations (unconfirmed). flydubai/Etihad cancel Riyadh flights to Nov 27/30.",
-      "next": "Aden; Taiz/Jabal Sabr; pipeline damage?"
+      "latest": "Nov 19 Saudi authorities: Houthi attack hit Riyadh tower (Reuters: PIF HQ tower, several floors damaged, no injuries). Nov 18 two cruise missiles at Riyadh intercepted. Coalition told civilians to leave Hodeidah port; Houthis threaten all Saudi Red Sea ports incl Jeddah. Tur al-Bahah fighting, 60-80 km from Aden. Western officials: Saudis preparing for war into 2027.",
+      "next": "Hodeidah strike? Jeddah; Aden"
     },
     {
       "id": "energy-crisis",
       "title": "Energy / diesel crisis",
       "began": "2026-03",
       "status": "developing",
-      "latest": "Nov 16 WTI -3.6% (85.39) on Hormuz flows recovering; Nov 17 Brent 93.14 (+0.8%), WTI Dec 86.01. EIA diesel 5.937 (-19c), gas 3.805. Distillates 103.3 mb (Nov 6), below 5-yr. 13 Russian refineries hit since Nov 1 (Ilsky, Salavat). Houthis claim East-West pipeline stations. Saudi/UAE cut OSPs.",
-      "next": "EIA Nov 24; WTI Dec expiry; Nov 29 OPEC+"
+      "latest": "Nov 19 Brent Jan 91.98 (flat), WTI Dec 83.21 (lowest since Aug 26; expires Nov 20), WTI Jan 82.44. Wright: Hormuz flows record; Shenzhen declaration includes more refined-product supply. EIA wk to Nov 13: crude +3.4M to 417.8M, gasoline +5.2M, distillates +1.57M (~7% below 5-yr), util 95.7%. Gas storage +20 Bcf. HH ~3.16 (no settle). Russian refinery runs -~45% since late Oct (Reuters). Diesel 5.937 (Nov 16).",
+      "next": "EIA Nov 24; Nov 29 OPEC+"
     },
     {
       "id": "ukraine-peace",
       "title": "Ukraine war / peace track",
       "began": "2025",
       "status": "escalating",
-      "latest": "Nov 16-17 Flamingo/drone strikes collapsed a road span of Crimean Bridge; rail on one track. Russia MoD claims 2,049 drones/24h (inconsistent with later 1,441). Russia hit Kyiv's Northern/Southern bridges, 7+ killed. Ramstein Nov 17: Zelensky asks 40 F-16s; Denmark EUR645M. Berlin US-Europe-Ukraine talks + Coalition of Willing Nov 19. Swap up to 1,300, not done. Trump now says he'll raise Ukraine in Shenzhen; Peskov: Putin-Xi discussed Ukraine Nov 18.",
-      "next": "Berlin + Shenzhen Nov 19; swap"
+      "latest": "Nov 19 Berlin Coalition of Willing (Merz, Macron, Burnham, Zelensky, Witkoff, Kushner): asks winter energy ceasefire + Black Sea truce; Europeans to join future talks. Kushner: Russians 'comfortable' with Art 5-style guarantees; Ryabkov rejects 'quasi membership'. Putin in Shenzhen: 'we will not negotiate... We will respond.' Overnight Nov 20: 84 cruise + 27 ballistic missiles, 404 drones; 12 killed, 82 injured; Kyiv bridges, Zakhidnoukrainska substation; 2 Kh-101 + drone fell in Poland. Swap >1,000 per side expected in 1-2 weeks.",
+      "next": "Poland/NATO response; swap; next talks (UAE?)"
     },
     {
       "id": "fed-labor",
       "title": "Fed / inflation",
       "began": "2026-09",
-      "status": "developing",
-      "latest": "Oct retail sales +0.2% (cons +0.1), control +0.6, autos -1.6, real ~flat. Warsh Nov 16: 'hinge point'; AI services disinflation; no rate signal. Williams Nov 17: no 'dramatic action' (cools 50bp). Dec 25bp ~98%, 50bp ~10%. Oct FOMC held 3.75-4.00 with Cook, Hammack dissenting for hike. S&P 7,340.53 Nov 17 (lowest since late July). 10y ~5.10.",
-      "next": "Minutes Nov 18; Fed speakers Nov 19; FOMC Dec 8-9"
+      "status": "escalating",
+      "latest": "Oct minutes (Nov 18): hold a close call for some; nearly all see more hikes; a couple open to >25bp. Waller: 50bp Dec or signal Jan hike. Goolsbee Nov 19: 'borderline disturbingly high', all options. Housing starts 1.309M (+9.9%), permits -7.4%. Claims 203K, continuing 1.76M. Philly Fed 6.3, prices 58.2. S&P 7,175.83 Nov 19 (6th straight loss), Dow 49,097. 10y 5.04 (Treasury), ~4.98 Nov 20 AM. Dec hike ~90-98% priced.",
+      "next": "UMich Nov 20; FOMC Dec 8-9"
     },
     {
       "id": "midterms",
       "title": "US midterms",
       "began": "2026",
       "status": "developing",
-      "latest": "AP called AK Senate for Peltola Nov 17 (50.1%, ~99% counted; no RCV needed); Dems 56 seats. Sullivan won't concede before cert. 9th Cir appeal not expedited. Dunleavy probe open; leaves office Dec 7. NC-5: Foxx requested recount, Hubbard +~330, done by Nov 23; NC board Nov 24. TN-4: Broderick +~280, 600-700 provisionals. CO-4: no Boebert recount request yet (deadline Nov 25). AK-House goes to RCV.",
-      "next": "Cert Nov 25; NC-5 Nov 23; TN-4"
+      "latest": "NC-5 recount: 9 of 10 counties started by Nov 19; Hubbard 139,770 vs Foxx 139,439 (331); Watauga Foxx +2; Guilford 2+ days. TN-4 settled: DesJarlais conceded Nov 16 to Broderick (correction). AK: Sullivan not conceded. CO-4: our earlier framing questionable (Boebert trailed Laubacher by 3,069 as of Nov 6); nothing in window. Jeffries nominated speaker 251-11 Nov 18; floor Jan 3.",
+      "next": "NC-5 Nov 23; NC board Nov 24; AK cert Nov 25"
     },
     {
       "id": "scotus-ot2026",
       "title": "SCOTUS October Term 2026",
       "began": "2026-10-05",
       "status": "developing",
-      "latest": "Nov 16 orders: no grants; denied Trump v. Thakur (UC grant cuts; 9th Cir 1A ruling stands), Novotny v. Moore, Khatibi; CVSG in Taliban 9/11 cases. Conference this week: trans servicemembers, Carroll $83.3M, acting US attorneys. Ballroom petition pending; Cooper (D.D.C.) birthright II ruling pending. D. Mass. vacated DHS student duration rule Nov 16; another judge blocked DHS practical-training limits Nov 17.",
-      "next": "Nov 20 orders; Nov 30 args"
+      "latest": "No conference this week (correction); next private conference Dec 4 (trans servicemembers, Carroll, acting US attorneys). Nov 19 denied Overton, Dennes execution stays. Admin asked SCOTUS to halt order restoring Venezuelan TPS. M.D. Fla. Merryday Nov 19: Trump v. NYT/PRH partly survives MTD. D.D.C. arch TRO extended to Dec 3. D. Colo. ICE held in contempt (no sanction). Cooper birthright II ruling pending.",
+      "next": "Nov 30 args; Dec 4 conf; TPS app"
     },
     {
       "id": "voting-rulings",
       "title": "Voting-law / executive-power rulings",
       "began": "2026-10-01",
-      "status": "developing",
-      "latest": "W.D. Wash. (Whitehead) TRO (Nov 6, 14 days) bars DOJ forcing WA to set aside ~405 alleged noncitizen ballots; PI hearing Nov 18 (outcome not known at build); counties certify Nov 24, state Dec 3.",
-      "next": "Nov 18 ruling; Dec 3"
+      "status": "resolved",
+      "latest": "Plaintiffs withdrew PI motion Nov 16 (without prejudice) after feds said WA ballot set-aside demand 'has ended'; Nov 18 hearing did not happen. Counties certify Nov 24, state Dec 3.",
+      "next": "Dec 3 cert"
     },
     {
       "id": "us-ai-policy",
       "title": "US AI policy",
       "began": "2026-10-04",
       "status": "developing",
-      "latest": "Nvidia FQ3 rev $115.84B (+103%) vs 109.1 est; DC $107.6B; Q4 guide ~$130B ex-China; FY28 growth target 75%. Stock 153.49 Nov 17 (-1.7%), +3.7% premarket Nov 18; -24% month. Board won't reinstate Huang; Kress interim. DOJ leads Megaspeed probe (CNN). $118B guarantees tied to OpenAI Ohio. WSJ: Anthropic to price above $80 (~$1.5-1.6T), ~7x covered; pricing Nov 18, ANT trades Nov 19. Commerce interim rule: licenses for overseas data centers serving high-risk-country firms.",
-      "next": "IPO Nov 18-19; CEO search"
+      "latest": "Anthropic priced Nov 18 at $83 (above 70-78), 980M shares, ~$81B, largest IPO ever, ~6x covered, ~$1.5T fully diluted. ANT Nov 19 open $111.50, close $97.17 (+17.1%); Fortune ~$1.8T FD. Nvidia -3% Nov 18, ~-28% in Nov. Shenzhen: Trump/Xi want 'moderate regulations' on AI; no chip deal. Unconfirmed: Huang to testify House Dec 1.",
+      "next": "CEO search; China chip-rule response; Jan 10 truce"
     },
     {
       "id": "amoris-review",
       "title": "Leo's health / pontificate",
       "began": "2026-10",
       "status": "developing",
-      "latest": "Lima farewell Nov 16 (>1M). In-flight presser: surgery 'rather significant'; 'tumor was completely contained'; annual check-ups only. Latin Mass: 'No, not right now' on lifting TC. Married priests 'not the only solution'. Not ruling out US/Mexico 2027. Back in Rome Nov 17. Traditionalists (LifeSite, Montagna) critical. No new Sodalitium news.",
-      "next": "2027 travel; TC rescript"
+      "latest": "Nov 18 audience: abuse prevention 'a way of living out evangelical conversion'. Vatican upheld Charlotte bishop Martin's altar-rail/kneeler ban (Viola letter Aug 3, reported Nov 18; kneeling at reception still allowed). 10th China-deal bishop (Xiamen) Nov 18. No health news.",
+      "next": "Charlotte appeal to Signatura?; TC"
     },
     {
       "id": "israel-election",
       "title": "Israeli election",
       "began": "2026-10",
       "status": "developing",
-      "latest": "Nov 17 Kahana (Yashar) elected speaker 66-52 over Katz with Joint List + Ra'am; 9 deputies incl Tibi. Eisenkot bloc paused judicial-overhaul repeal until Nov 23 to end filibuster. Likud: 'eternal disgrace'. Court gave Likud 4 extra days to appeal (~Nov 22). Maariv: Netanyahu second in rotation 'cannot be ruled out'.",
-      "next": "Likud appeal ~Nov 22; Nov 23; Dec 6"
+      "latest": "Nov 18 preliminary readings: repeal judicial-selection/AG laws 63-47, media law 63-49; committee Nov 23. Levin: 'will return... greater force'. Bennett met Netanyahu 2+ hrs, allies blindsided. Eisenkot reportedly plans minority-government vote before Dec 6 (48 + 19 Arab vs 53); Liberman opposes; Bennett not 'at this stage'. Likud-Yashar talks round 2 Nov 22. Likud appeal deadline unconfirmed.",
+      "next": "Nov 22 talks; Nov 23; Dec 6"
     },
     {
       "id": "church-ripperger",
       "title": "Fr. Ripperger restriction",
       "began": "2026-10-19",
       "status": "developing",
-      "latest": "No update found through Nov 18 (Oct 19 one-year 'fast' from public speaking at Abp Golka's request).",
+      "latest": "No update found through Nov 20.",
       "next": "Archdiocese explanation"
     },
     {
       "id": "bishops-white-house",
       "title": "Bishops at the White House",
       "began": "2026-10-22",
-      "status": "developing",
-      "latest": "USCCB plenary Nov 17: Rhoades re-elected secretary 157-59; Hartmann gen sec; tight chair races (Conley, Joensen, Hying, Pham, Tylka, Vincke); $12.4M budget; message to Leo incl immigrants. Coakley: 'construction site of hope'. Joensen on Oval Office images: 'wish I had been more shrewd'. No Iran statement.",
-      "next": "Lectionary vote Nov 18; closes Nov 19"
+      "status": "resolved",
+      "latest": "Plenary closed Nov 19. Lectionary (Catholic American Bible) approved 196-5, needs Rome. Racial justice prayer day 180-15-7. Cahill: record detention, 200K+ children separated since 2025. Thomas vows to fight 2027 abortion expansion. No Iran statement.",
+      "next": "Rome confirmatio"
     },
     {
       "id": "cop31",
       "title": "COP31",
       "began": "2026-10-23",
-      "status": "developing",
-      "latest": "Nov 16 first draft (18 pp, 144 paras): accelerated fossil phase-out, subsidy phase-out, 35x35 electrification, developed net zero 2030, adaptation >=$120B/yr by 2035; Brazil roadmap only 'welcomed'. Arab Group, LMDC, Russia: 'red lines'. EU Hoekstra: 'shopping list', 'needs significant change'. Denmark 5th national fossil roadmap. EPA partial repeal effective Nov 16; 21-state D.C. Cir. challenge, no stay.",
-      "next": "Second draft; ends Nov 20"
+      "status": "escalating",
+      "latest": "Nov 19 second draft ('Antalya Declaration', 9 pp): dropped all fossil-fuel language, Brazil roadmap welcome, $120B adaptation number, electrification call; kept 35x35 (softer); acknowledges 1.5C overshoot. Panama threatens to block. Overrun expected past Nov 20.",
+      "next": "Final plenary"
     },
     {
       "id": "us-china-russia",
       "title": "US-China-Russia summitry",
       "began": "2026-11-13",
       "status": "developing",
-      "latest": "Nov 17 Quad Manila: maritime surveillance, 2027 patrol-aircraft exercise. Nov 18 Trump-Marcos 'very big trade deal' (no terms). Putin arrived Nov 17, Xi-Putin bilateral Nov 18. Trump landed Shenzhen Nov 18, Xi greeted on tarmac; may meet Kim. Trump-Xi bilateral Nov 19 12:45 local (10:45 PM CT Nov 18); trilateral 14:30 local; Kremlin preparing Trump-Putin meeting. Trump added Ukraine.",
-      "next": "Shenzhen Nov 19; G20 Florida Dec"
+      "latest": "Nov 19 Shenzhen trilateral (first ever, ~1-1.5 hr): 4-point 'Declaration on Peace' (UN reform; more refined-product supply; intl law incl official immunity, anti-ICC; nuclear-risk dialogue). No limits/timetable. Xi proposed regular exchanges + crisis channel. Trump-Putin ~40 min (Ukraine). Xinhua: Trump said US 'does not support Taiwan independence' (WH unconfirmed). '30-for-30' tariff deal ($30B). No Kim meeting. China drone-part export licensing Nov 18.",
+      "next": "Trump presser Nov 20; Jan 10 truce; G20 Florida Dec"
     },
     {
       "id": "dem-leadership",
       "title": "Senate Democratic leadership",
       "began": "2026-11",
       "status": "developing",
-      "latest": "Nov 16 Hirono for Schumer; Drop Site 16 Schumer / 10 VH / 23 undecided. Nov 17 Schumer: 'confident I have the votes', allies predict 40+. Examiner public tally 15-4. Slotkin won't back Schumer. VH runs on Iran war-funding ban in Dec 11 bill.",
+      "latest": "No new Senate tally in window (Schumer ~14-15 public vs VH 4-5; 28 needed). Jeffries nominated speaker 251-11.",
       "next": "Dec 1 vote"
+    },
+    {
+      "id": "oversight-fight",
+      "title": "Oversight fight",
+      "began": "2026-11-09",
+      "status": "escalating",
+      "latest": "Nov 18 Garcia preservation letters to 12-13 Trump allies/relatives (Vance, Don Jr., Eric, Kushner, Wiles, Miller, Noem, Blanche). Scharf Nov 9 letter: probes may be illegal; SDTX US Atty Reitz counter-demands to Garcia, Blumenthal, Slotkin, Warren. Patel skipped House Homeland threats hearing Nov 18; Garbarino (R) rebuke.",
+      "next": "January subpoenas"
     }
   ]
 }
