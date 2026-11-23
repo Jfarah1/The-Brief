@@ -1,100 +1,92 @@
 {
-  "updated": "2026-11-20",
+  "updated": "2026-11-23",
   "threads": [
     {
       "id": "iran-war",
       "title": "Iran war",
       "began": "2026-02-28",
       "status": "escalating",
-      "latest": "Day 266 (Nov 20). Axios: Trump weighing new offensive; Netanyahu pushing 4-7 day joint air campaign (Pickaxe Mtn, bridges, power, leadership). Trump: 'after January 1'; claims Iran 'looking at gas'/bio. Mossad (Gofman) CW claims, some US officials skeptical. Bahrain 3rd wave intercepted Nov 18; Iran struck Kuwait (first since Sept). 2 vs 3 carriers (reports conflict). Mediation stalled. Netanyahu: war 'unavoidable' (reported).",
-      "next": "Trump presser Nov 20; strike decision; IAEA calls"
+      "latest": "Day 269 (Nov 23). Trump Nov 20 presser: Iran wants deal not 'acceptable to me'; dirty-bomb plot a 'rumor'. Channel 12: 'not rushing'. Fox Nov 22: inclined to strike 'after the new year' if talks fail; blockade challengers 'at the bottom of the sea'. Nov 21 Iran hit Sitra (Bahrain) industrial site, 2 injured; IRGC claims 2 Patriot radars (unconfirmed). IRGC: 2 more tankers hit mines Nov 22; AJ: 25+ tankers hit since Nov 14; UKMTO 263 transits Nov 12-18 (-15%). Gharibabadi: diplomacy window 'still open'. Senate rejected war-powers 48-51 Nov 19.",
+      "next": "Blockade clash; Pentagon Shuaiba report; Qatar mediation"
     },
     {
       "id": "saudi-houthi",
       "title": "Saudi-Houthi war",
       "began": "2026-07",
       "status": "escalating",
-      "latest": "Nov 19 Saudi authorities: Houthi attack hit Riyadh tower (Reuters: PIF HQ tower, several floors damaged, no injuries). Nov 18 two cruise missiles at Riyadh intercepted. Coalition told civilians to leave Hodeidah port; Houthis threaten all Saudi Red Sea ports incl Jeddah. Tur al-Bahah fighting, 60-80 km from Aden. Western officials: Saudis preparing for war into 2027.",
-      "next": "Hodeidah strike? Jeddah; Aden"
+      "latest": "Nov 20 coalition 'special operation' on Hodeidah port (AJ: heaviest strikes of conflict); also Sanaa, Saada, Taiz. Saree: airlines avoid Saudi airspace, shippers leave Jeddah. Houthis claim Shuqaiq power station, Jazan port hits; coalition intercepted 2 + 3 missiles. Houthi media: 41 killed in 24h (unverified). Xinhua Nov 22: 5 dead. No Jeddah strike. Houthis ~60 km from Aden.",
+      "next": "Jeddah; Aden/Abyan"
     },
     {
       "id": "energy-crisis",
       "title": "Energy / diesel crisis",
       "began": "2026-03",
       "status": "developing",
-      "latest": "Nov 19 Brent Jan 91.98 (flat), WTI Dec 83.21 (lowest since Aug 26; expires Nov 20), WTI Jan 82.44. Wright: Hormuz flows record; Shenzhen declaration includes more refined-product supply. EIA wk to Nov 13: crude +3.4M to 417.8M, gasoline +5.2M, distillates +1.57M (~7% below 5-yr), util 95.7%. Gas storage +20 Bcf. HH ~3.16 (no settle). Russian refinery runs -~45% since late Oct (Reuters). Diesel 5.937 (Nov 16).",
-      "next": "EIA Nov 24; Nov 29 OPEC+"
+      "latest": "Nov 20 Brent Jan 92.57 (+0.6%, -3.4% wk, 3rd weekly drop), WTI Jan 83.41 (Dec expired 83.98). HH Dec ~3.41 (single source; CME snapshot ~3.47; expires Nov 25). Aramco raising Hormuz exports; Windward 5 tankers hit Nov 11-18. OPEC+ Nov 29 2027 quotas from capacity review. Diesel 5.937 (Nov 16), distillates ~7% below 5-yr. Russia refining -45%.",
+      "next": "EIA diesel Nov 24; EIA Nov 25; OPEC+ Nov 29; Brent Jan expiry Nov 30"
     },
     {
       "id": "ukraine-peace",
       "title": "Ukraine war / peace track",
       "began": "2025",
       "status": "escalating",
-      "latest": "Nov 19 Berlin Coalition of Willing (Merz, Macron, Burnham, Zelensky, Witkoff, Kushner): asks winter energy ceasefire + Black Sea truce; Europeans to join future talks. Kushner: Russians 'comfortable' with Art 5-style guarantees; Ryabkov rejects 'quasi membership'. Putin in Shenzhen: 'we will not negotiate... We will respond.' Overnight Nov 20: 84 cruise + 27 ballistic missiles, 404 drones; 12 killed, 82 injured; Kyiv bridges, Zakhidnoukrainska substation; 2 Kh-101 + drone fell in Poland. Swap >1,000 per side expected in 1-2 weeks.",
-      "next": "Poland/NATO response; swap; next talks (UAE?)"
+      "latest": "Poland: all 3 objects Nov 20 were Kh-101 (Nowy Lipowiec, Rudnik nad Sanem, Molodycz), no casualties; Gripen didn't fire; no Art 4, asked more Eastern Sentry. Rutte in Warsaw Nov 21 'grave violation'. NAC meets Nov 23. Trump: 'by mistake'. Nov 20 barrage 110+ missiles/400+ drones, 9+ killed. Zelensky: Patriot delays 'difficult to understand'. UK-Ukraine long-range drone deal Nov 21. Swap 1,200-1,300 not yet. No Kremlin response found to Poland.",
+      "next": "NAC outcome; swap; Patriots"
     },
     {
       "id": "fed-labor",
       "title": "Fed / inflation",
       "began": "2026-09",
       "status": "escalating",
-      "latest": "Oct minutes (Nov 18): hold a close call for some; nearly all see more hikes; a couple open to >25bp. Waller: 50bp Dec or signal Jan hike. Goolsbee Nov 19: 'borderline disturbingly high', all options. Housing starts 1.309M (+9.9%), permits -7.4%. Claims 203K, continuing 1.76M. Philly Fed 6.3, prices 58.2. S&P 7,175.83 Nov 19 (6th straight loss), Dow 49,097. 10y 5.04 (Treasury), ~4.98 Nov 20 AM. Dec hike ~90-98% priced.",
-      "next": "UMich Nov 20; FOMC Dec 8-9"
+      "latest": "Nov 20 S&P 6,910.39 (-3.7%, 7th straight loss, -8.6% wk, correction), Dow 48,147.33, Nasdaq 22,617.73 (-5.3%, worst week since Mar 2020), VIX 35.89. 10y 4.92, 2y 4.63. UMich final 51.5; 1y infl exp 3.7, 5-10y 3.3. Cook: 'larger rate increases may be required'. Bessent Nov 22: over-tightening 'policy mistake'. Dec hike >90% priced. Futures sharply higher Nov 23 AM.",
+      "next": "Williams Nov 23; PCE/GDP Nov 25; FOMC Dec 8-9"
     },
     {
       "id": "midterms",
       "title": "US midterms",
       "began": "2026",
       "status": "developing",
-      "latest": "NC-5 recount: 9 of 10 counties started by Nov 19; Hubbard 139,770 vs Foxx 139,439 (331); Watauga Foxx +2; Guilford 2+ days. TN-4 settled: DesJarlais conceded Nov 16 to Broderick (correction). AK: Sullivan not conceded. CO-4: our earlier framing questionable (Boebert trailed Laubacher by 3,069 as of Nov 6); nothing in window. Jeffries nominated speaker 251-11 Nov 18; floor Jan 3.",
-      "next": "NC-5 Nov 23; NC board Nov 24; AK cert Nov 25"
+      "latest": "NC-5: recount done Nov 20; Hubbard by 330; Foxx conceded Nov 22 (plans 2028). AK: DOJ dropped civil suit ('moot'); criminal probe into Peltola campaign/DSCC over spoiler recruitment (they deny); Dunleavy 'enough smoke'; certification Nov 25, Sullivan 10 days to contest. Jeffries floor vote Jan 3.",
+      "next": "NC cert Nov 24; AK cert Nov 25"
     },
     {
       "id": "scotus-ot2026",
       "title": "SCOTUS October Term 2026",
       "began": "2026-10-05",
       "status": "developing",
-      "latest": "No conference this week (correction); next private conference Dec 4 (trans servicemembers, Carroll, acting US attorneys). Nov 19 denied Overton, Dennes execution stays. Admin asked SCOTUS to halt order restoring Venezuelan TPS. M.D. Fla. Merryday Nov 19: Trump v. NYT/PRH partly survives MTD. D.D.C. arch TRO extended to Dec 3. D. Colo. ICE held in contempt (no sanction). Cooper birthright II ruling pending.",
-      "next": "Nov 30 args; Dec 4 conf; TPS app"
-    },
-    {
-      "id": "voting-rulings",
-      "title": "Voting-law / executive-power rulings",
-      "began": "2026-10-01",
-      "status": "resolved",
-      "latest": "Plaintiffs withdrew PI motion Nov 16 (without prejudice) after feds said WA ballot set-aside demand 'has ended'; Nov 18 hearing did not happen. Counties certify Nov 24, state Dec 3.",
-      "next": "Dec 3 cert"
+      "latest": "No orders Nov 19-23. Correction: SG withdrew Venezuelan TPS application Nov 19. Nov 20 admin petitioned SCOTUS on EPA $16B climate grants. Nov 20 Brinkema (E.D. Va.) bench injunction on arch (no end date); Chutkan TRO to Dec 3; DOJ to appeal. Trump v. NYT: defendants 28 days to answer. Cooper birthright II pending. Dec sitting: Nov 30 Crowther, Wassily; Dec 2 AR-15 (Viramontes); Dec 8 RNC v. Mi Familia Vota; Dec 9 DHS v. D.V.D.",
+      "next": "Nov 30 args; Dec 3 TRO; Dec 4 conf"
     },
     {
       "id": "us-ai-policy",
       "title": "US AI policy",
       "began": "2026-10-04",
       "status": "developing",
-      "latest": "Anthropic priced Nov 18 at $83 (above 70-78), 980M shares, ~$81B, largest IPO ever, ~6x covered, ~$1.5T fully diluted. ANT Nov 19 open $111.50, close $97.17 (+17.1%); Fortune ~$1.8T FD. Nvidia -3% Nov 18, ~-28% in Nov. Shenzhen: Trump/Xi want 'moderate regulations' on AI; no chip deal. Unconfirmed: Huang to testify House Dec 1.",
-      "next": "CEO search; China chip-rule response; Jan 10 truce"
+      "latest": "ANT Nov 20 close $88.91 (-8.5%), low $83.05; +4% premarket Nov 23. NVDA -14% Nov 20 to $125.53 (52-wk low), AMD -13%. Bessent Face the Nation Nov 22: Huang 'on the outside now'; Nvidia must answer on shell companies by Nov 25. Bessent Nov 20: 'proper chip restrictions are in place'. HFAC: 879,868 chips licensed to China-linked firms. Huang House interviews Dec 1 (public vs closed disputed); Teter Dec 2.",
+      "next": "Nov 25 Treasury deadline; Dec 1"
     },
     {
       "id": "amoris-review",
       "title": "Leo's health / pontificate",
       "began": "2026-10",
       "status": "developing",
-      "latest": "Nov 18 audience: abuse prevention 'a way of living out evangelical conversion'. Vatican upheld Charlotte bishop Martin's altar-rail/kneeler ban (Viola letter Aug 3, reported Nov 18; kneeling at reception still allowed). 10th China-deal bishop (Xiamen) Nov 18. No health news.",
-      "next": "Charlotte appeal to Signatura?; TC"
+      "latest": "Nov 22 Christ the King Angelus: judgment is salvation; peace 'without delay' (no conflicts named); PNG drought; joined poor lunch. Nov 21 Space Forum: tech risks 'enormous'. Bonino OP Theologian of Papal Household. Muller: synod text magisterial claim 'verges on heresy'. Charlotte ruling criticism continues (Catholic Herald). CNEWA audience unconfirmed. No health news.",
+      "next": "Advent Nov 29; Dec 2 audience"
     },
     {
       "id": "israel-election",
       "title": "Israeli election",
       "began": "2026-10",
       "status": "developing",
-      "latest": "Nov 18 preliminary readings: repeal judicial-selection/AG laws 63-47, media law 63-49; committee Nov 23. Levin: 'will return... greater force'. Bennett met Netanyahu 2+ hrs, allies blindsided. Eisenkot reportedly plans minority-government vote before Dec 6 (48 + 19 Arab vs 53); Liberman opposes; Bennett not 'at this stage'. Likud-Yashar talks round 2 Nov 22. Likud appeal deadline unconfirmed.",
-      "next": "Nov 22 talks; Nov 23; Dec 6"
+      "latest": "Netanyahu 10-pt offer: full term, no state Oct 7 inquiry. Nov 22 Likud-Yashar 4+ hrs, no deal; dispute over who appoints inquiry. Next round Nov 23. Kan: Eisenkot may declare coalition at 'surprise timing', minority govt w/ abstentions. Golan: end 'deceitful' talks. Inquiry bill prelim vote ~Nov 25.",
+      "next": "Nov 23 talks; Nov 25 vote; Dec 6"
     },
     {
       "id": "church-ripperger",
       "title": "Fr. Ripperger restriction",
       "began": "2026-10-19",
       "status": "developing",
-      "latest": "No update found through Nov 20.",
+      "latest": "No update found through Nov 23.",
       "next": "Archdiocese explanation"
     },
     {
@@ -109,33 +101,41 @@
       "id": "cop31",
       "title": "COP31",
       "began": "2026-10-23",
-      "status": "escalating",
-      "latest": "Nov 19 second draft ('Antalya Declaration', 9 pp): dropped all fossil-fuel language, Brazil roadmap welcome, $120B adaptation number, electrification call; kept 35x35 (softer); acknowledges 1.5C overshoot. Panama threatens to block. Overrun expected past Nov 20.",
-      "next": "Final plenary"
+      "status": "resolved",
+      "latest": "Collapsed late Nov 22 (local) with no cover decision after ~2 days overtime; first no-deal COP since 2009. Objectors: EU, Panama, Marshall Islands, Norway, Vanuatu. Kurum: 'these decisions have not been adopted'. Electrification pledge outside process (90+ or 150+). COP32 Addis Ababa 2027.",
+      "next": "COP32 2027"
     },
     {
       "id": "us-china-russia",
       "title": "US-China-Russia summitry",
       "began": "2026-11-13",
       "status": "developing",
-      "latest": "Nov 19 Shenzhen trilateral (first ever, ~1-1.5 hr): 4-point 'Declaration on Peace' (UN reform; more refined-product supply; intl law incl official immunity, anti-ICC; nuclear-risk dialogue). No limits/timetable. Xi proposed regular exchanges + crisis channel. Trump-Putin ~40 min (Ukraine). Xinhua: Trump said US 'does not support Taiwan independence' (WH unconfirmed). '30-for-30' tariff deal ($30B). No Kim meeting. China drone-part export licensing Nov 18.",
-      "next": "Trump presser Nov 20; Jan 10 truce; G20 Florida Dec"
+      "latest": "Nov 20 presser: trilateral 'primarily on Ukraine'; 'joint guardrails' on AI with Xi; threat to tax US firms building data centers abroad; 'very comprehensive deal with China'. Taiwan not mentioned; Xinhua's Taiwan line still unconfirmed by US. Truce still expires Jan 10.",
+      "next": "Jan 10 truce; strategic-stability plan"
     },
     {
       "id": "dem-leadership",
       "title": "Senate Democratic leadership",
       "began": "2026-11",
       "status": "developing",
-      "latest": "No new Senate tally in window (Schumer ~14-15 public vs VH 4-5; 28 needed). Jeffries nominated speaker 251-11.",
+      "latest": "Trump Truth Social Nov 22: 'very hard for me to work with Chuck Schumer'. Drop Site through Nov 21: Schumer 16, Van Hollen 9, 30 undecided (28 needed). Ossoff, Warren, Hickenlooper, Kaine undecided; Slotkin for VH.",
       "next": "Dec 1 vote"
     },
     {
       "id": "oversight-fight",
       "title": "Oversight fight",
       "began": "2026-11-09",
-      "status": "escalating",
-      "latest": "Nov 18 Garcia preservation letters to 12-13 Trump allies/relatives (Vance, Don Jr., Eric, Kushner, Wiles, Miller, Noem, Blanche). Scharf Nov 9 letter: probes may be illegal; SDTX US Atty Reitz counter-demands to Garcia, Blumenthal, Slotkin, Warren. Patel skipped House Homeland threats hearing Nov 18; Garbarino (R) rebuke.",
-      "next": "January subpoenas"
+      "status": "developing",
+      "latest": "No major new development Nov 20-23. Reitz letters' deadline 6pm ET Nov 23 (Garcia, reportedly Warren).",
+      "next": "Reitz deadline response; January"
+    },
+    {
+      "id": "funding-dec11",
+      "title": "Government funding / White House-Congress",
+      "began": "2026-11-20",
+      "status": "developing",
+      "latest": "Funding runs out Dec 11. House passed 3 of 12 bills, Senate none; Senate GOP expects CR. Democrats won't fund Iran war but backing off shutdown (Semafor). Trump Nov 20: Vance critique 'very accurate'; would 'absolutely' start war again; veto threats; Miller chief of staff.",
+      "next": "Dec 11"
     }
   ]
 }
