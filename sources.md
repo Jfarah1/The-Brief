@@ -7,6 +7,34 @@ Mainstream (counts against the 50% budget): US/UK national legacy newspapers (NY
 
 Everything else counts as **non-mainstream**: international outlets, independent and Substack publications, trade press, think tanks, NGOs, primary sources (court filings, central-bank statements, Vatican documents), and state media. State media counts as non-mainstream but must always be labeled as state media.
 
+## Government, Congress and policy (core beat)
+| Outlet | Lean / note |
+|---|---|
+| congress.gov / GovTrack | Bill text and status (primary) |
+| Federal Register / whitehouse.gov | Executive orders, rules (primary) |
+| supremecourt.gov / CourtListener | Opinions, orders, dockets (primary) |
+| Roll Call | Congress-focused, center |
+| Punchbowl News | Congress insider (mostly paywalled) |
+| Ballotpedia | Nonpartisan reference |
+| Lawfare | National security law, center-left |
+| The Dispatch / National Review | Right-of-center policy analysis |
+| Vox / The American Prospect | Left-of-center policy analysis |
+| Cato Institute / Heritage Foundation | Libertarian / conservative think tanks |
+| Brookings / Center for American Progress | Center-left / progressive think tanks |
+| **RAND Corporation** (rand.org) | Nonpartisan research; heavy US government funding. Use for war and defense, AI, healthcare, crypto and financial, and social media policy, **only when it adds real expert context** |
+| CSIS / Council on Foreign Relations | Foreign policy, establishment center |
+
+## Priority policy areas
+| Area | Outlets |
+|---|---|
+| Healthcare | KFF Health News (nonpartisan), STAT (health/biotech), Paragon Health Institute (right), Health Affairs |
+| Crypto | CoinDesk, The Block, Decrypt, Blockworks; Molly White's Web3 Is Going Great (skeptic) |
+| Social media / tech policy | Techdirt (free-speech, left-libertarian), Platformer, The Verge policy desk, Reason (libertarian), FIRE |
+| AI policy | Import AI, Lawfare AI section, AI Snake Oil, Marginal Revolution, RAND |
+| Rates / Fed | Fed statements and minutes (primary), Calculated Risk, Wolf Street, Noahpinion |
+| Oil / energy markets | OilPrice.com, Rigzone, Doomberg, EIA (primary) |
+| War / defense | War on the Rocks, Responsible Statecraft, Breaking Defense, Kyiv Independent, Times of Israel, RAND |
+
 ## International
 | Outlet | Lean / note |
 |---|---|
@@ -70,7 +98,7 @@ Everything else counts as **non-mainstream**: international outlets, independent
 | Washington Legal Foundation / Federalist Society | Conservative / pro-business |
 | Court filings and opinions | Primary |
 
-## Environment and climate (pair these)
+## Environment and climate (only when it becomes a policy or court fight)
 | Outlet | Lean |
 |---|---|
 | Carbon Brief | Climate science, mainstream-consensus |
@@ -92,7 +120,7 @@ Everything else counts as **non-mainstream**: international outlets, independent
 | Marginal Revolution | Pro-innovation |
 | AI Snake Oil / Gary Marcus | Skeptic |
 
-## The Catholic Church (pair right with left)
+## The Catholic Church (big events only; pair right with left)
 | Outlet | Lean |
 |---|---|
 | The Pillar | Center-right, investigative, canon-law expertise |

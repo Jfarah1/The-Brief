@@ -1,22 +1,11 @@
 {
-  "as_of": "2026-11-20 close (Brent via EnergyNow/FinanceFeeds; WTI Jan via Yahoo/Investing; S&P via AP; 10y Treasury par curve; gold GoldPrice.org (other provider 3538); DXY Investing.com only; nat gas single secondary source)",
+  "as_of": "2026-11-20 close (Brent via EnergyNow/FinanceFeeds; WTI Jan via Yahoo/Investing; S&P via AP; 10y Treasury par curve; gold GoldPrice.org (other provider 3538); DXY Investing.com only; nat gas single secondary source) | NOTE: tile set changed Nov 24, 2026. Bitcoin, Ethereum and fed funds have no prior value, so show them without a delta this once.",
   "brent": 92.57,
-  "brent_note": "January contract settlement Nov 20; Feb ~89.95; Jan expires Nov 30",
   "wti": 83.41,
-  "wti_contract": "January (Dec expired Nov 20 at 83.98)",
-  "henry_hub": 3.41,
-  "henry_hub_note": "December contract, Longbridge single source; CME snapshot ~3.466; expires Nov 25 \u2014 compare Wednesday against January if rolled",
-  "us_diesel_retail": 5.937,
-  "us_diesel_retail_as_of": "2026-11-16 (EIA weekly; next Nov 24)",
-  "us_gasoline_retail": 3.805,
-  "us_gasoline_note": "EIA regular, week of Nov 16",
   "sp500": 6910.39,
-  "dow": 48147.33,
   "nasdaq": 22617.73,
   "us10y": 4.92,
-  "us10y_note": "Treasury par curve Nov 20; 2y 4.63",
-  "gold": 3524.8,
-  "gold_note": "Spot Nov 20 (GoldPrice.org); alt settle 3538.11",
-  "dxy": 103.81,
-  "dxy_note": "Nov 20 (Investing.com only)"
+  "bitcoin": null,
+  "ethereum": null,
+  "fed_funds": null
 }

@@ -179,3 +179,13 @@ td.num { font-variant-numeric: tabular-nums; white-space: nowrap; }
 
 footer { border-top: 3px double var(--ink); margin-top: 48px; padding-top: 18px; padding-bottom: 48px; font-size: 13px; color: var(--ink-3); }
 footer a { color: var(--ink-2); }
+
+/* Policy tracker (added Nov 2026) */
+.stage { display: inline-block; font-size: 10.5px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; padding: 2px 7px; border-radius: 4px; white-space: nowrap; border: 1px solid currentColor; }
+.stage.introduced, .stage.committee { color: var(--ink-3); }
+.stage.passed { color: var(--tag-dev); }
+.stage.signed { color: var(--paper); background: var(--indep); border-color: var(--indep); }
+.stage.eo, .stage.rule { color: var(--side-a); }
+.stage.blocked { color: var(--tag-esc); }
+.stage.dead { color: var(--ink-3); text-decoration: line-through; }
+.pill.priority { background: color-mix(in srgb, var(--accent) 14%, transparent); color: var(--accent); font-weight: 600; }
