@@ -38,8 +38,8 @@
       "title": "Fed / inflation",
       "began": "2026-09",
       "status": "escalating",
-      "latest": "Nov 23 S&P +4.7% to 7,237.17, Nasdaq +6.5% (best since Apr 2025) on Huang return; Nov 24 S&P 7,201.09 (-0.5%), Nasdaq 23,733.54 (-1.5%), Dow 50,018.70 (first >50k). Nov 25 futures sharply lower. 10y 4.91, 2y 4.63. Williams Nov 23: inflation 'too high', won't rule out consecutive moves. CME ~98% Dec 25bp hike. Waller: 50bp on table. CORRECTION: Cook 'larger hikes' quote unverified. Fed funds 3.75-4.00. Fed chair Warsh. BTC <60k, record ETF outflows ~$4.7B. PCE consensus 3.8/3.2.",
-      "next": "PCE/GDP Nov 25 (fill in); Beige Book; FOMC Dec 8-9"
+      "latest": "Nov 23 S&P +4.7% to 7,237.17, Nasdaq +6.5% (best since Apr 2025) on Huang return; Nov 24 S&P 7,201.09 (-0.5%), Nasdaq 23,733.54 (-1.5%), Dow 50,018.70 (first >50k). Nov 25 futures sharply lower. 10y 4.91, 2y 4.63. Williams Nov 23: inflation 'too high', won't rule out consecutive moves. CME ~98% Dec 25bp hike. Waller: 50bp on table. CORRECTION: Cook 'larger hikes' quote unverified. Fed funds 3.75-4.00. Fed chair Warsh. BTC <60k, record ETF outflows ~$4.7B. Oct PCE (BEA Nov 25): headline +0.3% m/m, 3.8% y/y; core +0.3% m/m, 3.3% y/y (above 3.2% consensus); income +0.7%, real spending slightly negative. No Q3 GDP revision found on BEA list.",
+      "next": "Beige Book Nov 25; FOMC Dec 8-9"
     },
     {
       "id": "midterms",
