@@ -1,11 +1,11 @@
 {
-  "as_of": "2026-11-20 close (Brent via EnergyNow/FinanceFeeds; WTI Jan via Yahoo/Investing; S&P via AP; 10y Treasury par curve; gold GoldPrice.org (other provider 3538); DXY Investing.com only; nat gas single secondary source) | NOTE: tile set changed Nov 24, 2026. Bitcoin, Ethereum and fed funds have no prior value, so show them without a delta this once.",
-  "brent": 92.57,
-  "wti": 83.41,
-  "sp500": 6910.39,
-  "nasdaq": 22617.73,
-  "us10y": 4.92,
-  "bitcoin": null,
-  "ethereum": null,
-  "fed_funds": null
+  "as_of": "2026-11-24 close (Brent/WTI Jan settle via CNBC; S&P/Nasdaq AP tables via La Nacion; 10y Treasury par curve). Bitcoin/Ethereum at 6:45 AM ET Nov 25 via Fortune. Fed funds target range 3.75-4.00 (upper bound stored).",
+  "brent": 91.4,
+  "wti": 82.05,
+  "sp500": 7201.09,
+  "nasdaq": 23733.54,
+  "bitcoin": 58564.22,
+  "ethereum": 1640.88,
+  "us10y": 4.91,
+  "fed_funds": "3.75-4.00"
 }
