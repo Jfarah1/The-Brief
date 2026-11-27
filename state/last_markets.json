@@ -1,11 +1,11 @@
 {
-  "as_of": "2026-11-24 close (Brent/WTI Jan settle via CNBC; S&P/Nasdaq AP tables via La Nacion; 10y Treasury par curve). Bitcoin/Ethereum at 6:45 AM ET Nov 25 via Fortune. Fed funds target range 3.75-4.00 (upper bound stored).",
-  "brent": 91.4,
-  "wti": 82.05,
-  "sp500": 7201.09,
-  "nasdaq": 23733.54,
-  "bitcoin": 58564.22,
-  "ethereum": 1640.88,
-  "us10y": 4.91,
+  "as_of": "2026-11-25 close (Brent/WTI Jan settle via Xinhua/The Star; S&P/Nasdaq AP tables via La Nacion; 10y Treasury par curve). Bitcoin/Ethereum at 12:18 UTC Nov 27 via CoinGecko. Fed funds 3.75-4.00. Brent ~96-97 ICE early Nov 27 (Trading Economics CFD, not a settle).",
+  "brent": 94.61,
+  "wti": 83.68,
+  "sp500": 7182.78,
+  "nasdaq": 23585.8,
+  "bitcoin": 61600,
+  "ethereum": 1721,
+  "us10y": 4.85,
   "fed_funds": "3.75-4.00"
 }
